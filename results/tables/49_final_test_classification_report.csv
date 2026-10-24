@@ -1,0 +1,6 @@
+final_model_name,final_predictor_set,evaluation_set,row_type,class_label,class_name,precision,recall,f1_score,support
+Logistic Regression,Set B - Statistically selected predictors,held_out_test_set,class,0.0,non_high_tb_burden,0.9545454545454546,0.75,0.84,28
+Logistic Regression,Set B - Statistically selected predictors,held_out_test_set,class,1.0,high_tb_burden,0.5333333333333333,0.8888888888888888,0.6666666666666666,9
+Logistic Regression,Set B - Statistically selected predictors,held_out_test_set,average,,macro avg,0.7439393939393939,0.8194444444444444,0.7533333333333333,37
+Logistic Regression,Set B - Statistically selected predictors,held_out_test_set,average,,weighted avg,0.8520884520884521,0.7837837837837838,0.7978378378378378,37
+Logistic Regression,Set B - Statistically selected predictors,held_out_test_set,overall,,accuracy,,,0.7837837837837838,37

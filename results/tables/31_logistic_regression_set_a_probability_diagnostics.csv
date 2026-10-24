@@ -1,0 +1,3 @@
+dataset,min_predicted_probability,q1_predicted_probability,median_predicted_probability,q3_predicted_probability,max_predicted_probability,mean_predicted_probability,std_predicted_probability,probabilities_below_or_equal_0_001,probabilities_above_or_equal_0_999,probabilities_below_or_equal_0_000001,probabilities_above_or_equal_0_999999
+train,0.0,3.293315917939113e-294,6.0935853802760985e-139,0.7497393596362134,1.0,0.2534268189372284,0.4364567375237416,109,37,101,30
+test,0.0,3.728570279449257e-228,2.744813612501208e-157,7.699315498867618e-29,1.0,0.18918918918918912,0.39706127695565724,30,7,30,7

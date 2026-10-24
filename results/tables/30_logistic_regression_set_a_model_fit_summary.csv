@@ -1,0 +1,31 @@
+item,value
+Model,Ordinary Logistic Regression - Set A
+Predictor set,Set A - all valid standardized predictors before Spearman pruning
+Model role,Comparison model
+Model type,Statsmodels Logit
+Regularization used,No
+Class weighting used,No
+Training input,X_train_logreg_set_a
+Test set used for fitting,No
+Target positive class,high_tb_burden = 1
+Number of training samples,146
+Number of predictors,46
+Number of parameters including intercept,47
+Intercept included,Yes
+Optimization method,lbfgs
+Maximum iterations,3000
+Converged,True
+Iterations reported by optimizer,57
+Log-likelihood,-0.001743822948393703
+Null log-likelihood,-82.64568483938737
+McFadden pseudo R-squared,0.9999789000121206
+AIC,94.00348764589678
+BIC,234.2329988661886
+Degrees of freedom model,46.0
+Degrees of freedom residuals,99.0
+Design matrix rank,47
+Design matrix columns,47
+Design matrix full rank,True
+Design matrix condition number,141.0466804170495
+Fit warnings captured,"overflow encountered in exp | overflow encountered in exp | overflow encountered in exp | overflow encountered in exp | overflow encountered in exp | overflow encountered in exp | overflow encountered in exp | overflow encountered in exp | overflow encountered in exp | overflow encountered in exp | overflow encountered in exp | overflow encountered in exp | overflow encountered in exp | overflow encountered in exp | overflow encountered in exp | overflow encountered in exp | overflow encountered in exp | overflow encountered in exp | overflow encountered in exp | Inverting hessian failed, no bse or cov_params available"
+Coefficient interpretation caution,Set A contains many predictors and may include multicollinearity. Coefficient-level interpretation should be more cautious than for Set B.

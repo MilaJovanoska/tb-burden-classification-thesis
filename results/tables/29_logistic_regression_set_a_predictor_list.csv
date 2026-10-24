@@ -1,0 +1,47 @@
+predictor_number,feature
+1,Calcium supply - Cereals and their products
+2,Calcium supply - Milk and milk products
+3,"Calcium supply - Pulses, seeds and nuts and their products"
+4,Calcium supply - Vegetables and their products
+5,Energy supply - Cereals and their products
+6,Energy supply - Fats and oils
+7,Energy supply - Meat and meat products
+8,"Energy supply - Roots, tubers, plantains and their products"
+9,Energy supply - Sweets and sugars
+10,Iron supply - Cereals and their products
+11,Iron supply - Meat and meat products
+12,"Iron supply - Pulses, seeds and nuts and their products"
+13,"Iron supply - Roots, tubers, plantains and their products"
+14,Iron supply - Vegetables and their products
+15,Protein supply - Cereals and their products
+16,"Protein supply - Fish, shellfish and their products"
+17,Protein supply - Meat and meat products
+18,Protein supply - Milk and milk products
+19,"Protein supply - Pulses, seeds and nuts and their products"
+20,"Selenium supply - Fish, shellfish and their products"
+21,"Total monounsaturated fatty acids supply - Fish, shellfish and their products"
+22,"Total saturated fatty acids supply - Fish, shellfish and their products"
+23,Vitamin A supply (retinol activity equivalents) - Fats and oils
+24,Vitamin A supply (retinol activity equivalents) - Meat and meat products
+25,Vitamin A supply (retinol activity equivalents) - Milk and milk products
+26,"Vitamin A supply (retinol activity equivalents) - Roots, tubers, plantains and their products"
+27,Vitamin A supply (retinol activity equivalents) - Vegetables and their products
+28,"Vitamin B12 supply - Fish, shellfish and their products"
+29,"Vitamin B6 supply - Fish, shellfish and their products"
+30,Vitamin C supply - Beverages
+31,Vitamin C supply - Fruits and their products
+32,Vitamin C supply - Milk and milk products
+33,"Vitamin C supply - Roots, tubers, plantains and their products"
+34,Vitamin C supply - Vegetables and their products
+35,Zinc supply - Cereals and their products
+36,Zinc supply - Meat and meat products
+37,Zinc supply - Milk and milk products
+38,"Zinc supply - Pulses, seeds and nuts and their products"
+39,"Zinc supply - Roots, tubers, plantains and their products"
+40,Expected Years of Schooling (years)
+41,Gross National Income Per Capita (2017 PPP$)
+42,HDI Rank
+43,Human Development Index (value)
+44,Life Expectancy at Birth (years)
+45,Mean Years of Schooling (years)
+46,BCG_coverage_pct

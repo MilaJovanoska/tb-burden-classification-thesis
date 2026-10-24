@@ -1,0 +1,9 @@
+dataset,cell,actual_class,predicted_class,actual_label,predicted_label,count,percentage_within_actual_class,percentage_of_total_dataset
+train,True Negative,0,0,Actual non-high TB burden,Predicted non-high TB burden,109,100.0,74.65753424657534
+train,False Positive,0,1,Actual non-high TB burden,Predicted high TB burden,0,0.0,0.0
+train,False Negative,1,0,Actual high TB burden,Predicted non-high TB burden,0,0.0,0.0
+train,True Positive,1,1,Actual high TB burden,Predicted high TB burden,37,100.0,25.34246575342466
+test,True Negative,0,0,Actual non-high TB burden,Predicted non-high TB burden,27,96.42857142857143,72.97297297297297
+test,False Positive,0,1,Actual non-high TB burden,Predicted high TB burden,1,3.571428571428571,2.7027027027027026
+test,False Negative,1,0,Actual high TB burden,Predicted non-high TB burden,3,33.33333333333333,8.108108108108109
+test,True Positive,1,1,Actual high TB burden,Predicted high TB burden,6,66.66666666666666,16.216216216216218

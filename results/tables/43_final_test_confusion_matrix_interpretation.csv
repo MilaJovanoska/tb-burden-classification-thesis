@@ -1,0 +1,10 @@
+component,abbreviation,value,meaning
+True Negative,TN,21.0,Actual non-high TB burden countries correctly predicted as non-high TB burden.
+False Positive,FP,7.0,Actual non-high TB burden countries incorrectly predicted as high TB burden.
+False Negative,FN,1.0,Actual high TB burden countries incorrectly predicted as non-high TB burden.
+True Positive,TP,8.0,Actual high TB burden countries correctly predicted as high TB burden.
+Specificity,TNR,0.75,Share of actual non-high TB burden countries correctly identified as non-high.
+Recall,TPR,0.8888888888888888,Share of actual high TB burden countries correctly identified as high.
+Precision,PPV,0.5333333333333333,Share of predicted high TB burden countries that were actually high TB burden.
+Accuracy,ACC,0.7837837837837838,Share of all test examples classified correctly.
+Balanced Accuracy,BA,0.8194444444444444,Average of recall for the high TB burden class and specificity for the non-high TB burden class.

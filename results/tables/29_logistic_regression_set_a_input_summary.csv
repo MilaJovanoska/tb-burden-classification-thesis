@@ -1,0 +1,23 @@
+item,value
+Model preparation step,Standardized input preparation for ordinary logistic regression
+Predictor set,Set A - all valid predictors before Spearman pruning
+Set A definition,Predictor columns taken from X_screening_train
+Number of predictors,46
+Training samples,146
+Testing samples,37
+Training input source,X_train_all
+Testing input source,X_test_all
+Training target source,y_train
+Testing target source,y_test
+Scaler,StandardScaler
+Scaler fitted on,X_train_all Set A columns only
+Scaler applied to,X_train_all and X_test_all Set A columns
+Test set used to fit scaler,No
+Target variable used to fit scaler,No
+Feature selection performed in this cell,No
+New train-test split created in this cell,No
+Missing values in standardized training input,0
+Missing values in standardized testing input,0
+Infinite values in standardized training input,0
+Infinite values in standardized testing input,0
+Interpretation of standardized coefficients,Per one standard deviation increase in the predictor
