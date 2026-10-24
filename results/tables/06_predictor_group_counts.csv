@@ -1,0 +1,47 @@
+Predictor,high_tb_burden,non_high_tb_burden,Expected high count,Expected non-high count,High count correct,Non-high count correct
+Calcium supply - Cereals and their products,46,137,46,137,True,True
+Calcium supply - Milk and milk products,46,137,46,137,True,True
+"Calcium supply - Pulses, seeds and nuts and their products",46,137,46,137,True,True
+Calcium supply - Vegetables and their products,46,137,46,137,True,True
+Energy supply - Cereals and their products,46,137,46,137,True,True
+Energy supply - Fats and oils,46,137,46,137,True,True
+Energy supply - Meat and meat products,46,137,46,137,True,True
+"Energy supply - Roots, tubers, plantains and their products",46,137,46,137,True,True
+Energy supply - Sweets and sugars,46,137,46,137,True,True
+Iron supply - Cereals and their products,46,137,46,137,True,True
+Iron supply - Meat and meat products,46,137,46,137,True,True
+"Iron supply - Pulses, seeds and nuts and their products",46,137,46,137,True,True
+"Iron supply - Roots, tubers, plantains and their products",46,137,46,137,True,True
+Iron supply - Vegetables and their products,46,137,46,137,True,True
+Protein supply - Cereals and their products,46,137,46,137,True,True
+"Protein supply - Fish, shellfish and their products",46,137,46,137,True,True
+Protein supply - Meat and meat products,46,137,46,137,True,True
+Protein supply - Milk and milk products,46,137,46,137,True,True
+"Protein supply - Pulses, seeds and nuts and their products",46,137,46,137,True,True
+"Selenium supply - Fish, shellfish and their products",46,137,46,137,True,True
+"Total monounsaturated fatty acids supply - Fish, shellfish and their products",46,137,46,137,True,True
+"Total saturated fatty acids supply - Fish, shellfish and their products",46,137,46,137,True,True
+Vitamin A supply (retinol activity equivalents) - Fats and oils,46,137,46,137,True,True
+Vitamin A supply (retinol activity equivalents) - Meat and meat products,46,137,46,137,True,True
+Vitamin A supply (retinol activity equivalents) - Milk and milk products,46,137,46,137,True,True
+"Vitamin A supply (retinol activity equivalents) - Roots, tubers, plantains and their products",46,137,46,137,True,True
+Vitamin A supply (retinol activity equivalents) - Vegetables and their products,46,137,46,137,True,True
+"Vitamin B12 supply - Fish, shellfish and their products",46,137,46,137,True,True
+"Vitamin B6 supply - Fish, shellfish and their products",46,137,46,137,True,True
+Vitamin C supply - Beverages,46,137,46,137,True,True
+Vitamin C supply - Fruits and their products,46,137,46,137,True,True
+Vitamin C supply - Milk and milk products,46,137,46,137,True,True
+"Vitamin C supply - Roots, tubers, plantains and their products",46,137,46,137,True,True
+Vitamin C supply - Vegetables and their products,46,137,46,137,True,True
+Zinc supply - Cereals and their products,46,137,46,137,True,True
+Zinc supply - Meat and meat products,46,137,46,137,True,True
+Zinc supply - Milk and milk products,46,137,46,137,True,True
+"Zinc supply - Pulses, seeds and nuts and their products",46,137,46,137,True,True
+"Zinc supply - Roots, tubers, plantains and their products",46,137,46,137,True,True
+Expected Years of Schooling (years),46,137,46,137,True,True
+Gross National Income Per Capita (2017 PPP$),46,137,46,137,True,True
+HDI Rank,46,137,46,137,True,True
+Human Development Index (value),46,137,46,137,True,True
+Life Expectancy at Birth (years),46,137,46,137,True,True
+Mean Years of Schooling (years),46,137,46,137,True,True
+BCG_coverage_pct,46,137,46,137,True,True

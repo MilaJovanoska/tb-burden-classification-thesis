@@ -1,0 +1,4 @@
+tb_burden_group,BCG_was_missing,Number of countries,Group total,Percentage within group
+high_tb_burden,False,46,46,100.0
+non_high_tb_burden,False,100,137,72.99
+non_high_tb_burden,True,37,137,27.01

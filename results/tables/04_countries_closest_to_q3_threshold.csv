@@ -1,0 +1,31 @@
+country,tb_incidence_rate_per_100k,target_binary,target_group,distance_from_q3,absolute_distance_from_q3,target_label,group_order
+Morocco,93.0,0,non_high_tb_burden,-59.5,59.5,Non-high TB burden,0
+Burundi,97.0,0,non_high_tb_burden,-55.5,55.5,Non-high TB burden,0
+Bolivia (Plurinational State of),108.0,0,non_high_tb_burden,-44.5,44.5,Non-high TB burden,0
+Senegal,112.0,0,non_high_tb_burden,-40.5,40.5,Non-high TB burden,0
+Malaysia,113.0,0,non_high_tb_burden,-39.5,39.5,Non-high TB burden,0
+Sao Tome and Principe,113.0,0,non_high_tb_burden,-39.5,39.5,Non-high TB burden,0
+Côte d'Ivoire,123.0,0,non_high_tb_burden,-29.5,29.5,Non-high TB burden,0
+Malawi,125.0,0,non_high_tb_burden,-27.5,27.5,Non-high TB burden,0
+Ethiopia,126.0,0,non_high_tb_burden,-26.5,26.5,Non-high TB burden,0
+Kyrgyzstan,130.0,0,non_high_tb_burden,-22.5,22.5,Non-high TB burden,0
+Ghana,133.0,0,non_high_tb_burden,-19.5,19.5,Non-high TB burden,0
+Lao People's Democratic Republic,138.0,0,non_high_tb_burden,-14.5,14.5,Non-high TB burden,0
+Chad,140.0,0,non_high_tb_burden,-12.5,12.5,Non-high TB burden,0
+Gambia,145.0,0,non_high_tb_burden,-7.5,7.5,Non-high TB burden,0
+Peru,151.0,0,non_high_tb_burden,-1.5,1.5,Non-high TB burden,0
+Haiti,154.0,1,high_tb_burden,1.5,1.5,High TB burden,1
+Thailand,155.0,1,high_tb_burden,2.5,2.5,High TB burden,1
+Cameroon,157.0,1,high_tb_burden,4.5,4.5,High TB burden,1
+Bhutan,164.0,1,high_tb_burden,11.5,11.5,High TB burden,1
+Nauru,172.0,1,high_tb_burden,19.5,19.5,High TB burden,1
+Guinea,175.0,1,high_tb_burden,22.5,22.5,High TB burden,1
+Viet Nam,176.0,1,high_tb_burden,23.5,23.5,High TB burden,1
+Afghanistan,185.0,1,high_tb_burden,32.5,32.5,High TB burden,1
+United Republic of Tanzania,195.0,1,high_tb_burden,42.5,42.5,High TB burden,1
+Uganda,198.0,1,high_tb_burden,45.5,45.5,High TB burden,1
+India,199.0,1,high_tb_burden,46.5,46.5,High TB burden,1
+Zimbabwe,204.0,1,high_tb_burden,51.5,51.5,High TB burden,1
+Nigeria,219.0,1,high_tb_burden,66.5,66.5,High TB burden,1
+Bangladesh,221.0,1,high_tb_burden,68.5,68.5,High TB burden,1
+South Sudan,227.0,1,high_tb_burden,74.5,74.5,High TB burden,1

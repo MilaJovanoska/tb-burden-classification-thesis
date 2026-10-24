@@ -1,0 +1,71 @@
+rank,country,tb_incidence_rate_per_100k,above_q3_operational_threshold,difference_from_q3_operational_threshold
+1,Lesotho,661.0,True,508.5
+2,Philippines,638.0,True,485.5
+3,Central African Republic,540.0,True,387.5
+4,Gabon,509.0,True,356.5
+5,Timor-Leste,498.0,True,345.5
+6,Marshall Islands,483.0,True,330.5
+7,Myanmar,475.0,True,322.5
+8,South Africa,468.0,True,315.5
+9,Mongolia,452.0,True,299.5
+10,Namibia,450.0,True,297.5
+11,Papua New Guinea,432.0,True,279.5
+12,Kiribati,431.0,True,278.5
+13,Indonesia,385.0,True,232.5
+14,Congo,369.0,True,216.5
+15,Guinea-Bissau,361.0,True,208.5
+16,Mozambique,361.0,True,208.5
+17,Angola,333.0,True,180.5
+18,Eswatini,325.0,True,172.5
+19,Cambodia,320.0,True,167.5
+20,Democratic Republic of the Congo,317.0,True,164.5
+21,Liberia,308.0,True,155.5
+22,Tuvalu,296.0,True,143.5
+23,Zambia,295.0,True,142.5
+24,Sierra Leone,286.0,True,133.5
+25,Pakistan,258.0,True,105.5
+26,Somalia,246.0,True,93.5
+27,Djibouti,240.0,True,87.5
+28,Kenya,237.0,True,84.5
+29,Madagascar,233.0,True,80.5
+30,Botswana,229.0,True,76.5
+31,Nepal,229.0,True,76.5
+32,South Sudan,227.0,True,74.5
+33,Bangladesh,221.0,True,68.5
+34,Nigeria,219.0,True,66.5
+35,Zimbabwe,204.0,True,51.5
+36,India,199.0,True,46.5
+37,Uganda,198.0,True,45.5
+38,United Republic of Tanzania,195.0,True,42.5
+39,Afghanistan,185.0,True,32.5
+40,Viet Nam,176.0,True,23.5
+41,Guinea,175.0,True,22.5
+42,Nauru,172.0,True,19.5
+43,Bhutan,164.0,True,11.5
+44,Cameroon,157.0,True,4.5
+45,Thailand,155.0,True,2.5
+46,Haiti,154.0,True,1.5
+47,Peru,151.0,False,-1.5
+48,Gambia,145.0,False,-7.5
+49,Chad,140.0,False,-12.5
+50,Lao People's Democratic Republic,138.0,False,-14.5
+51,Ghana,133.0,False,-19.5
+52,Kyrgyzstan,130.0,False,-22.5
+53,Ethiopia,126.0,False,-26.5
+54,Malawi,125.0,False,-27.5
+55,Côte d'Ivoire,123.0,False,-29.5
+56,Malaysia,113.0,False,-39.5
+57,Sao Tome and Principe,113.0,False,-39.5
+58,Senegal,112.0,False,-40.5
+59,Bolivia (Plurinational State of),108.0,False,-44.5
+60,Burundi,97.0,False,-55.5
+61,Morocco,93.0,False,-59.5
+62,Ukraine,90.0,False,-62.5
+63,Uzbekistan,83.0,False,-69.5
+64,Kazakhstan,78.0,False,-74.5
+65,Mauritania,78.0,False,-74.5
+66,Tajikistan,78.0,False,-74.5
+67,Niger,77.0,False,-75.5
+68,Republic of Moldova,74.0,False,-78.5
+69,Azerbaijan,68.0,False,-84.5
+70,Fiji,66.0,False,-86.5

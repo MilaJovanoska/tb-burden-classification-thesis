@@ -1,0 +1,3 @@
+bcg_was_missing,number_of_countries,percentage,interpretation,data_quality_role
+False,146,79.78,BCG value was available in the original dataset,Data-quality indicator only; excluded from machine learning predictors
+True,37,20.22,BCG value was missing in the original dataset,Data-quality indicator only; excluded from machine learning predictors

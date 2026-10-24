@@ -1,0 +1,13 @@
+metric,value,expected,status
+number_of_rows,183,> 0,passed
+number_of_columns,49,> 0,passed
+unique_column_names,49,equal to number_of_columns,passed
+duplicate_column_names,0,0,passed
+duplicate_rows,0,0,passed
+unique_countries,183,equal to number_of_rows,passed
+duplicate_countries,0,0,passed
+missing_values,0,0,passed
+infinite_values,0,0,passed
+negative_values,0,0,passed
+constant_columns,0,0,passed
+domain_range_violations,0,0,passed

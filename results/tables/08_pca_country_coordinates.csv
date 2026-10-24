@@ -1,0 +1,184 @@
+country,high_tb_burden,tb_burden_group,PC1,PC2,display_label
+Afghanistan,1,high_tb_burden,4.821680319652547,3.7574128788192875,High TB burden
+Albania,0,non_high_tb_burden,-3.7845923244404145,3.170903531268699,Non-high TB burden
+Algeria,0,non_high_tb_burden,0.5474800863691011,5.179966012717501,Non-high TB burden
+Angola,1,high_tb_burden,5.112410925742306,-3.915952109525356,High TB burden
+Antigua and Barbuda,0,non_high_tb_burden,-3.5934758775571036,-5.029778401143231,Non-high TB burden
+Argentina,0,non_high_tb_burden,-3.136664532524438,2.2280346427831685,Non-high TB burden
+Armenia,0,non_high_tb_burden,-2.7546943311328294,3.133589437132275,Non-high TB burden
+Australia,0,non_high_tb_burden,-5.624320179896143,-0.9463738130781822,Non-high TB burden
+Austria,0,non_high_tb_burden,-4.819476314133549,1.195416229367421,Non-high TB burden
+Azerbaijan,0,non_high_tb_burden,-0.6288764872868426,3.5655745793531683,Non-high TB burden
+Bahamas,0,non_high_tb_burden,-3.6603365621554538,-2.578865411644839,Non-high TB burden
+Bahrain,0,non_high_tb_burden,-3.5312451381702887,0.08904524741624832,Non-high TB burden
+Bangladesh,1,high_tb_burden,2.5659779967457137,0.6708212556955372,High TB burden
+Barbados,0,non_high_tb_burden,-2.784182883819606,-3.8427652477894596,Non-high TB burden
+Belarus,0,non_high_tb_burden,-3.5313701642813697,-0.1652981199968622,Non-high TB burden
+Belgium,0,non_high_tb_burden,-7.136038588293026,0.17472515710880532,Non-high TB burden
+Belize,0,non_high_tb_burden,0.9447498037491457,0.3963993076981522,Non-high TB burden
+Benin,0,non_high_tb_burden,6.331792587334541,-2.288593344869694,Non-high TB burden
+Bhutan,1,high_tb_burden,2.4295653910572184,3.9280663109327465,High TB burden
+Bolivia (Plurinational State of),0,non_high_tb_burden,1.4939756160039834,0.41024736006198054,Non-high TB burden
+Bosnia and Herzegovina,0,non_high_tb_burden,-1.359356890476549,3.2636126424564287,Non-high TB burden
+Botswana,1,high_tb_burden,0.9462193285984208,2.010387930735778,High TB burden
+Brazil,0,non_high_tb_burden,-1.6230450766789122,0.8415652522888832,Non-high TB burden
+Bulgaria,0,non_high_tb_burden,-1.9766225522515208,1.6510467021271786,Non-high TB burden
+Burkina Faso,0,non_high_tb_burden,6.96642013180991,3.0273198267940042,Non-high TB burden
+Burundi,0,non_high_tb_burden,7.970604735203796,-4.07692706970012,Non-high TB burden
+Cabo Verde,0,non_high_tb_burden,1.578459762379586,1.8074602608650279,Non-high TB burden
+Cambodia,1,high_tb_burden,3.505747371114349,-3.759534059589055,High TB burden
+Cameroon,1,high_tb_burden,5.799330978581866,-1.7152029249696583,High TB burden
+Canada,0,non_high_tb_burden,-3.7086350536661534,-0.03886039615871188,Non-high TB burden
+Central African Republic,1,high_tb_burden,7.049523065272448,-2.5630000219950606,High TB burden
+Chad,0,non_high_tb_burden,5.296429793896639,2.4056766464953263,Non-high TB burden
+Chile,0,non_high_tb_burden,-2.2024313868109022,0.9751578284879499,Non-high TB burden
+China,0,non_high_tb_burden,-0.1826325393107808,1.7273163421064452,Non-high TB burden
+Colombia,0,non_high_tb_burden,-0.3767972781659103,-0.09297790394761428,Non-high TB burden
+Comoros,0,non_high_tb_burden,4.339892801394889,-1.8758094411080872,Non-high TB burden
+Congo,1,high_tb_burden,3.1947021776169775,-4.509055791030861,High TB burden
+Costa Rica,0,non_high_tb_burden,-1.9594162519452782,-0.2253639002618229,Non-high TB burden
+Croatia,0,non_high_tb_burden,-4.646211562833628,-0.14792419505550766,Non-high TB burden
+Cuba,0,non_high_tb_burden,0.8780300958871592,0.23578896805792213,Non-high TB burden
+Cyprus,0,non_high_tb_burden,-3.364502048527802,1.2706057793869572,Non-high TB burden
+Czechia,0,non_high_tb_burden,-4.152366160196082,0.511660145380135,Non-high TB burden
+Côte d'Ivoire,0,non_high_tb_burden,5.542631218740659,-3.807237802702029,Non-high TB burden
+Democratic Republic of the Congo,1,high_tb_burden,8.270990749483179,-6.339031467236328,High TB burden
+Denmark,0,non_high_tb_burden,-6.728114771108432,-0.4556006798766481,Non-high TB burden
+Djibouti,1,high_tb_burden,4.296879808724894,2.899147549616145,High TB burden
+Dominica,0,non_high_tb_burden,-1.1320654979841835,-3.2867538261898903,Non-high TB burden
+Dominican Republic,0,non_high_tb_burden,-0.23421956931726978,-0.3486160642710957,Non-high TB burden
+Ecuador,0,non_high_tb_burden,-0.07363054535883469,0.7460544436278607,Non-high TB burden
+Egypt,0,non_high_tb_burden,1.590811104114922,2.861598061153325,Non-high TB burden
+El Salvador,0,non_high_tb_burden,1.5382680177667958,1.9577826856579559,Non-high TB burden
+Estonia,0,non_high_tb_burden,-5.5394170712714805,1.3088879161159221,Non-high TB burden
+Eswatini,1,high_tb_burden,2.5673210212726967,1.1672537333915989,High TB burden
+Ethiopia,0,non_high_tb_burden,6.363246824614185,5.844734817702446,Non-high TB burden
+Fiji,0,non_high_tb_burden,0.45663555929471694,-2.620747964623664,Non-high TB burden
+Finland,0,non_high_tb_burden,-6.302823518942871,0.44821626654907437,Non-high TB burden
+France,0,non_high_tb_burden,-5.799419617380023,-0.34567573651597006,Non-high TB burden
+Gabon,1,high_tb_burden,2.077658254932571,-3.8164415141468573,High TB burden
+Gambia,0,non_high_tb_burden,3.2048131533913633,0.22439917642092674,Non-high TB burden
+Georgia,0,non_high_tb_burden,-1.5736582638950032,2.7573141805474366,Non-high TB burden
+Germany,0,non_high_tb_burden,-5.609177701377246,1.06721641937894,Non-high TB burden
+Ghana,0,non_high_tb_burden,6.18324934171685,-6.588062435833249,Non-high TB burden
+Greece,0,non_high_tb_burden,-3.912800393560184,0.30633344897986503,Non-high TB burden
+Grenada,0,non_high_tb_burden,-2.1995454726411996,-3.7505934687940616,Non-high TB burden
+Guatemala,0,non_high_tb_burden,2.222248433881094,1.7452708899950629,Non-high TB burden
+Guinea,1,high_tb_burden,5.994770854391806,-1.4640473155634721,High TB burden
+Guinea-Bissau,1,high_tb_burden,4.90195179060583,1.5859973192881611,High TB burden
+Guyana,0,non_high_tb_burden,-0.5690094069911455,-1.0876630243753622,Non-high TB burden
+Haiti,1,high_tb_burden,4.208930444481911,0.24092681613846528,High TB burden
+Honduras,0,non_high_tb_burden,2.0955880321900353,1.4340505530814414,Non-high TB burden
+Hungary,0,non_high_tb_burden,-3.326960990479614,1.0888590272585148,Non-high TB burden
+Iceland,0,non_high_tb_burden,-10.177290916408214,-6.608149743647056,Non-high TB burden
+India,1,high_tb_burden,2.6644007282905253,2.5603088108318284,High TB burden
+Indonesia,1,high_tb_burden,2.154675416714008,-2.5371457863506066,High TB burden
+Iran (Islamic Republic of),0,non_high_tb_burden,0.8978964865767939,2.114895985135751,Non-high TB burden
+Iraq,0,non_high_tb_burden,3.1306837500281546,3.17522031004394,Non-high TB burden
+Ireland,0,non_high_tb_burden,-8.257377469583394,1.2338636802412717,Non-high TB burden
+Israel,0,non_high_tb_burden,-4.235468424812785,0.6558959601366146,Non-high TB burden
+Italy,0,non_high_tb_burden,-4.45034718817154,0.4972620045912444,Non-high TB burden
+Jamaica,0,non_high_tb_burden,-0.47691904693973236,-1.997663975410721,Non-high TB burden
+Japan,0,non_high_tb_burden,-2.334706198341588,-3.2213128545193057,Non-high TB burden
+Jordan,0,non_high_tb_burden,1.1153442464126944,1.6585528879512255,Non-high TB burden
+Kazakhstan,0,non_high_tb_burden,-3.396645004545787,2.38324506344322,Non-high TB burden
+Kenya,1,high_tb_burden,3.0097528097193407,1.1717904041720437,High TB burden
+Kiribati,1,high_tb_burden,-0.11286173877699426,-7.2106041204872,High TB burden
+Kuwait,0,non_high_tb_burden,-2.59605474126452,1.298178140822261,Non-high TB burden
+Kyrgyzstan,0,non_high_tb_burden,-0.40192049665221735,2.646366700735817,Non-high TB burden
+Lao People's Democratic Republic,0,non_high_tb_burden,2.3860398468384307,-0.5172383464138703,Non-high TB burden
+Latvia,0,non_high_tb_burden,-4.761481179213918,-0.9820462763409463,Non-high TB burden
+Lebanon,0,non_high_tb_burden,0.94459783083043,1.8647364996222238,Non-high TB burden
+Lesotho,1,high_tb_burden,3.3880510171845826,1.4532660573559746,High TB burden
+Liberia,1,high_tb_burden,5.066368844393656,-0.5087606028832298,High TB burden
+Libya,0,non_high_tb_burden,-0.48574708991712406,1.5104363814402673,Non-high TB burden
+Lithuania,0,non_high_tb_burden,-4.966989228956094,-0.21737890190131687,Non-high TB burden
+Luxembourg,0,non_high_tb_burden,-5.684860302565052,-0.4110288794104709,Non-high TB burden
+Madagascar,1,high_tb_burden,5.553146020980039,0.7346197158922052,High TB burden
+Malawi,0,non_high_tb_burden,5.297868350222268,-0.19101611105491845,Non-high TB burden
+Malaysia,0,non_high_tb_burden,-1.4728907518299248,-3.11930822626164,Non-high TB burden
+Maldives,0,non_high_tb_burden,-2.1141907212447126,-7.2520692198588055,Non-high TB burden
+Mali,0,non_high_tb_burden,5.899337508375852,5.3477801851497695,Non-high TB burden
+Malta,0,non_high_tb_burden,-4.218164476478404,-0.666393845701561,Non-high TB burden
+Marshall Islands,1,high_tb_burden,-1.8611435531164304,-3.63630491387692,High TB burden
+Mauritania,0,non_high_tb_burden,1.7708038761025509,3.7011861970247524,Non-high TB burden
+Mauritius,0,non_high_tb_burden,-1.41214995217597,-0.35355427181035204,Non-high TB burden
+Mexico,0,non_high_tb_burden,-1.1985214371389135,1.3732046698995768,Non-high TB burden
+Micronesia (Federated States of),0,non_high_tb_burden,1.6828395050403906,-6.255624595259127,Non-high TB burden
+Mongolia,1,high_tb_burden,-6.588021460431714,1.7912622510451714,High TB burden
+Montenegro,0,non_high_tb_burden,-4.543156896541214,1.9790918140604759,Non-high TB burden
+Morocco,0,non_high_tb_burden,1.7205357580740936,3.0698436899169845,Non-high TB burden
+Mozambique,1,high_tb_burden,5.776185390249821,-2.0644715788261787,High TB burden
+Myanmar,1,high_tb_burden,3.624026936550529,-1.0675686213878486,High TB burden
+Namibia,1,high_tb_burden,2.6950688135397867,-0.0726618104352105,High TB burden
+Nauru,1,high_tb_burden,-1.6702607966814744,-2.2394297575161977,High TB burden
+Nepal,1,high_tb_burden,3.0815614092451398,3.7078570039831416,High TB burden
+Netherlands (Kingdom of the),0,non_high_tb_burden,-6.204703899970727,0.6043614691543323,Non-high TB burden
+New Zealand,0,non_high_tb_burden,-4.699012448494143,-0.011542979763695234,Non-high TB burden
+Nicaragua,0,non_high_tb_burden,1.6307273966858578,1.9935455584253015,Non-high TB burden
+Niger,0,non_high_tb_burden,7.775460568829218,5.356856684333971,Non-high TB burden
+Nigeria,1,high_tb_burden,6.131470944258683,-0.4347981322291448,High TB burden
+North Macedonia,0,non_high_tb_burden,-1.2280930672355668,2.681056622431847,Non-high TB burden
+Norway,0,non_high_tb_burden,-5.266226732481334,-1.633259987377597,Non-high TB burden
+Oman,0,non_high_tb_burden,-2.783273992678911,-1.072687966155066,Non-high TB burden
+Pakistan,1,high_tb_burden,1.2703795815171257,3.2866277520290863,High TB burden
+Panama,0,non_high_tb_burden,-1.3427450394155107,-0.17735156850380565,Non-high TB burden
+Papua New Guinea,1,high_tb_burden,3.839462817015512,-2.7607695353596777,High TB burden
+Paraguay,0,non_high_tb_burden,2.6234699997151596,0.09294837603514175,Non-high TB burden
+Peru,0,non_high_tb_burden,0.9289160632206986,-1.6001417667010078,Non-high TB burden
+Philippines,1,high_tb_burden,1.4358933019051523,0.06954821211431768,High TB burden
+Poland,0,non_high_tb_burden,-4.130775620309276,1.7493257381058511,Non-high TB burden
+Portugal,0,non_high_tb_burden,-4.836830897065841,-2.185450320547118,Non-high TB burden
+Qatar,0,non_high_tb_burden,-2.7465756870253255,0.3899592353815509,Non-high TB burden
+Republic of Korea,0,non_high_tb_burden,-3.6181077863269504,-2.710522310983953,Non-high TB burden
+Republic of Moldova,0,non_high_tb_burden,-0.3957720709375536,1.025877038218763,Non-high TB burden
+Romania,0,non_high_tb_burden,-3.1212056091897256,2.9114673427313216,Non-high TB burden
+Russian Federation,0,non_high_tb_burden,-2.558941586595135,1.1638051763186033,Non-high TB burden
+Rwanda,0,non_high_tb_burden,6.760507395157215,-2.6035571240688293,Non-high TB burden
+Saint Kitts and Nevis,0,non_high_tb_burden,-3.111576366319347,-3.5741312781600034,Non-high TB burden
+Saint Lucia,0,non_high_tb_burden,-2.9385259883113792,-2.9647305977515717,Non-high TB burden
+Saint Vincent and the Grenadines,0,non_high_tb_burden,-1.684738464072633,-2.479924008600122,Non-high TB burden
+Samoa,0,non_high_tb_burden,-1.2086847613836327,-4.936493580272442,Non-high TB burden
+Sao Tome and Principe,0,non_high_tb_burden,2.7509880248092182,-2.1178242475381395,Non-high TB burden
+Saudi Arabia,0,non_high_tb_burden,-1.2607948469216084,1.9256591097327358,Non-high TB burden
+Senegal,0,non_high_tb_burden,4.2242656594195855,1.8862109734636021,Non-high TB burden
+Serbia,0,non_high_tb_burden,-1.8386089052123873,3.8507551021902167,Non-high TB burden
+Seychelles,0,non_high_tb_burden,-3.039023374114524,-4.415186211312951,Non-high TB burden
+Sierra Leone,1,high_tb_burden,5.244181114597486,-2.6880675794814697,High TB burden
+Slovakia,0,non_high_tb_burden,-3.1457021302223174,0.09021683287784187,Non-high TB burden
+Slovenia,0,non_high_tb_burden,-3.7104217148805096,1.2340349697895745,Non-high TB burden
+Solomon Islands,0,non_high_tb_burden,5.132975613076855,-7.359260094409524,Non-high TB burden
+Somalia,1,high_tb_burden,3.274349300212102,1.255601044359203,High TB burden
+South Africa,1,high_tb_burden,0.5804037256785294,2.076598148964492,High TB burden
+South Sudan,1,high_tb_burden,4.438953752600658,2.3838720071978403,High TB burden
+Spain,0,non_high_tb_burden,-4.557360469907173,-2.2908622280284106,Non-high TB burden
+Sri Lanka,0,non_high_tb_burden,1.6642114026692063,-0.1471174181150398,Non-high TB burden
+Sudan,0,non_high_tb_burden,3.875910796625389,3.78892934696674,Non-high TB burden
+Suriname,0,non_high_tb_burden,0.8245363940436629,-0.5065350744653861,Non-high TB burden
+Sweden,0,non_high_tb_burden,-5.81750745826317,-0.16290353558275902,Non-high TB burden
+Switzerland,0,non_high_tb_burden,-6.117679330414613,0.3874430689552428,Non-high TB burden
+Syrian Arab Republic,0,non_high_tb_burden,3.2875811079760116,3.0615141767919942,Non-high TB burden
+Tajikistan,0,non_high_tb_burden,0.39990734303469816,3.321813332980735,Non-high TB burden
+Thailand,1,high_tb_burden,0.05384977854403043,-1.0777438728833184,High TB burden
+Timor-Leste,1,high_tb_burden,2.3571414820791725,0.8986751812662704,High TB burden
+Togo,0,non_high_tb_burden,5.392144614350384,-0.33324485988498814,Non-high TB burden
+Tonga,0,non_high_tb_burden,-2.5379509333448156,-3.9531769341188987,Non-high TB burden
+Trinidad and Tobago,0,non_high_tb_burden,-0.9386388993024347,0.44036878259709344,Non-high TB burden
+Tunisia,0,non_high_tb_burden,0.13823370148494699,3.326960437448377,Non-high TB burden
+Turkmenistan,0,non_high_tb_burden,-0.5998222469768196,3.4076472242220452,Non-high TB burden
+Tuvalu,1,high_tb_burden,-0.6175366988642844,-4.330170200277189,High TB burden
+Türkiye,0,non_high_tb_burden,-2.1283607647916973,4.191532205295672,Non-high TB burden
+Uganda,1,high_tb_burden,5.465177224903714,-3.075282725943079,High TB burden
+Ukraine,0,non_high_tb_burden,-0.11931857652560116,0.8107365197789315,Non-high TB burden
+United Arab Emirates,0,non_high_tb_burden,-2.350359253121442,0.07296768543897177,Non-high TB burden
+United Kingdom,0,non_high_tb_burden,-4.796841262846222,0.5563789751322611,Non-high TB burden
+United Republic of Tanzania,1,high_tb_burden,5.264038291996391,-0.2713022698950118,High TB burden
+United States of America,0,non_high_tb_burden,-5.9247392055458254,0.1533886215014554,Non-high TB burden
+Uruguay,0,non_high_tb_burden,-3.2765210292485483,1.7107830200761558,Non-high TB burden
+Uzbekistan,0,non_high_tb_burden,-2.161229642438382,3.981051529506264,Non-high TB burden
+Vanuatu,0,non_high_tb_burden,2.6843404709444134,-3.756675877864318,Non-high TB burden
+Venezuela (Bolivarian Republic of),0,non_high_tb_burden,1.504584070283238,0.04535830750819866,Non-high TB burden
+Viet Nam,1,high_tb_burden,0.5172187459115318,-0.35610973638221294,High TB burden
+Yemen,0,non_high_tb_burden,4.767172188065013,2.5020684569262204,Non-high TB burden
+Zambia,1,high_tb_burden,4.685823103950677,-1.8333723762961216,High TB burden
+Zimbabwe,1,high_tb_burden,1.6970607384604524,0.7060300301149421,High TB burden

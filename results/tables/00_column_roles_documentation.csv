@@ -1,0 +1,52 @@
+column_name,data_type,exists_in_dataset,planned_column,role,excluded_from_predictors,notes
+Area,object,True,False,identifier,True,Country identifier; not used as a predictor
+Calcium supply - Cereals and their products,int64,True,False,candidate_predictor,False,Candidate predictor variable
+Calcium supply - Milk and milk products,int64,True,False,candidate_predictor,False,Candidate predictor variable
+"Calcium supply - Pulses, seeds and nuts and their products",int64,True,False,candidate_predictor,False,Candidate predictor variable
+Calcium supply - Vegetables and their products,int64,True,False,candidate_predictor,False,Candidate predictor variable
+Energy supply - Cereals and their products,int64,True,False,candidate_predictor,False,Candidate predictor variable
+Energy supply - Fats and oils,int64,True,False,candidate_predictor,False,Candidate predictor variable
+Energy supply - Meat and meat products,int64,True,False,candidate_predictor,False,Candidate predictor variable
+"Energy supply - Roots, tubers, plantains and their products",int64,True,False,candidate_predictor,False,Candidate predictor variable
+Energy supply - Sweets and sugars,int64,True,False,candidate_predictor,False,Candidate predictor variable
+Iron supply - Cereals and their products,float64,True,False,candidate_predictor,False,Candidate predictor variable
+Iron supply - Meat and meat products,float64,True,False,candidate_predictor,False,Candidate predictor variable
+"Iron supply - Pulses, seeds and nuts and their products",float64,True,False,candidate_predictor,False,Candidate predictor variable
+"Iron supply - Roots, tubers, plantains and their products",float64,True,False,candidate_predictor,False,Candidate predictor variable
+Iron supply - Vegetables and their products,float64,True,False,candidate_predictor,False,Candidate predictor variable
+Protein supply - Cereals and their products,float64,True,False,candidate_predictor,False,Candidate predictor variable
+"Protein supply - Fish, shellfish and their products",float64,True,False,candidate_predictor,False,Candidate predictor variable
+Protein supply - Meat and meat products,float64,True,False,candidate_predictor,False,Candidate predictor variable
+Protein supply - Milk and milk products,float64,True,False,candidate_predictor,False,Candidate predictor variable
+"Protein supply - Pulses, seeds and nuts and their products",float64,True,False,candidate_predictor,False,Candidate predictor variable
+"Selenium supply - Fish, shellfish and their products",int64,True,False,candidate_predictor,False,Candidate predictor variable
+"Total monounsaturated fatty acids supply - Fish, shellfish and their products",float64,True,False,candidate_predictor,False,Candidate predictor variable
+"Total saturated fatty acids supply - Fish, shellfish and their products",float64,True,False,candidate_predictor,False,Candidate predictor variable
+Vitamin A supply (retinol activity equivalents) - Fats and oils,int64,True,False,candidate_predictor,False,Candidate predictor variable
+Vitamin A supply (retinol activity equivalents) - Meat and meat products,int64,True,False,candidate_predictor,False,Candidate predictor variable
+Vitamin A supply (retinol activity equivalents) - Milk and milk products,int64,True,False,candidate_predictor,False,Candidate predictor variable
+"Vitamin A supply (retinol activity equivalents) - Roots, tubers, plantains and their products",int64,True,False,candidate_predictor,False,Candidate predictor variable
+Vitamin A supply (retinol activity equivalents) - Vegetables and their products,int64,True,False,candidate_predictor,False,Candidate predictor variable
+"Vitamin B12 supply - Fish, shellfish and their products",float64,True,False,candidate_predictor,False,Candidate predictor variable
+"Vitamin B6 supply - Fish, shellfish and their products",float64,True,False,candidate_predictor,False,Candidate predictor variable
+Vitamin C supply - Beverages,int64,True,False,candidate_predictor,False,Candidate predictor variable
+Vitamin C supply - Fruits and their products,int64,True,False,candidate_predictor,False,Candidate predictor variable
+Vitamin C supply - Milk and milk products,int64,True,False,candidate_predictor,False,Candidate predictor variable
+"Vitamin C supply - Roots, tubers, plantains and their products",int64,True,False,candidate_predictor,False,Candidate predictor variable
+Vitamin C supply - Vegetables and their products,int64,True,False,candidate_predictor,False,Candidate predictor variable
+Zinc supply - Cereals and their products,float64,True,False,candidate_predictor,False,Candidate predictor variable
+Zinc supply - Meat and meat products,float64,True,False,candidate_predictor,False,Candidate predictor variable
+Zinc supply - Milk and milk products,float64,True,False,candidate_predictor,False,Candidate predictor variable
+"Zinc supply - Pulses, seeds and nuts and their products",float64,True,False,candidate_predictor,False,Candidate predictor variable
+"Zinc supply - Roots, tubers, plantains and their products",float64,True,False,candidate_predictor,False,Candidate predictor variable
+Expected Years of Schooling (years),float64,True,False,candidate_predictor,False,Candidate predictor variable
+Gross National Income Per Capita (2017 PPP$),float64,True,False,candidate_predictor,False,Candidate predictor variable
+HDI Rank,float64,True,False,candidate_predictor,False,Candidate predictor variable
+Human Development Index (value),float64,True,False,candidate_predictor,False,Candidate predictor variable
+Life Expectancy at Birth (years),float64,True,False,candidate_predictor,False,Candidate predictor variable
+Mean Years of Schooling (years),float64,True,False,candidate_predictor,False,Candidate predictor variable
+BCG_coverage_pct,float64,True,False,candidate_predictor,False,Candidate predictor variable
+BCG_was_missing,bool,True,False,data_quality_indicator,True,"Missingness indicator; kept for audit/transparency, not used as a predictor"
+TB_incidence_2022,float64,True,False,target_source,True,Used only to define the binary target; excluded to avoid target leakage
+high_tb_burden,planned,False,True,target,True,Binary machine learning target created from TB_incidence_2022
+tb_burden_group,planned,False,True,target_label,True,Text label used only in tables and visualizations

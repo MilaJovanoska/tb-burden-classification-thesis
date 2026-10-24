@@ -1,0 +1,47 @@
+rank_by_absolute_correlation,feature,point_biserial_correlation,absolute_correlation,correlation_direction,interpretation
+1,Life Expectancy at Birth (years),-0.5670386889147101,0.5670386889147101,negative,Lower feature values are associated with high TB burden
+2,HDI Rank,0.5222484090451799,0.5222484090451799,positive,Higher feature values are associated with high TB burden
+3,Human Development Index (value),-0.5081291148961594,0.5081291148961594,negative,Lower feature values are associated with high TB burden
+4,Gross National Income Per Capita (2017 PPP$),-0.4137492116729044,0.4137492116729044,negative,Lower feature values are associated with high TB burden
+5,Energy supply - Sweets and sugars,-0.4111958449291778,0.4111958449291778,negative,Lower feature values are associated with high TB burden
+6,Zinc supply - Milk and milk products,-0.4066591607005379,0.4066591607005379,negative,Lower feature values are associated with high TB burden
+7,Mean Years of Schooling (years),-0.4030710180662295,0.4030710180662295,negative,Lower feature values are associated with high TB burden
+8,Protein supply - Milk and milk products,-0.4020810850263181,0.4020810850263181,negative,Lower feature values are associated with high TB burden
+9,BCG_coverage_pct,-0.39714215278566517,0.39714215278566517,negative,Lower feature values are associated with high TB burden
+10,Expected Years of Schooling (years),-0.3951612337630402,0.3951612337630402,negative,Lower feature values are associated with high TB burden
+11,Vitamin A supply (retinol activity equivalents) - Milk and milk products,-0.39419533781385857,0.39419533781385857,negative,Lower feature values are associated with high TB burden
+12,Calcium supply - Milk and milk products,-0.3865479909877638,0.3865479909877638,negative,Lower feature values are associated with high TB burden
+13,Energy supply - Fats and oils,-0.3767521096082297,0.3767521096082297,negative,Lower feature values are associated with high TB burden
+14,Energy supply - Meat and meat products,-0.37584001575133746,0.37584001575133746,negative,Lower feature values are associated with high TB burden
+15,Protein supply - Meat and meat products,-0.37370321654481714,0.37370321654481714,negative,Lower feature values are associated with high TB burden
+16,Vitamin A supply (retinol activity equivalents) - Fats and oils,-0.36633032446842684,0.36633032446842684,negative,Lower feature values are associated with high TB burden
+17,Zinc supply - Meat and meat products,-0.30660875807592186,0.30660875807592186,negative,Lower feature values are associated with high TB burden
+18,Vitamin C supply - Milk and milk products,-0.27742898502418684,0.27742898502418684,negative,Lower feature values are associated with high TB burden
+19,Vitamin C supply - Vegetables and their products,-0.2571922287187929,0.2571922287187929,negative,Lower feature values are associated with high TB burden
+20,"Energy supply - Roots, tubers, plantains and their products",0.23748481580111813,0.23748481580111813,positive,Higher feature values are associated with high TB burden
+21,"Zinc supply - Roots, tubers, plantains and their products",0.230982387382546,0.230982387382546,positive,Higher feature values are associated with high TB burden
+22,"Iron supply - Roots, tubers, plantains and their products",0.21139366246187777,0.21139366246187777,positive,Higher feature values are associated with high TB burden
+23,Iron supply - Meat and meat products,-0.19608896565129177,0.19608896565129177,negative,Lower feature values are associated with high TB burden
+24,Vitamin C supply - Beverages,-0.185178965816624,0.185178965816624,negative,Lower feature values are associated with high TB burden
+25,"Vitamin C supply - Roots, tubers, plantains and their products",0.17831835982049019,0.17831835982049019,positive,Higher feature values are associated with high TB burden
+26,Vitamin A supply (retinol activity equivalents) - Vegetables and their products,-0.15808675048633333,0.15808675048633333,negative,Lower feature values are associated with high TB burden
+27,"Vitamin A supply (retinol activity equivalents) - Roots, tubers, plantains and their products",0.1502457440955591,0.1502457440955591,positive,Higher feature values are associated with high TB burden
+28,Iron supply - Cereals and their products,-0.1479942593607414,0.1479942593607414,negative,Lower feature values are associated with high TB burden
+29,Protein supply - Cereals and their products,-0.1140703327528946,0.1140703327528946,negative,Lower feature values are associated with high TB burden
+30,Calcium supply - Cereals and their products,-0.109091315006605,0.109091315006605,negative,Lower feature values are associated with high TB burden
+31,"Selenium supply - Fish, shellfish and their products",-0.10784873865805353,0.10784873865805353,negative,Lower feature values are associated with high TB burden
+32,Iron supply - Vegetables and their products,-0.09015173788971158,0.09015173788971158,negative,Lower feature values are associated with high TB burden
+33,Energy supply - Cereals and their products,0.07991728117481384,0.07991728117481384,positive,Higher feature values are associated with high TB burden
+34,Vitamin C supply - Fruits and their products,-0.06982619754838376,0.06982619754838376,negative,Lower feature values are associated with high TB burden
+35,"Protein supply - Fish, shellfish and their products",-0.0674641938652784,0.0674641938652784,negative,Lower feature values are associated with high TB burden
+36,"Vitamin B12 supply - Fish, shellfish and their products",-0.06476136361495353,0.06476136361495353,negative,Lower feature values are associated with high TB burden
+37,Zinc supply - Cereals and their products,0.06286032796439353,0.06286032796439353,positive,Higher feature values are associated with high TB burden
+38,Vitamin A supply (retinol activity equivalents) - Meat and meat products,-0.06279465550162874,0.06279465550162874,negative,Lower feature values are associated with high TB burden
+39,"Calcium supply - Pulses, seeds and nuts and their products",0.06271028369992246,0.06271028369992246,positive,Higher feature values are associated with high TB burden
+40,"Iron supply - Pulses, seeds and nuts and their products",0.053207417067245535,0.053207417067245535,positive,Higher feature values are associated with high TB burden
+41,"Vitamin B6 supply - Fish, shellfish and their products",-0.04449406030945773,0.04449406030945773,negative,Lower feature values are associated with high TB burden
+42,"Zinc supply - Pulses, seeds and nuts and their products",0.04224133040974297,0.04224133040974297,positive,Higher feature values are associated with high TB burden
+43,Calcium supply - Vegetables and their products,-0.03320048125840651,0.03320048125840651,negative,Lower feature values are associated with high TB burden
+44,"Total saturated fatty acids supply - Fish, shellfish and their products",-0.03230688487036795,0.03230688487036795,negative,Lower feature values are associated with high TB burden
+45,"Protein supply - Pulses, seeds and nuts and their products",0.03032326995080027,0.03032326995080027,positive,Higher feature values are associated with high TB burden
+46,"Total monounsaturated fatty acids supply - Fish, shellfish and their products",-0.012577306837509251,0.012577306837509251,negative,Lower feature values are associated with high TB burden

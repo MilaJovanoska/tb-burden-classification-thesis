@@ -1,0 +1,25 @@
+feature,feature_display_name,tb_burden_group,display_label,display_label_with_n,number_of_countries,minimum,q1,median,mean,q3,maximum
+Energy supply - Sweets and sugars,Energy supply: sweets and sugars,high_tb_burden,High TB burden,"High TB burden
+(n=46)",46,28.0,109.5,177.0,223.696,311.0,664.0
+Energy supply - Sweets and sugars,Energy supply: sweets and sugars,non_high_tb_burden,Non-high TB burden,"Non-high TB burden
+(n=137)",137,54.0,289.0,388.0,371.321,452.0,676.0
+Gross National Income Per Capita (2017 PPP$),GNI per capita,high_tb_burden,High TB burden,"High TB burden
+(n=46)",46,690.661,2119.335,4031.63,5434.438,8031.523,16886.511
+Gross National Income Per Capita (2017 PPP$),GNI per capita,non_high_tb_burden,Non-high TB burden,"Non-high TB burden
+(n=137)",137,712.026,7987.842,16571.413,24132.03,35782.91,95944.378
+HDI Rank,HDI rank,high_tb_burden,High TB burden,"High TB burden
+(n=46)",46,66.0,129.75,150.5,148.435,170.25,193.0
+HDI Rank,HDI rank,non_high_tb_burden,Non-high TB burden,"Non-high TB burden
+(n=137)",137,1.0,39.0,77.0,81.876,119.0,189.0
+Human Development Index (value),Human Development Index,high_tb_burden,High TB burden,"High TB burden
+(n=46)",46,0.38,0.516,0.589,0.584,0.666,0.803
+Human Development Index (value),Human Development Index,non_high_tb_burden,Non-high TB burden,"Non-high TB burden
+(n=137)",137,0.394,0.699,0.781,0.765,0.878,0.967
+Life Expectancy at Birth (years),Life expectancy at birth,high_tb_burden,High TB burden,"High TB burden
+(n=46)",46,53.036,59.998,63.683,64.047,67.56,79.68
+Life Expectancy at Birth (years),Life expectancy at birth,non_high_tb_burden,Non-high TB burden,"Non-high TB burden
+(n=137)",137,52.997,70.492,74.263,74.147,79.196,84.82
+Zinc supply - Milk and milk products,Zinc supply: milk products,high_tb_burden,High TB burden,"High TB burden
+(n=46)",46,0.02,0.122,0.28,0.5,0.678,2.22
+Zinc supply - Milk and milk products,Zinc supply: milk products,non_high_tb_burden,Non-high TB burden,"Non-high TB burden
+(n=137)",137,0.06,0.69,1.31,1.618,2.37,5.05

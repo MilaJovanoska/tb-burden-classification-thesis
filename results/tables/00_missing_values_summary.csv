@@ -1,0 +1,50 @@
+column_name,data_type,non_missing_values,missing_values,missing_percentage,status
+Area,object,183,0,0.0,OK
+Calcium supply - Cereals and their products,int64,183,0,0.0,OK
+Calcium supply - Milk and milk products,int64,183,0,0.0,OK
+"Calcium supply - Pulses, seeds and nuts and their products",int64,183,0,0.0,OK
+Calcium supply - Vegetables and their products,int64,183,0,0.0,OK
+Energy supply - Cereals and their products,int64,183,0,0.0,OK
+Energy supply - Fats and oils,int64,183,0,0.0,OK
+Energy supply - Meat and meat products,int64,183,0,0.0,OK
+"Energy supply - Roots, tubers, plantains and their products",int64,183,0,0.0,OK
+Energy supply - Sweets and sugars,int64,183,0,0.0,OK
+Iron supply - Cereals and their products,float64,183,0,0.0,OK
+Iron supply - Meat and meat products,float64,183,0,0.0,OK
+"Iron supply - Pulses, seeds and nuts and their products",float64,183,0,0.0,OK
+"Iron supply - Roots, tubers, plantains and their products",float64,183,0,0.0,OK
+Iron supply - Vegetables and their products,float64,183,0,0.0,OK
+Protein supply - Cereals and their products,float64,183,0,0.0,OK
+"Protein supply - Fish, shellfish and their products",float64,183,0,0.0,OK
+Protein supply - Meat and meat products,float64,183,0,0.0,OK
+Protein supply - Milk and milk products,float64,183,0,0.0,OK
+"Protein supply - Pulses, seeds and nuts and their products",float64,183,0,0.0,OK
+"Selenium supply - Fish, shellfish and their products",int64,183,0,0.0,OK
+"Total monounsaturated fatty acids supply - Fish, shellfish and their products",float64,183,0,0.0,OK
+"Total saturated fatty acids supply - Fish, shellfish and their products",float64,183,0,0.0,OK
+Vitamin A supply (retinol activity equivalents) - Fats and oils,int64,183,0,0.0,OK
+Vitamin A supply (retinol activity equivalents) - Meat and meat products,int64,183,0,0.0,OK
+Vitamin A supply (retinol activity equivalents) - Milk and milk products,int64,183,0,0.0,OK
+"Vitamin A supply (retinol activity equivalents) - Roots, tubers, plantains and their products",int64,183,0,0.0,OK
+Vitamin A supply (retinol activity equivalents) - Vegetables and their products,int64,183,0,0.0,OK
+"Vitamin B12 supply - Fish, shellfish and their products",float64,183,0,0.0,OK
+"Vitamin B6 supply - Fish, shellfish and their products",float64,183,0,0.0,OK
+Vitamin C supply - Beverages,int64,183,0,0.0,OK
+Vitamin C supply - Fruits and their products,int64,183,0,0.0,OK
+Vitamin C supply - Milk and milk products,int64,183,0,0.0,OK
+"Vitamin C supply - Roots, tubers, plantains and their products",int64,183,0,0.0,OK
+Vitamin C supply - Vegetables and their products,int64,183,0,0.0,OK
+Zinc supply - Cereals and their products,float64,183,0,0.0,OK
+Zinc supply - Meat and meat products,float64,183,0,0.0,OK
+Zinc supply - Milk and milk products,float64,183,0,0.0,OK
+"Zinc supply - Pulses, seeds and nuts and their products",float64,183,0,0.0,OK
+"Zinc supply - Roots, tubers, plantains and their products",float64,183,0,0.0,OK
+Expected Years of Schooling (years),float64,183,0,0.0,OK
+Gross National Income Per Capita (2017 PPP$),float64,183,0,0.0,OK
+HDI Rank,float64,183,0,0.0,OK
+Human Development Index (value),float64,183,0,0.0,OK
+Life Expectancy at Birth (years),float64,183,0,0.0,OK
+Mean Years of Schooling (years),float64,183,0,0.0,OK
+BCG_coverage_pct,float64,183,0,0.0,OK
+BCG_was_missing,bool,183,0,0.0,OK
+TB_incidence_2022,float64,183,0,0.0,OK

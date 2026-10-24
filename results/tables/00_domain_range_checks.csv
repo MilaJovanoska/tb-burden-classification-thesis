@@ -1,0 +1,9 @@
+check,column_name,expected_min,expected_max,observed_min,observed_max,number_of_violations,status
+TB incidence >= 0,TB_incidence_2022,0,,0.76,661.0,0,passed
+BCG coverage between 0 and 100,BCG_coverage_pct,0,100.0,48.0,100.0,0,passed
+HDI between 0 and 1,Human Development Index (value),0,1.0,0.38,0.967,0,passed
+Life expectancy between 0 and 120,Life Expectancy at Birth (years),0,120.0,52.997,84.82,0,passed
+Expected years of schooling >= 0,Expected Years of Schooling (years),0,,5.635,21.08,0,passed
+Mean years of schooling >= 0,Mean Years of Schooling (years),0,,1.341,14.256,0,passed
+GNI per capita >= 0,Gross National Income Per Capita (2017 PPP$),0,,690.661,95944.378,0,passed
+HDI rank > 0,HDI Rank,1,,1.0,193.0,0,passed

@@ -1,0 +1,14 @@
+Metric,Value
+Count,183.0
+Minimum,0.759999990463
+Mean,106.41989070991342
+Median,45.0
+Standard deviation,141.66490347658947
+Q1,11.0
+Q3,152.5
+IQR,141.5
+Maximum,661.0
+Skewness,1.7954267901282026
+Lower outlier bound,-201.25
+Upper outlier bound,364.75
+Potential outliers,14.0

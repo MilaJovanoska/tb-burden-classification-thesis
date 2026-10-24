@@ -1,0 +1,3 @@
+high_tb_burden,tb_burden_group,number_of_countries,percentage,interpretation
+0,non_high_tb_burden,137,74.86,Countries below the Q3 TB incidence threshold
+1,high_tb_burden,46,25.14,Countries at or above the Q3 TB incidence threshold

@@ -1,0 +1,16 @@
+metric,value,interpretation
+count,183.0,Number of countries with available TB incidence values
+minimum,0.76,Lowest TB incidence value observed
+mean,106.42,Average TB incidence across countries
+median,45.0,Middle value of the TB incidence distribution
+standard_deviation,141.665,Spread of TB incidence values around the mean
+q1,11.0,25th percentile of TB incidence
+q3_threshold,152.5,75th percentile of TB incidence; used later as the target threshold
+iqr,141.5,Middle 50% spread of TB incidence values
+maximum,661.0,Highest TB incidence value observed
+skewness,1.795,Measures asymmetry of the TB incidence distribution
+lower_outlier_bound,-201.25,Lower IQR-based outlier boundary
+upper_outlier_bound,364.75,Upper IQR-based outlier boundary
+potential_outliers_iqr_rule,14.0,Number of countries outside the IQR-based outlier boundaries
+expected_non_high_tb_burden_count,137.0,Expected number of countries below the Q3 threshold
+expected_high_tb_burden_count,46.0,Expected number of countries at or above the Q3 threshold

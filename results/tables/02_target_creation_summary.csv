@@ -1,0 +1,11 @@
+metric,value
+target_source_column,TB_incidence_2022
+q3_operational_threshold,152.5
+classification_rule,high_tb_burden = 1 if TB_incidence_2022 >= Q3 operational threshold
+countries_equal_to_q3_threshold,0
+number_of_rows,183
+number_of_columns_after_target_creation,51
+high_tb_burden_count,46
+non_high_tb_burden_count,137
+high_tb_burden_percentage,25.14
+non_high_tb_burden_percentage,74.86

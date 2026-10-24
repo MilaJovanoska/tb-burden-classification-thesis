@@ -1,0 +1,16 @@
+feature_1,feature_2,pearson_correlation,absolute_correlation
+Zinc supply - Milk and milk products,Protein supply - Milk and milk products,0.996,0.996
+Protein supply - Milk and milk products,Calcium supply - Milk and milk products,0.993,0.993
+Zinc supply - Milk and milk products,Calcium supply - Milk and milk products,0.991,0.991
+HDI Rank,Human Development Index (value),-0.989,0.989
+Energy supply - Meat and meat products,Protein supply - Meat and meat products,0.986,0.986
+Vitamin A supply (retinol activity equivalents) - Milk and milk products,Calcium supply - Milk and milk products,0.97,0.97
+Protein supply - Milk and milk products,Vitamin A supply (retinol activity equivalents) - Milk and milk products,0.964,0.964
+Zinc supply - Milk and milk products,Vitamin A supply (retinol activity equivalents) - Milk and milk products,0.953,0.953
+Human Development Index (value),Mean Years of Schooling (years),0.91,0.91
+Life Expectancy at Birth (years),Human Development Index (value),0.902,0.902
+Life Expectancy at Birth (years),HDI Rank,-0.898,0.898
+Human Development Index (value),Expected Years of Schooling (years),0.896,0.896
+HDI Rank,Mean Years of Schooling (years),-0.893,0.893
+HDI Rank,Expected Years of Schooling (years),-0.891,0.891
+HDI Rank,Gross National Income Per Capita (2017 PPP$),-0.865,0.865

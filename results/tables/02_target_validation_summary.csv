@@ -1,0 +1,12 @@
+check,value,expected,status
+q3_threshold,152.5,152.500 approximately,passed
+classification_rule,high_tb_burden = 1 if TB_incidence_2022 >= Q3 threshold,consistent with Q3 threshold rule,passed
+countries_equal_to_q3_threshold,0,reported for transparency,reported
+target_mismatches,0,0,passed
+target_label_mismatches,0,0,passed
+missing_binary_target_values,0,0,passed
+missing_target_label_values,0,0,passed
+minimum_incidence_in_high_group,154.0,>= q3_threshold,passed
+maximum_incidence_in_non_high_group,151.0,< q3_threshold,passed
+high_tb_burden_count,46,approximately 25% of countries,reported
+non_high_tb_burden_count,137,approximately 75% of countries,reported

@@ -1,0 +1,5 @@
+diagnostic_plot,number_of_predictors_displayed,figure_path
+Top positive skewness predictors,25,/content/drive/MyDrive/TB_Burden_Classification_Thesis/results/figures/05a_top_positive_skewness_predictors.png
+Top negative skewness predictors,7,/content/drive/MyDrive/TB_Burden_Classification_Thesis/results/figures/05a_top_negative_skewness_predictors.png
+Top predictors by overall outlier rate,25,/content/drive/MyDrive/TB_Burden_Classification_Thesis/results/figures/05a_top_predictors_by_overall_outlier_rate.png
+Top predictors by maximum class-specific outlier rate,25,/content/drive/MyDrive/TB_Burden_Classification_Thesis/results/figures/05a_top_predictors_by_maximum_class_outlier_rate.png

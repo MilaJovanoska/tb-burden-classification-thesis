@@ -1,0 +1,21 @@
+rank,country,tb_incidence_rate_per_100k,above_q3_operational_threshold,difference_from_q3_operational_threshold
+1,Lesotho,661.0,True,508.5
+2,Philippines,638.0,True,485.5
+3,Central African Republic,540.0,True,387.5
+4,Gabon,509.0,True,356.5
+5,Timor-Leste,498.0,True,345.5
+6,Marshall Islands,483.0,True,330.5
+7,Myanmar,475.0,True,322.5
+8,South Africa,468.0,True,315.5
+9,Mongolia,452.0,True,299.5
+10,Namibia,450.0,True,297.5
+11,Papua New Guinea,432.0,True,279.5
+12,Kiribati,431.0,True,278.5
+13,Indonesia,385.0,True,232.5
+14,Congo,369.0,True,216.5
+15,Guinea-Bissau,361.0,True,208.5
+16,Mozambique,361.0,True,208.5
+17,Angola,333.0,True,180.5
+18,Eswatini,325.0,True,172.5
+19,Cambodia,320.0,True,167.5
+20,Democratic Republic of the Congo,317.0,True,164.5

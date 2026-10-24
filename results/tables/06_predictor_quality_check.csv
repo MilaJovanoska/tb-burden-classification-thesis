@@ -1,0 +1,47 @@
+Predictor,Data type,Missing values,Unique values,Minimum,Maximum,Is constant
+Calcium supply - Cereals and their products,int64,0,80,15.0,201.0,False
+Calcium supply - Milk and milk products,int64,0,163,8.0,1335.0,False
+"Calcium supply - Pulses, seeds and nuts and their products",int64,0,71,5.0,335.0,False
+Calcium supply - Vegetables and their products,int64,0,116,14.0,619.0,False
+Energy supply - Cereals and their products,int64,0,170,288.0,1954.0,False
+Energy supply - Fats and oils,int64,0,154,67.0,1096.0,False
+Energy supply - Meat and meat products,int64,0,151,19.0,721.0,False
+"Energy supply - Roots, tubers, plantains and their products",int64,0,135,14.0,1519.0,False
+Energy supply - Sweets and sugars,int64,0,155,28.0,676.0,False
+Iron supply - Cereals and their products,float64,0,73,1.5,14.8,False
+Iron supply - Meat and meat products,float64,0,45,0.2,14.3,False
+"Iron supply - Pulses, seeds and nuts and their products",float64,0,42,0.3,8.4,False
+"Iron supply - Roots, tubers, plantains and their products",float64,0,44,0.1,8.5,False
+Iron supply - Vegetables and their products,float64,0,47,0.3,11.3,False
+Protein supply - Cereals and their products,float64,0,133,6.7,55.0,False
+"Protein supply - Fish, shellfish and their products",float64,0,91,0.1,26.3,False
+Protein supply - Meat and meat products,float64,0,155,1.8,75.4,False
+Protein supply - Milk and milk products,float64,0,127,0.2,40.7,False
+"Protein supply - Pulses, seeds and nuts and their products",float64,0,101,1.1,34.3,False
+"Selenium supply - Fish, shellfish and their products",int64,0,38,0.0,58.0,False
+"Total monounsaturated fatty acids supply - Fish, shellfish and their products",float64,0,98,0.01,2.54,False
+"Total saturated fatty acids supply - Fish, shellfish and their products",float64,0,82,0.01,1.79,False
+Vitamin A supply (retinol activity equivalents) - Fats and oils,int64,0,109,1.0,490.0,False
+Vitamin A supply (retinol activity equivalents) - Meat and meat products,int64,0,151,18.0,2901.0,False
+Vitamin A supply (retinol activity equivalents) - Milk and milk products,int64,0,128,2.0,343.0,False
+"Vitamin A supply (retinol activity equivalents) - Roots, tubers, plantains and their products",int64,0,73,0.0,702.0,False
+Vitamin A supply (retinol activity equivalents) - Vegetables and their products,int64,0,143,22.0,1069.0,False
+"Vitamin B12 supply - Fish, shellfish and their products",float64,0,134,0.03,8.6,False
+"Vitamin B6 supply - Fish, shellfish and their products",float64,0,30,0.0,0.42,False
+Vitamin C supply - Beverages,int64,0,34,0.0,74.0,False
+Vitamin C supply - Fruits and their products,int64,0,95,5.0,416.0,False
+Vitamin C supply - Milk and milk products,int64,0,9,0.0,8.0,False
+"Vitamin C supply - Roots, tubers, plantains and their products",int64,0,70,2.0,306.0,False
+Vitamin C supply - Vegetables and their products,int64,0,84,4.0,351.0,False
+Zinc supply - Cereals and their products,float64,0,151,1.13,9.85,False
+Zinc supply - Meat and meat products,float64,0,156,0.25,12.37,False
+Zinc supply - Milk and milk products,float64,0,135,0.02,5.05,False
+"Zinc supply - Pulses, seeds and nuts and their products",float64,0,115,0.17,4.72,False
+"Zinc supply - Roots, tubers, plantains and their products",float64,0,105,0.05,11.44,False
+Expected Years of Schooling (years),float64,0,182,5.635,21.08,False
+Gross National Income Per Capita (2017 PPP$),float64,0,183,690.661,95944.378,False
+HDI Rank,float64,0,157,1.0,193.0,False
+Human Development Index (value),float64,0,157,0.38,0.967,False
+Life Expectancy at Birth (years),float64,0,181,52.997,84.82,False
+Mean Years of Schooling (years),float64,0,181,1.341,14.256,False
+BCG_coverage_pct,float64,0,52,48.0,100.0,False
