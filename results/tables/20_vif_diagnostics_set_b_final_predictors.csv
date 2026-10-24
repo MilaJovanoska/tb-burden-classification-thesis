@@ -1,0 +1,14 @@
+vif_rank,feature,r_squared_against_other_predictors,tolerance,vif,vif_category,vif_ge_5_flag,vif_ge_10_flag
+1,Human Development Index (value),0.8020266980237962,0.19797330197620377,5.05118614488836,Moderate multicollinearity,True,False
+2,Vitamin A supply (retinol activity equivalents) - Fats and oils,0.6776225627562782,0.3223774372437218,3.101954059036663,Low / acceptable multicollinearity,False,False
+3,Protein supply - Meat and meat products,0.6605263347601298,0.3394736652398702,2.9457365987238084,Low / acceptable multicollinearity,False,False
+4,Zinc supply - Milk and milk products,0.6601906994495308,0.3398093005504692,2.942827045581343,Low / acceptable multicollinearity,False,False
+5,Energy supply - Fats and oils,0.5984778119919398,0.40152218800806017,2.4905223917038577,Low / acceptable multicollinearity,False,False
+6,Energy supply - Sweets and sugars,0.5942038274659324,0.40579617253406763,2.4642913553258006,Low / acceptable multicollinearity,False,False
+7,Vitamin C supply - Vegetables and their products,0.5634251221483033,0.4365748778516967,2.2905578189033986,Low / acceptable multicollinearity,False,False
+8,Vitamin A supply (retinol activity equivalents) - Vegetables and their products,0.5604563200250299,0.4395436799749701,2.27508674463695,Low / acceptable multicollinearity,False,False
+9,"Energy supply - Roots, tubers, plantains and their products",0.5335242650817349,0.4664757349182651,2.143734229123875,Low / acceptable multicollinearity,False,False
+10,"Vitamin A supply (retinol activity equivalents) - Roots, tubers, plantains and their products",0.48513509477771655,0.5148649052222835,1.9422570656049443,Low / acceptable multicollinearity,False,False
+11,BCG_coverage_pct,0.4020782603762365,0.5979217396237635,1.672459677798704,Low / acceptable multicollinearity,False,False
+12,Vitamin A supply (retinol activity equivalents) - Meat and meat products,0.37780027228264035,0.6221997277173597,1.6072009604836404,Low / acceptable multicollinearity,False,False
+13,Vitamin C supply - Beverages,0.2906010285696866,0.7093989714303134,1.4096439948084043,Low / acceptable multicollinearity,False,False

@@ -1,0 +1,22 @@
+item,value
+Diagnostic step,VIF diagnostics for Set B predictors
+Predictor set,Set B - final predictors after Spearman pruning
+Data used,X_train_final only
+Target variable used,No
+Test set used,No
+Feature selection performed in this cell,No
+Number of predictors checked,13
+Training samples,146
+Maximum VIF,5.05118614488836
+Median VIF,2.2905578189033973
+Predictors with VIF >= 5,1
+Predictors with VIF >= 10,0
+Raw design matrix rank,14
+Raw design matrix columns including constant,14
+Raw design matrix full rank,True
+Raw design matrix condition number,10900.75692383362
+Standardized design matrix rank,14
+Standardized design matrix columns including constant,14
+Standardized design matrix full rank,True
+Standardized design matrix condition number,6.188829940617222
+Main interpretation,VIF diagnostics evaluate remaining linear multicollinearity among Set B predictors after Spearman-based pruning. The standardized condition number is reported because the raw condition number is sensitive to predictor scale.

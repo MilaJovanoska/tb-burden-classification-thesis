@@ -1,0 +1,29 @@
+predictor_set,predictor_column
+Set B - Statistically selected predictors,Life Expectancy at Birth (years)
+Set B - Statistically selected predictors,HDI Rank
+Set B - Statistically selected predictors,Human Development Index (value)
+Set B - Statistically selected predictors,Mean Years of Schooling (years)
+Set B - Statistically selected predictors,BCG_coverage_pct
+Set B - Statistically selected predictors,Expected Years of Schooling (years)
+Set B - Statistically selected predictors,Energy supply - Sweets and sugars
+Set B - Statistically selected predictors,Gross National Income Per Capita (2017 PPP$)
+Set B - Statistically selected predictors,Zinc supply - Milk and milk products
+Set B - Statistically selected predictors,Protein supply - Milk and milk products
+Set B - Statistically selected predictors,Vitamin A supply (retinol activity equivalents) - Milk and milk products
+Set B - Statistically selected predictors,Energy supply - Fats and oils
+Set B - Statistically selected predictors,Calcium supply - Milk and milk products
+Set B - Statistically selected predictors,Vitamin A supply (retinol activity equivalents) - Fats and oils
+Set B - Statistically selected predictors,Energy supply - Meat and meat products
+Set B - Statistically selected predictors,Protein supply - Meat and meat products
+Set B - Statistically selected predictors,Zinc supply - Meat and meat products
+Set B - Statistically selected predictors,Vitamin C supply - Milk and milk products
+Set B - Statistically selected predictors,Vitamin C supply - Vegetables and their products
+Set B - Statistically selected predictors,"Energy supply - Roots, tubers, plantains and their products"
+Set B - Statistically selected predictors,"Iron supply - Roots, tubers, plantains and their products"
+Set B - Statistically selected predictors,Vitamin C supply - Beverages
+Set B - Statistically selected predictors,"Zinc supply - Roots, tubers, plantains and their products"
+Set B - Statistically selected predictors,Iron supply - Cereals and their products
+Set B - Statistically selected predictors,"Vitamin A supply (retinol activity equivalents) - Roots, tubers, plantains and their products"
+Set B - Statistically selected predictors,Iron supply - Meat and meat products
+Set B - Statistically selected predictors,Vitamin A supply (retinol activity equivalents) - Vegetables and their products
+Set B - Statistically selected predictors,Vitamin A supply (retinol activity equivalents) - Meat and meat products

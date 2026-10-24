@@ -1,0 +1,19 @@
+correlation_cluster_id,feature,screening_priority_order,screening_evidence_tier,minimum_fdr_p_value,smd_absolute_hedges_g,absolute_rank_biserial_correlation,number_of_statistical_evidence_sources,number_of_practical_effect_sources
+1,HDI Rank,1,Strong: statistical evidence in both tests and both effect-size criteria met,8.592304771884887e-19,1.5803925301171204,0.7575006198859411,2,2
+1,Gross National Income Per Capita (2017 PPP$),2,Strong: statistical evidence in both tests and both effect-size criteria met,4.465069304332298e-15,1.0859734832533814,0.7341929085048351,2,2
+1,Human Development Index (value),3,Strong: statistical evidence in both tests and both effect-size criteria met,3.374400619356027e-14,1.579201049059576,0.757500619885941,2,2
+1,Life Expectancy at Birth (years),4,Strong: statistical evidence in both tests and both effect-size criteria met,3.8324014244131635e-14,1.807932924693746,0.8038680882717579,2,2
+1,Mean Years of Schooling (years),9,Strong: statistical evidence in both tests and both effect-size criteria met,5.39250938450959e-09,1.1660076457459494,0.6228613935035954,2,2
+1,Expected Years of Schooling (years),10,Strong: statistical evidence in both tests and both effect-size criteria met,1.4163207469213025e-08,1.128614521967361,0.6149268534589636,2,2
+2,Zinc supply - Milk and milk products,5,Strong: statistical evidence in both tests and both effect-size criteria met,7.1070691500719e-11,1.023698043571132,0.6342672948177535,2,2
+2,Protein supply - Milk and milk products,7,Strong: statistical evidence in both tests and both effect-size criteria met,9.237898875393649e-10,1.00562806755067,0.6183982147284899,2,2
+2,Vitamin A supply (retinol activity equivalents) - Milk and milk products,11,Strong: statistical evidence in both tests and both effect-size criteria met,1.8948794907858625e-08,0.9746721406902588,0.6050086784031738,2,2
+2,Calcium supply - Milk and milk products,12,Strong: statistical evidence in both tests and both effect-size criteria met,2.7173910952085464e-08,0.9530389700598989,0.5908752789486734,2,2
+2,Vitamin C supply - Milk and milk products,19,Strong: statistical evidence in both tests and both effect-size criteria met,0.00016772780844950705,0.612672637784109,0.4302008430448797,2,2
+3,Protein supply - Meat and meat products,14,Strong: statistical evidence in both tests and both effect-size criteria met,1.9204301372039094e-06,0.8687967576346977,0.5509546243491197,2,2
+3,Energy supply - Meat and meat products,16,Strong: statistical evidence in both tests and both effect-size criteria met,2.8254234963272997e-06,0.8743550016019591,0.5397966774113563,2,2
+3,Zinc supply - Meat and meat products,17,Strong: statistical evidence in both tests and both effect-size criteria met,1.0131801055106914e-05,0.6561157832154466,0.5100421522439871,2,2
+3,Iron supply - Meat and meat products,23,Candidate: statistical evidence and practical effect,0.00028075608383723024,0.36523844275214257,0.4235060748822217,1,1
+4,"Energy supply - Roots, tubers, plantains and their products",21,Candidate: statistical evidence and practical effect,0.028407723487555683,0.6041039623165818,0.2439871063724275,2,1
+4,"Iron supply - Roots, tubers, plantains and their products",22,Candidate: statistical evidence and practical effect,0.03752373797514412,0.5343558344455727,0.23258120505826918,2,1
+4,"Zinc supply - Roots, tubers, plantains and their products",27,Candidate: statistical evidence and practical effect,0.02841067146172361,0.5511830359463986,0.26407141086040165,1,1

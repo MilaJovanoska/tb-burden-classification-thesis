@@ -1,0 +1,19 @@
+spearman_group_id,feature,screening_priority_order,is_preliminary_representative_by_screening_priority,minimum_fdr_p_value,welch_absolute_hedges_g,mann_whitney_absolute_rank_biserial,direction_consistency
+Spearman_group_01,HDI Rank,1,True,8.592304771884887e-19,1.5803925301171204,0.7575006198859411,Consistent direction
+Spearman_group_01,Gross National Income Per Capita (2017 PPP$),2,False,4.465069304332298e-15,1.0859734832533814,0.7341929085048351,Consistent direction
+Spearman_group_01,Human Development Index (value),3,False,3.374400619356028e-14,1.579201049059576,0.757500619885941,Consistent direction
+Spearman_group_01,Life Expectancy at Birth (years),4,False,3.8324014244131635e-14,1.807932924693746,0.8038680882717579,Consistent direction
+Spearman_group_01,Mean Years of Schooling (years),9,False,5.3925093845095895e-09,1.1660076457459494,0.6228613935035954,Consistent direction
+Spearman_group_01,Expected Years of Schooling (years),10,False,1.4163207469213025e-08,1.128614521967361,0.6149268534589636,Consistent direction
+Spearman_group_02,Zinc supply - Milk and milk products,5,True,7.1070691500719e-11,1.023698043571132,0.6342672948177535,Consistent direction
+Spearman_group_02,Protein supply - Milk and milk products,7,False,9.237898875393648e-10,1.00562806755067,0.6183982147284899,Consistent direction
+Spearman_group_02,Vitamin A supply (retinol activity equivalents) - Milk and milk products,11,False,1.8948794907858625e-08,0.9746721406902588,0.6050086784031738,Consistent direction
+Spearman_group_02,Calcium supply - Milk and milk products,12,False,2.7173910952085467e-08,0.9530389700598989,0.5908752789486734,Consistent direction
+Spearman_group_02,Vitamin C supply - Milk and milk products,19,False,0.00016772780844950705,0.612672637784109,0.4302008430448797,Consistent direction
+Spearman_group_03,Protein supply - Meat and meat products,14,True,1.9204301372039094e-06,0.8687967576346977,0.5509546243491197,Consistent direction
+Spearman_group_03,Energy supply - Meat and meat products,16,False,2.8254234963272997e-06,0.8743550016019591,0.5397966774113563,Consistent direction
+Spearman_group_03,Zinc supply - Meat and meat products,17,False,1.0131801055106914e-05,0.6561157832154466,0.5100421522439871,Consistent direction
+Spearman_group_03,Iron supply - Meat and meat products,23,False,0.00028075608383723024,0.36523844275214257,0.4235060748822217,Consistent direction
+Spearman_group_04,"Energy supply - Roots, tubers, plantains and their products",21,True,0.028407723487555683,0.6041039623165818,0.2439871063724275,Consistent direction
+Spearman_group_04,"Iron supply - Roots, tubers, plantains and their products",22,False,0.03752373797514412,0.5343558344455727,0.23258120505826918,Consistent direction
+Spearman_group_04,"Zinc supply - Roots, tubers, plantains and their products",27,False,0.028410671461723606,0.5511830359463986,0.26407141086040165,Consistent direction

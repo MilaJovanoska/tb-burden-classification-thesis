@@ -1,0 +1,17 @@
+item,value
+Model,Ordinary Logistic Regression - Set B
+Predictor set,Set B - final standardized predictors
+Predictors included,13
+Standardized predictors,Yes
+Coefficient interpretation,Change in log-odds of high TB burden per one standard deviation increase in the predictor
+Odds ratio interpretation,Multiplicative change in odds of high TB burden per one standard deviation increase in the predictor
+Predictors significant at p < 0.05,0
+Predictors significant at p < 0.10,3
+Predictors with positive coefficients,4
+Predictors with negative coefficients,9
+Largest positive coefficient feature,Vitamin A supply (retinol activity equivalents) - Vegetables and their products
+Largest negative coefficient feature,Vitamin C supply - Vegetables and their products
+Largest absolute coefficient feature,Vitamin C supply - Vegetables and their products
+VIF information included if available,Yes
+Test set used in this coefficient extraction,No
+Classification performance evaluated in this cell,No

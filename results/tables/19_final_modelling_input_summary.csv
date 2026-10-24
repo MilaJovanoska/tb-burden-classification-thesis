@@ -1,0 +1,19 @@
+item,value
+Final predictors used as model inputs,13
+Training samples,146
+Testing samples,37
+Training input shape,"(146, 13)"
+Testing input shape,"(37, 13)"
+Target training samples,146
+Target testing samples,37
+Missing values in X_train_final,0
+Missing values in X_test_final,0
+Infinite values in X_train_final,0
+Infinite values in X_test_final,0
+Training input source,X_train_all
+Testing input source,X_test_all
+Training target source,y_train
+Testing target source,y_test
+Feature selection source,Training-only combined screening followed by training-only Spearman multicollinearity pruning
+Test set used for feature selection,No
+New train-test split created in this cell,No

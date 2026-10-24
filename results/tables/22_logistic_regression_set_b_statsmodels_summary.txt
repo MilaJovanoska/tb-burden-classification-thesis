@@ -1,0 +1,28 @@
+                                                               Results: Logit
+=============================================================================================================================================
+Model:                                        Logit                                     Method:                                    MLE       
+Dependent Variable:                           high_tb_burden                            Pseudo R-squared:                          0.415     
+Date:                                         2026-06-30 02:47                          AIC:                                       124.6449  
+No. Observations:                             146                                       BIC:                                       166.4154  
+Df Model:                                     13                                        Log-Likelihood:                            -48.322   
+Df Residuals:                                 132                                       LL-Null:                                   -82.646   
+Converged:                                    1.0000                                    LLR p-value:                               1.4233e-09
+No. Iterations:                               28.0000                                   Scale:                                     1.0000    
+---------------------------------------------------------------------------------------------------------------------------------------------
+                                                                                               Coef.  Std.Err.    z    P>|z|   [0.025  0.975]
+---------------------------------------------------------------------------------------------------------------------------------------------
+const                                                                                         -2.2726   0.4719 -4.8161 0.0000 -3.1974 -1.3477
+Human Development Index (value)                                                               -1.0771   0.5783 -1.8626 0.0625 -2.2105  0.0563
+Zinc supply - Milk and milk products                                                          -1.2602   0.7244 -1.7395 0.0819 -2.6801  0.1597
+Energy supply - Fats and oils                                                                 -0.1496   0.5481 -0.2729 0.7849 -1.2238  0.9247
+Vitamin A supply (retinol activity equivalents) - Fats and oils                                0.2460   0.7089  0.3470 0.7286 -1.1435  1.6354
+Energy supply - Sweets and sugars                                                             -0.1979   0.3854 -0.5136 0.6075 -0.9533  0.5574
+Protein supply - Meat and meat products                                                       -0.3162   0.4511 -0.7009 0.4834 -1.2002  0.5679
+BCG_coverage_pct                                                                              -0.3339   0.2631 -1.2692 0.2044 -0.8495  0.1817
+Vitamin C supply - Vegetables and their products                                              -1.6233   1.0938 -1.4840 0.1378 -3.7671  0.5206
+Vitamin C supply - Beverages                                                                   0.3556   0.2810  1.2654 0.2057 -0.1952  0.9063
+Energy supply - Roots, tubers, plantains and their products                                   -0.0740   0.2941 -0.2516 0.8014 -0.6504  0.5025
+Vitamin A supply (retinol activity equivalents) - Roots, tubers, plantains and their products -0.2631   0.2782 -0.9457 0.3443 -0.8084  0.2822
+Vitamin A supply (retinol activity equivalents) - Vegetables and their products                1.0050   0.6783  1.4817 0.1384 -0.3244  2.3344
+Vitamin A supply (retinol activity equivalents) - Meat and meat products                       0.5941   0.3309  1.7957 0.0725 -0.0544  1.2426
+=============================================================================================================================================

@@ -1,0 +1,5 @@
+correlation_cluster_id,number_of_predictors_in_cluster,strongest_absolute_spearman_correlation_in_cluster,highest_priority_feature_in_cluster,predictors_in_cluster
+1,6,1.0,HDI Rank,HDI Rank | Gross National Income Per Capita (2017 PPP$) | Human Development Index (value) | Life Expectancy at Birth (years) | Mean Years of Schooling (years) | Expected Years of Schooling (years)
+2,5,0.9969475481677237,Zinc supply - Milk and milk products,Zinc supply - Milk and milk products | Protein supply - Milk and milk products | Vitamin A supply (retinol activity equivalents) - Milk and milk products | Calcium supply - Milk and milk products | Vitamin C supply - Milk and milk products
+3,4,0.9843928200650649,Protein supply - Meat and meat products,Protein supply - Meat and meat products | Energy supply - Meat and meat products | Zinc supply - Meat and meat products | Iron supply - Meat and meat products
+4,3,0.9764218599590299,"Energy supply - Roots, tubers, plantains and their products","Energy supply - Roots, tubers, plantains and their products | Iron supply - Roots, tubers, plantains and their products | Zinc supply - Roots, tubers, plantains and their products"

@@ -1,0 +1,13 @@
+item,value
+Selection step,Training-only predictor selection after Spearman multicollinearity pruning
+Selection policy,Retain all candidate predictors outside high-correlation groups; select one representative predictor from each high-correlation group.
+Candidate predictors before collinearity,27
+Spearman high-correlation threshold,0.85
+Predictors in high-correlation groups,18
+High-correlation groups,4
+Representatives retained from high-correlation groups,4
+Candidate predictors outside high-correlation groups retained,9
+Final predictors after Spearman pruning,13
+Predictors excluded due to Spearman collinearity,14
+Minimum absolute Hedges g used for screening,0.5
+Minimum absolute rank-biserial correlation used for screening,0.3

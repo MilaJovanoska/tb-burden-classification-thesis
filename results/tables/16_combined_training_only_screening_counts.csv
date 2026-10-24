@@ -1,0 +1,14 @@
+item,value
+Predictors evaluated,46.0
+Welch FDR-significant predictors,23.0
+Mann-Whitney FDR-significant predictors,32.0
+Predictors with any statistical evidence,32.0
+Predictors with mean-based practical effect,22.0
+Predictors with rank-based practical effect,24.0
+Predictors with any practical effect,27.0
+Candidate predictors before collinearity,27.0
+Non-retained predictors before collinearity,19.0
+Predictors with consistent Welch and Mann-Whitney direction,45.0
+FDR alpha,0.05
+Minimum absolute Hedges g for retention,0.5
+Minimum absolute rank-biserial correlation for retention,0.3

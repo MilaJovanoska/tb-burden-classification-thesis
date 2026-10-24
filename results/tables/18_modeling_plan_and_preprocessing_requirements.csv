@@ -1,0 +1,7 @@
+model_name,model_family,main_role_in_analysis,requires_standard_scaling,reason_for_scaling_decision,hyperparameter_tuning,will_be_evaluated_on_predictor_sets
+Dummy Classifier,Baseline,Provides a minimum performance baseline using the majority class.,False,Does not use predictor values for learning meaningful decision boundaries.,No tuning; used only as baseline.,Set A and Set B
+Logistic Regression,Linear classifier,Provides an interpretable linear benchmark for binary classification.,True,Coefficient-based model; predictors with different scales can dominate optimization.,GridSearchCV,Set A and Set B
+Random Forest,Tree-based ensemble,Captures nonlinear relationships and feature interactions.,False,Tree splits are based on thresholds and are generally not sensitive to feature scaling.,GridSearchCV,Set A and Set B
+Gradient Boosting,Boosting ensemble,Builds an additive ensemble of weak learners to improve predictive performance.,False,Tree-based boosting is generally not sensitive to feature scaling.,GridSearchCV,Set A and Set B
+Support Vector Machine,Margin/kernel-based classifier,Learns a separating decision boundary and can model nonlinear patterns with kernels.,True,Margin and kernel calculations are scale-sensitive.,GridSearchCV,Set A and Set B
+K-Nearest Neighbors,Distance-based classifier,Classifies countries based on similarity to nearby countries in predictor space.,True,Distance calculations are strongly affected by feature scale.,GridSearchCV,Set A and Set B

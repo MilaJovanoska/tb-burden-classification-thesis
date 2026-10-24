@@ -1,0 +1,7 @@
+item,value
+Candidate predictors evaluated,27.0
+Spearman collinearity threshold,0.85
+Highly correlated candidate predictor pairs,29.0
+Correlation clusters identified,4.0
+Predictors included in high-correlation clusters,18.0
+Predictors not included in high-correlation clusters,9.0

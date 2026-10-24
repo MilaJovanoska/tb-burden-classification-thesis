@@ -1,0 +1,3 @@
+target_class,target_label,training_count,testing_count,training_fraction,testing_fraction,training_percentage,testing_percentage
+0,Non-high TB burden,109,28,0.7465753424657534,0.7567567567567568,74.65753424657534,75.67567567567568
+1,High TB burden,37,9,0.2534246575342466,0.24324324324324326,25.34246575342466,24.324324324324326

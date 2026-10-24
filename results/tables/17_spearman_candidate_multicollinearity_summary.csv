@@ -1,0 +1,7 @@
+item,value
+Candidate predictors analyzed,27.0
+Spearman high-correlation threshold,0.85
+Highly correlated predictor pairs,29.0
+Predictors included in high-correlation groups,18.0
+High-correlation groups identified,4.0
+Candidate predictors not in high-correlation groups,9.0

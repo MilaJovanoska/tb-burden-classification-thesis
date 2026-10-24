@@ -1,0 +1,24 @@
+item,value
+Model,Ordinary Logistic Regression - Set B
+Predictor set,Set B - final standardized predictors
+Evaluation threshold,0.5
+Positive class,high_tb_burden = 1
+Negative class,non_high_tb_burden = 0
+Training samples,146
+Testing samples,37
+Test accuracy,0.7297297297297297
+Test balanced accuracy,0.6706349206349207
+Test precision for high TB burden,0.45454545454545453
+Test recall/sensitivity for high TB burden,0.5555555555555556
+Test specificity for non-high TB burden,0.7857142857142857
+Test F1-score for high TB burden,0.5
+Test ROC-AUC,0.7619047619047619
+Test average precision / PR-AUC,0.4181753311806707
+Train-test balanced accuracy gap,0.06269014755253277
+Train-test ROC-AUC gap,0.14288075755965668
+Train-test average precision gap,0.3242484379526304
+High TB burden detection note,The model detected at least half of the high TB burden countries on the test set at threshold 0.5.
+Non-high TB burden detection note,The model showed limited specificity for non-high TB burden countries on the test set.
+Threshold tuning performed,No
+Test set used for model fitting,No
+Model refitted in this cell,No

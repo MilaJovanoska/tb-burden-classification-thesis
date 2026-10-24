@@ -1,0 +1,10 @@
+feature,screening_priority_order,retained_as_candidate_before_collinearity,minimum_fdr_p_value,welch_absolute_hedges_g,mann_whitney_absolute_rank_biserial,statistical_evidence_source_count,practical_effect_source_count,direction_consistency,screening_evidence_tier
+Energy supply - Fats and oils,6,True,6.357091256890105e-10,0.9734422056201387,0.5631043887924622,2,2,Consistent direction,Strong candidate: both statistical tests and both effect-size criteria
+Vitamin A supply (retinol activity equivalents) - Fats and oils,8,True,1.2610895737618162e-09,0.8907852865944846,0.614430944706174,2,2,Consistent direction,Strong candidate: both statistical tests and both effect-size criteria
+Energy supply - Sweets and sugars,13,True,7.153189880978108e-07,1.0889083098210428,0.574758244483015,2,2,Consistent direction,Strong candidate: both statistical tests and both effect-size criteria
+BCG_coverage_pct,15,True,2.2841976193891147e-06,1.1359012769054155,0.5437639474336722,2,2,Consistent direction,Strong candidate: both statistical tests and both effect-size criteria
+Vitamin C supply - Vegetables and their products,18,True,7.736972334839043e-05,0.5787711121202146,0.4599553682122489,2,2,Consistent direction,Strong candidate: both statistical tests and both effect-size criteria
+Vitamin C supply - Beverages,20,True,0.0005711229804819369,0.4093050150433432,0.4011901810066948,2,1,Consistent direction,Candidate: statistical evidence and practical effect
+"Vitamin A supply (retinol activity equivalents) - Roots, tubers, plantains and their products",24,True,0.0039099675414059065,0.3785399810336898,0.3411852219191669,1,1,Consistent direction,Candidate: statistical evidence and practical effect
+Vitamin A supply (retinol activity equivalents) - Vegetables and their products,25,True,0.007108266158633921,0.35183246436446297,0.3213488718075874,1,1,Consistent direction,Candidate: statistical evidence and practical effect
+Vitamin A supply (retinol activity equivalents) - Meat and meat products,26,True,0.007108266158633921,0.06128966514120732,0.32010909992561365,1,1,Consistent direction,Candidate: statistical evidence and practical effect

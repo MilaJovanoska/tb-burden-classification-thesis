@@ -1,0 +1,22 @@
+item,value
+Model preparation step,Standardized input preparation for ordinary logistic regression
+Predictor set,"Set B - final predictors after statistical screening, Spearman pruning and VIF diagnostics"
+Number of predictors,13
+Training samples,146
+Testing samples,37
+Training input source,X_train_final
+Testing input source,X_test_final
+Training target source,y_train_final
+Testing target source,y_test_final
+Scaler,StandardScaler
+Scaler fitted on,X_train_final only
+Scaler applied to,X_train_final and X_test_final
+Test set used to fit scaler,No
+Target variable used to fit scaler,No
+Feature selection performed in this cell,No
+New train-test split created in this cell,No
+Missing values in standardized training input,0
+Missing values in standardized testing input,0
+Infinite values in standardized training input,0
+Infinite values in standardized testing input,0
+Interpretation of standardized coefficients,Per one standard deviation increase in the predictor

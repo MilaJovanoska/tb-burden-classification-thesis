@@ -1,0 +1,14 @@
+item,value
+Predictor set,Set B - final predictors after statistical screening and Spearman pruning
+Training input matrix,X_train_final
+Number of predictors checked,13
+Number of training samples,146
+Maximum finite VIF,5.05118614488836
+Median finite VIF,2.2905578189033986
+Predictors with VIF >= 5,1
+Predictors with VIF >= 10,0
+Test set used,No
+Target variable used,No
+Data modified,No
+Feature selection performed in this cell,No
+Overall VIF interpretation,Moderate multicollinearity remains for at least one predictor. The logistic regression coefficients should be interpreted with caution.

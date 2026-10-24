@@ -1,0 +1,9 @@
+dataset,actual_class,predicted_class,count,cell
+train,0,0,98,true_negative
+train,0,1,11,false_positive
+train,1,0,16,false_negative
+train,1,1,21,true_positive
+test,0,0,22,true_negative
+test,0,1,6,false_positive
+test,1,0,4,false_negative
+test,1,1,5,true_positive

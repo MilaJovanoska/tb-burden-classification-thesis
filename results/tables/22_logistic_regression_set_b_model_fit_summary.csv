@@ -1,0 +1,22 @@
+item,value
+Model,Ordinary Logistic Regression - Set B
+Predictor set,Set B - final standardized predictors
+Model type,Statsmodels Logit
+Regularization used,No
+Class weighting used,No
+Training input,X_train_logreg_set_b
+Test set used for fitting,No
+Target positive class,high_tb_burden = 1
+Number of training samples,146
+Number of predictors,13
+Intercept included,Yes
+Optimization method,lbfgs
+Maximum iterations,1000
+Converged,True
+Log-likelihood,-48.32243161648418
+Null log-likelihood,-82.64568483938737
+McFadden pseudo R-squared,0.4153060536627724
+AIC,124.64486323296836
+BIC,166.41535593688508
+Degrees of freedom model,13.0
+Degrees of freedom residuals,132.0
