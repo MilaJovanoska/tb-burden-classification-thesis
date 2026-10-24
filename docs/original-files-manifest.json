@@ -1,0 +1,3600 @@
+[
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/data/final/final_dataset_2022_who_faostat_hdi_bcg.csv",
+    "repository_path": "data/final/final_dataset_2022_who_faostat_hdi_bcg.csv",
+    "bytes": 43171,
+    "sha256": "0dcdc983921918021ea37591d5589a426f2918c0cee9b0b6df77ea0a41955310"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/figures/05_target_class_distribution.png",
+    "repository_path": "results/figures/05_target_class_distribution.png",
+    "bytes": 122663,
+    "sha256": "d698a8b9c5c422ee5ea559e3e8f7d72ab3aa4d33b3b3492cf9b6969b7266d73a"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/figures/03_target_class_distribution.png",
+    "repository_path": "results/figures/03_target_class_distribution.png",
+    "bytes": 107053,
+    "sha256": "1c4742136429199dd3ba01f08abe58a3096b6c27df1f7fab5dbb689bc314d67f"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/figures/06_tb_incidence_by_target_class_box_strip.pdf",
+    "repository_path": "results/figures/06_tb_incidence_by_target_class_box_strip.pdf",
+    "bytes": 27143,
+    "sha256": "dbb04d59292fda237201d40a1abaa7255e8c01e777790b3d04e4abb22945ea96"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/figures/20_vif_diagnostics_set_b_final_predictors.png",
+    "repository_path": "results/figures/20_vif_diagnostics_set_b_final_predictors.png",
+    "bytes": 446081,
+    "sha256": "8a92235e31c3ea6dbfd67ee0925e1e66f48243e12b170dedca7d8b119bf8a064"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/02_target_distribution_summary.csv",
+    "repository_path": "results/tables/02_target_distribution_summary.csv",
+    "bytes": 119,
+    "sha256": "89d337afd57675512615f6fbff68a961d93c61a82ba73f3132029f8125100be9"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/05_feature_target_correlation_ranking.xlsx",
+    "repository_path": "results/tables/05_feature_target_correlation_ranking.xlsx",
+    "bytes": 7447,
+    "sha256": "a1c6935cca9995d026ad6f87d708fd5c9f3fa4146cc9d45916b2961dba2ff00c"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/figures/14_mann_whitney_u_test_training_only_fdr_significant_effect_sizes.pdf",
+    "repository_path": "results/figures/14_mann_whitney_u_test_training_only_fdr_significant_effect_sizes.pdf",
+    "bytes": 49385,
+    "sha256": "1ca1496a06154191743c014d04803902388e2994a149f7fa9b39cb6effc69811"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/figures/04_Gross_National_Income_Per_Capita_2017_PPP_boxplot.png",
+    "repository_path": "results/figures/04_Gross_National_Income_Per_Capita_2017_PPP_boxplot.png",
+    "bytes": 134422,
+    "sha256": "bc8eae16465d803a467edbac00eeffa884d0275f7b6463e24f9c9bb9949171f8"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/figures/02_tb_incidence_histogram.png",
+    "repository_path": "results/figures/02_tb_incidence_histogram.png",
+    "bytes": 165705,
+    "sha256": "56ce961d21ce23f07e5d0872227237b4e538178a5204d28926891defffad36a0"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/figures/05a_boxplot_10_Energy_supply_Roots_tubers_plantains_and_their_products.png",
+    "repository_path": "results/figures/05a_boxplot_10_Energy_supply_Roots_tubers_plantains_and_their_products.png",
+    "bytes": 173730,
+    "sha256": "6aa155c012d0449148632f8d92aafd698cb8cb0071beb2371c9b42df9f3e3d03"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/figures/17_candidate_predictors_spearman_correlation_heatmap_annotated.png",
+    "repository_path": "results/figures/17_candidate_predictors_spearman_correlation_heatmap_annotated.png",
+    "bytes": 1234974,
+    "sha256": "afaea8e32b613f300f4d7ddd9db88c1cf48a97d284a98af7e4b6e8b25cfab7cd"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/figures/13_welch_t_test_training_only_fdr_significant_effect_sizes.pdf",
+    "repository_path": "results/figures/13_welch_t_test_training_only_fdr_significant_effect_sizes.pdf",
+    "bytes": 46241,
+    "sha256": "b04fd371134e21f10680f5062a6ec3a971c0669944492a936930acf0bed24720"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/figures/35_final_logistic_regression_set_b_permutation_importance_balanced_accuracy.png",
+    "repository_path": "results/figures/35_final_logistic_regression_set_b_permutation_importance_balanced_accuracy.png",
+    "bytes": 620396,
+    "sha256": "ba39cc2ef9fe1aec9dd8ab23290244b9b9210b31a042a455d9200e7e656ca708"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/figures/08_countries_closest_to_q3_threshold.pdf",
+    "repository_path": "results/figures/08_countries_closest_to_q3_threshold.pdf",
+    "bytes": 43210,
+    "sha256": "7e3ee44771adbe3ee270ecbc7f9b876e26003dfeacaa855764a647141fc6e6ab"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/figures/10_top_15_predictors_correlation_heatmap.pdf",
+    "repository_path": "results/figures/10_top_15_predictors_correlation_heatmap.pdf",
+    "bytes": 48101,
+    "sha256": "5f7ea62b2209faa791367f51c616fadcde8a65ff7486821f7ff1383f43e58f48"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/figures/48_final_test_roc_and_precision_recall_curves.png",
+    "repository_path": "results/figures/48_final_test_roc_and_precision_recall_curves.png",
+    "bytes": 402913,
+    "sha256": "ad19bb23e6432fd98ae85a6bd3ce3fb661341e3c5fe7fcb3607863f1351007a8"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/00_dataset_audit_summary.csv",
+    "repository_path": "results/tables/00_dataset_audit_summary.csv",
+    "bytes": 434,
+    "sha256": "84efb456c8866873ab1b7057a98bc0a9cc02b7238418abf8973c6dfac3d6251e"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/data/final/tb_burden_classification_dataset.csv",
+    "repository_path": "data/final/tb_burden_classification_dataset.csv",
+    "bytes": 46676,
+    "sha256": "46dc0253e4967e79a30d090eb8c19be13a485da29a62772b2d9e8d0415133020"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/00_initial_column_role_summary.csv",
+    "repository_path": "results/tables/00_initial_column_role_summary.csv",
+    "bytes": 5468,
+    "sha256": "29452c54d12695a885d06f8257fed15a7a6d718cdb7470a52bd554ccbae63842"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/figures/35_final_logistic_regression_set_b_permutation_importance_balanced_accuracy.pdf",
+    "repository_path": "results/figures/35_final_logistic_regression_set_b_permutation_importance_balanced_accuracy.pdf",
+    "bytes": 45111,
+    "sha256": "415857e5157e2387f5b469374eb2cd25dbdc47646b6e951c02338e3867db91cc"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/figures/13_standardized_feature_differences_by_tb_burden_class.pdf",
+    "repository_path": "results/figures/13_standardized_feature_differences_by_tb_burden_class.pdf",
+    "bytes": 42500,
+    "sha256": "27d277922b17834d0474aab4b0cf833c47214d232f943f8bc25b1522d3c4ec1a"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/figures/07_tb_incidence_by_target_class_zoomed_threshold_view.pdf",
+    "repository_path": "results/figures/07_tb_incidence_by_target_class_zoomed_threshold_view.pdf",
+    "bytes": 28715,
+    "sha256": "c7af7f41949002613d7f8732e70c6ea1a0b7f0f9c2aa3f2e9943e752557486cf"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/figures/02_tb_incidence_distribution_histogram_log_scale.pdf",
+    "repository_path": "results/figures/02_tb_incidence_distribution_histogram_log_scale.pdf",
+    "bytes": 27750,
+    "sha256": "d19f8081c9178d2ca876d17fdcdfcb35f48d0242238a1e56ea55ee9a66a74fdd"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/figures/32_final_logistic_regression_set_a_test_confusion_matrix.pdf",
+    "repository_path": "results/figures/32_final_logistic_regression_set_a_test_confusion_matrix.pdf",
+    "bytes": 28994,
+    "sha256": "14ebbbbdb543bbbc6dd48a5e255fbec7fc6e6b2153442f8a4f93d442c4d4c628"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/figures/26_final_logistic_regression_set_b_test_confusion_matrix.png",
+    "repository_path": "results/figures/26_final_logistic_regression_set_b_test_confusion_matrix.png",
+    "bytes": 292134,
+    "sha256": "c435935653b8bb7251691a01cb3278f72faab453b5c0f331334939b983ccc91f"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/figures/04_q3_threshold_boundary_countries_by_tb_incidence.png",
+    "repository_path": "results/figures/04_q3_threshold_boundary_countries_by_tb_incidence.png",
+    "bytes": 865193,
+    "sha256": "6c6d119c1ad9ae604a2b046efbf8d2f104d1081455020eded811bda93c159511"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/figures/27_final_logistic_regression_set_b_test_roc_curve.pdf",
+    "repository_path": "results/figures/27_final_logistic_regression_set_b_test_roc_curve.pdf",
+    "bytes": 40302,
+    "sha256": "922d3effd09730c3190725e1dae77cd589d4e00497247d5768bfb4d2e701c0b7"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/figures/14_roc_curves_comparison_models.png",
+    "repository_path": "results/figures/14_roc_curves_comparison_models.png",
+    "bytes": 255684,
+    "sha256": "8eababbe00592a9b269420d28e7e9e38863e4d899d2af337129ca1801caa77af"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/figures/49_final_test_precision_recall_curve.png",
+    "repository_path": "results/figures/49_final_test_precision_recall_curve.png",
+    "bytes": 156818,
+    "sha256": "82843bf6585d8f527ae5a5a831a2f6f65e7fd7377de3fd548588d88714d22e70"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/figures/36_final_logistic_regression_set_b_vs_set_a_test_metrics_comparison.png",
+    "repository_path": "results/figures/36_final_logistic_regression_set_b_vs_set_a_test_metrics_comparison.png",
+    "bytes": 362766,
+    "sha256": "6b1a6d0a7aa87ebcf20434d59a6f143935e4dc4fc46d6280e4b4c24bb54d7cb9"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/figures/44_final_test_confusion_matrix.png",
+    "repository_path": "results/figures/44_final_test_confusion_matrix.png",
+    "bytes": 113479,
+    "sha256": "0388ab1e714c041618be874c06af19fa138f9c04291a5772e8a682fc5db602b2"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/figures/04_BCG_coverage_pct_boxplot.png",
+    "repository_path": "results/figures/04_BCG_coverage_pct_boxplot.png",
+    "bytes": 108571,
+    "sha256": "8937393cd73fe664e14bd234aab8e4d5b9bcd069bdcfcf8804c53fa2f1009db2"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/06_top_15_predictors_high_correlation_pairs.xlsx",
+    "repository_path": "results/tables/06_top_15_predictors_high_correlation_pairs.xlsx",
+    "bytes": 5533,
+    "sha256": "c01d8157460261f0234aeadda15f2cddde30868e8c7ccc74e49c205dcfda12cb"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/figures/04_top_15_countries_by_tb_incidence.png",
+    "repository_path": "results/figures/04_top_15_countries_by_tb_incidence.png",
+    "bytes": 257000,
+    "sha256": "44260d7a346b254b190299c4a5b8e78df224a7337ccfda0ee27f4723db5892ce"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/figures/03_tb_incidence_distribution_boxplot.pdf",
+    "repository_path": "results/figures/03_tb_incidence_distribution_boxplot.pdf",
+    "bytes": 23486,
+    "sha256": "32ccb184b1adfab1b0fd520d83ce263e6d71d2e33f355ac7dd2f16c8f1073c78"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/figures/04_Mean_Years_of_Schooling_years_boxplot.png",
+    "repository_path": "results/figures/04_Mean_Years_of_Schooling_years_boxplot.png",
+    "bytes": 105089,
+    "sha256": "a6b48a82b285b78a88fe3fb551f542b25e374b99082d2fafd9df23f682e8ab2e"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/figures/14_precision_recall_curves_comparison_models.png",
+    "repository_path": "results/figures/14_precision_recall_curves_comparison_models.png",
+    "bytes": 270610,
+    "sha256": "dbbc2405fc6e2e6b029cacc4133563d0d2d9371826e4dcc26d307d12ec9bcb12"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/figures/13_welch_t_test_top_predictors_boxplots_large_panels.pdf",
+    "repository_path": "results/figures/13_welch_t_test_top_predictors_boxplots_large_panels.pdf",
+    "bytes": 54241,
+    "sha256": "c7f7e2834236b9a76d84c614c6893a2d5afc9b9a36dc5d1bb05f35c758badd8a"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/figures/12_hdi_gni_scatter_by_tb_burden_class.png",
+    "repository_path": "results/figures/12_hdi_gni_scatter_by_tb_burden_class.png",
+    "bytes": 469558,
+    "sha256": "99e130846db79f8410a56553fb1d6d32878735686fc4511e7f31a68249f5e588"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/figures/27_final_logistic_regression_set_b_test_roc_curve.png",
+    "repository_path": "results/figures/27_final_logistic_regression_set_b_test_roc_curve.png",
+    "bytes": 355266,
+    "sha256": "0a8d0670688584c8e69a9b3ba87f575003a616c5470f0b1df2343ae1923e8d23"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/figures/01_tb_incidence_distribution_histogram.png",
+    "repository_path": "results/figures/01_tb_incidence_distribution_histogram.png",
+    "bytes": 258424,
+    "sha256": "b7210e214360586e6920293d913c2014197bc73f572fa2925104c127a96a977b"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/figures/26_logistic_regression_set_b_test_confusion_matrix.png",
+    "repository_path": "results/figures/26_logistic_regression_set_b_test_confusion_matrix.png",
+    "bytes": 182281,
+    "sha256": "85a7c12ee2c1b021fd9b80f5e35ce3e7322ebb6943826172dcab217f8abe39f1"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/figures/04_development_predictors_boxplots_by_burden.png",
+    "repository_path": "results/figures/04_development_predictors_boxplots_by_burden.png",
+    "bytes": 362151,
+    "sha256": "081c3cc613a30e379a218f34a183a4015156de9679c260b37531de0920c06317"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/figures/33_final_logistic_regression_set_a_test_roc_curve.pdf",
+    "repository_path": "results/figures/33_final_logistic_regression_set_a_test_roc_curve.pdf",
+    "bytes": 19669,
+    "sha256": "92973466d8f62e628126f50f521ead09624bf04a392b04233ebe40256ac48723"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/figures/17_spearman_candidate_predictor_correlation_heatmap_annotated.pdf",
+    "repository_path": "results/figures/17_spearman_candidate_predictor_correlation_heatmap_annotated.pdf",
+    "bytes": 420536,
+    "sha256": "64024238f3ee83679113dc4ceec96c0d9a44aa3a499d4ed6b54f2803940cde88"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/figures/05a_final_class_specific_outlier_rate_diagnostics.png",
+    "repository_path": "results/figures/05a_final_class_specific_outlier_rate_diagnostics.png",
+    "bytes": 924594,
+    "sha256": "f6376bb58d10497c716d819e2051ac7aeb97f9181dcc5ec5ff0797764ff44e2f"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/figures/05_target_class_distribution.pdf",
+    "repository_path": "results/figures/05_target_class_distribution.pdf",
+    "bytes": 23011,
+    "sha256": "be0e4ae70389b5e260a31aa65057cfb2248ebd9b3bb1defe0898cb50f7f6d516"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/figures/11_top_predictor_distributions_by_class.pdf",
+    "repository_path": "results/figures/11_top_predictor_distributions_by_class.pdf",
+    "bytes": 88869,
+    "sha256": "1bbbdd84aadce7d6b7b37f6dfe2ade0da62dd26b8dd82af66decec391c149e02"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/figures/02_tb_incidence_boxplot.png",
+    "repository_path": "results/figures/02_tb_incidence_boxplot.png",
+    "bytes": 86488,
+    "sha256": "cc4b1852521ab35d26aa7462c4d7034693d1a943e526fde583e646995dab879b"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/figures/05a_boxplot_08_Calcium_supply_Vegetables_and_their_products.png",
+    "repository_path": "results/figures/05a_boxplot_08_Calcium_supply_Vegetables_and_their_products.png",
+    "bytes": 159155,
+    "sha256": "1d706b16199da3731545ffbd49621f8cfb7369a5c89c25212c8801d30b4358ae"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/figures/05a_boxplot_09_Iron_supply_Vegetables_and_their_products.png",
+    "repository_path": "results/figures/05a_boxplot_09_Iron_supply_Vegetables_and_their_products.png",
+    "bytes": 145697,
+    "sha256": "f7aca62b77d15dcd47fa1d01082bf394dd026c70bd506c6dd540ecb56912b0f6"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/figures/01_tb_incidence_distribution_histogram.pdf",
+    "repository_path": "results/figures/01_tb_incidence_distribution_histogram.pdf",
+    "bytes": 35932,
+    "sha256": "8e03c7dd1cf5ef19b0ba2de8809e1cfbc0d097a73a52ca5ae40ad371e1dbbb9a"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/02_target_creation_summary.xlsx",
+    "repository_path": "results/tables/02_target_creation_summary.xlsx",
+    "bytes": 5230,
+    "sha256": "643c2d9ae94a8d17286dde116c48e021fd728a076c66a0d71ed90470c8b3e8b9"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/figures/20_improved_vif_diagnostics_set_b_final_predictors.png",
+    "repository_path": "results/figures/20_improved_vif_diagnostics_set_b_final_predictors.png",
+    "bytes": 461364,
+    "sha256": "bdb2412ec4c8d81ce3d1e2e9d1d82caf42c8863b246e91a14891548d71781e85"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/00_bcg_missing_summary.csv",
+    "repository_path": "results/tables/00_bcg_missing_summary.csv",
+    "bytes": 346,
+    "sha256": "6cbe001e801b0904397f673deb40b94f033cb428e171410d10334a06ffcc2b6b"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/02_target_distribution_summary.xlsx",
+    "repository_path": "results/tables/02_target_distribution_summary.xlsx",
+    "bytes": 5043,
+    "sha256": "e08e8c95a99cd99533f7cd733f5301c42c30c730c759be5ddecf24292bee0ac8"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/figures/34_final_logistic_regression_set_a_test_precision_recall_curve.pdf",
+    "repository_path": "results/figures/34_final_logistic_regression_set_a_test_precision_recall_curve.pdf",
+    "bytes": 20473,
+    "sha256": "6f53bbb6333c63bc8918e5a4d6aae8ff113d9c772dfcd06ad19d24434b3811f9"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/figures/05a_top_predictors_by_overall_outlier_rate.png",
+    "repository_path": "results/figures/05a_top_predictors_by_overall_outlier_rate.png",
+    "bytes": 607391,
+    "sha256": "763233a101381e92e162d8f7d775807478e61958b005a93b9bf8260c3600a8a3"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/figures/11_top_predictor_distributions_by_class.png",
+    "repository_path": "results/figures/11_top_predictor_distributions_by_class.png",
+    "bytes": 1043658,
+    "sha256": "a0ffee6b143c0646442b9b1f796dd16da6e9e7664b1a4797253e159471986def"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/figures/04_q3_threshold_boundary_countries_by_tb_incidence.pdf",
+    "repository_path": "results/figures/04_q3_threshold_boundary_countries_by_tb_incidence.pdf",
+    "bytes": 36637,
+    "sha256": "a40de32669e410bf52193973f5598fb7d2546a1d0478b5020f12a2bf8b102d9b"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/figures/10_top_predictors_correlation_heatmap.png",
+    "repository_path": "results/figures/10_top_predictors_correlation_heatmap.png",
+    "bytes": 340981,
+    "sha256": "c063a549e3c7cf52b7b967c3f313e8091e02f569e0b530ef040893d9c7ba3ac0"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/figures/04_Life_Expectancy_at_Birth_years_boxplot.png",
+    "repository_path": "results/figures/04_Life_Expectancy_at_Birth_years_boxplot.png",
+    "bytes": 108329,
+    "sha256": "d28c892ea427f11c5dc187d1aee53370331046a9e6a676b20a5950069fb647b9"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/figures/14_mann_whitney_u_test_top_predictors_distribution_violin_boxplots_large_panels.pdf",
+    "repository_path": "results/figures/14_mann_whitney_u_test_top_predictors_distribution_violin_boxplots_large_panels.pdf",
+    "bytes": 90361,
+    "sha256": "fce1268467b59933c19d126e56358bc6dacd954f0f32163f89d6973beb0a8332"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/figures/13_welch_t_test_significant_predictors_effect_sizes.png",
+    "repository_path": "results/figures/13_welch_t_test_significant_predictors_effect_sizes.png",
+    "bytes": 924800,
+    "sha256": "d93455710a2ab99ef8c0628527387119377335bf68aefdb9db570dab2cb69c7c"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/01_top_60_countries_by_tb_incidence.xlsx",
+    "repository_path": "results/tables/01_top_60_countries_by_tb_incidence.xlsx",
+    "bytes": 7002,
+    "sha256": "fb124040c7d45ef530ff1ee9a79af107bfbdba5c152edd14f4212d614f93814f"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/03_tb_incidence_by_target_class_summary.xlsx",
+    "repository_path": "results/tables/03_tb_incidence_by_target_class_summary.xlsx",
+    "bytes": 5178,
+    "sha256": "0ab00d681a8ab7eba3448b2a4cb38178d6423ce0cace311fdd3ddc89d8df236c"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/06_top_15_predictors_high_correlation_pairs.csv",
+    "repository_path": "results/tables/06_top_15_predictors_high_correlation_pairs.csv",
+    "bytes": 1311,
+    "sha256": "0c4d6b49a0ae0643b6d06d08cf56172ff3c8b6bc7aa35dda99f185795d7ec4bc"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/figures/13_standardized_feature_differences_by_tb_burden_class.png",
+    "repository_path": "results/figures/13_standardized_feature_differences_by_tb_burden_class.png",
+    "bytes": 431041,
+    "sha256": "b97ae8f83428b739cd1277685ba08caddbe3e0d216f9ea68ad5daadf87670437"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/figures/25_logistic_regression_set_b_odds_ratios_95ci.png",
+    "repository_path": "results/figures/25_logistic_regression_set_b_odds_ratios_95ci.png",
+    "bytes": 572458,
+    "sha256": "64c9004a71f623dba091d73d9eb4a3acaa8560be05bfa5410feb4b2d8c4c574c"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/figures/05a_boxplot_01_Vitamin_A_supply_retinol_activity_equivalents_Meat_and_meat_products.png",
+    "repository_path": "results/figures/05a_boxplot_01_Vitamin_A_supply_retinol_activity_equivalents_Meat_and_meat_products.png",
+    "bytes": 171794,
+    "sha256": "aa4184e3db4da39f1e36ee0ca046af0163308bad6b3b2af9d586e0d0f21b3a17"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/figures/13_welch_t_test_training_only_fdr_significant_effect_sizes_improved.pdf",
+    "repository_path": "results/figures/13_welch_t_test_training_only_fdr_significant_effect_sizes_improved.pdf",
+    "bytes": 46768,
+    "sha256": "b65f4d0ad24466e61b22057493912aa7f409ab30e5998165f0b0753b54421924"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/05_feature_target_correlation_ranking.csv",
+    "repository_path": "results/tables/05_feature_target_correlation_ranking.csv",
+    "bytes": 7343,
+    "sha256": "7df2d1a9db7182eed45acb4bba1e04c0bf24d3d7bfdf89634784c2c55820081b"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/figures/04_Expected_Years_of_Schooling_years_boxplot.png",
+    "repository_path": "results/figures/04_Expected_Years_of_Schooling_years_boxplot.png",
+    "bytes": 116892,
+    "sha256": "fd03ec931b1cb494feff18bfd3fb4f204631bee7ac5d4e93bce272f8cc25698b"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/figures/05a_top_negative_skewness_predictors.png",
+    "repository_path": "results/figures/05a_top_negative_skewness_predictors.png",
+    "bytes": 172490,
+    "sha256": "f7ea4e57026270bee76a36c7569f42719ac7f4c4082d9cec17a13d35398459bc"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/figures/05a_class_specific_outlier_rate_diagnostics.png",
+    "repository_path": "results/figures/05a_class_specific_outlier_rate_diagnostics.png",
+    "bytes": 883796,
+    "sha256": "eb732a9bc48bcf87cabc8bd888be65b5b0881f11602e12c92493f8ca931d018e"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/figures/14_mann_whitney_u_test_training_only_fdr_significant_effect_sizes_improved.pdf",
+    "repository_path": "results/figures/14_mann_whitney_u_test_training_only_fdr_significant_effect_sizes_improved.pdf",
+    "bytes": 52530,
+    "sha256": "85493180f3bd8cdc0cda680ced953d56d1ed2864fdf915e6aede4bcf5349cddf"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/figures/02_tb_incidence_distribution_histogram_log_scale.png",
+    "repository_path": "results/figures/02_tb_incidence_distribution_histogram_log_scale.png",
+    "bytes": 203601,
+    "sha256": "64ee340b24a8dc5498672783db9040308a377964d7ab375e04d841dcca1d98f3"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/00_unique_values_summary.csv",
+    "repository_path": "results/tables/00_unique_values_summary.csv",
+    "bytes": 4147,
+    "sha256": "8f71db4061b0b3dd378ba46ee1711d8857a0c708769dd47a6f5213189273480d"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/figures/28_final_logistic_regression_set_b_test_precision_recall_curve.pdf",
+    "repository_path": "results/figures/28_final_logistic_regression_set_b_test_precision_recall_curve.pdf",
+    "bytes": 42031,
+    "sha256": "27729d609089eda1f282341d322b9bacd19675e5c9481419359d09a6fa5e804b"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/figures/07_tb_incidence_by_target_class_zoomed_threshold_view.png",
+    "repository_path": "results/figures/07_tb_incidence_by_target_class_zoomed_threshold_view.png",
+    "bytes": 244313,
+    "sha256": "43f86598ed4968c229e73aa5bef837af24edc357c35f7993bd8f29d69778fa14"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/figures/05a_boxplot_04_Vitamin_A_supply_retinol_activity_equivalents_Roots_tubers_plantains_and_their_products.png",
+    "repository_path": "results/figures/05a_boxplot_04_Vitamin_A_supply_retinol_activity_equivalents_Roots_tubers_plantains_and_their_products.png",
+    "bytes": 195194,
+    "sha256": "bf63d20a29fe6cc32c1518f7ee001f75446a768b14ee7338bf33596ef25b3d6c"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/figures/28_logistic_regression_set_b_test_precision_recall_curve.png",
+    "repository_path": "results/figures/28_logistic_regression_set_b_test_precision_recall_curve.png",
+    "bytes": 162859,
+    "sha256": "bf1eca49ceb7821060944fb53fe13d3adb4fae2a9d8aa530a03f5b928935c0b1"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/figures/14_mann_whitney_u_test_top_predictors_distribution_violin_boxplots_large_panels.png",
+    "repository_path": "results/figures/14_mann_whitney_u_test_top_predictors_distribution_violin_boxplots_large_panels.png",
+    "bytes": 1938698,
+    "sha256": "450b3acef4dd07249b9c818ec2d22a42110b63213586bb333309ce70b32774b2"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/figures/13_welch_t_test_top_predictors_boxplots.pdf",
+    "repository_path": "results/figures/13_welch_t_test_top_predictors_boxplots.pdf",
+    "bytes": 53785,
+    "sha256": "56e113772a3b42b7fb8a4d76eaca74d579782479884399bed1afb91293d0192e"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/figures/25_improved_logistic_regression_set_b_odds_ratios_95ci.png",
+    "repository_path": "results/figures/25_improved_logistic_regression_set_b_odds_ratios_95ci.png",
+    "bytes": 591364,
+    "sha256": "2fd5da90b352217f17afbdd9c15a2ccfe593af6e05c03bc9e88ce3bc1174b6e4"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/figures/05a_boxplot_03_Calcium_supply_Pulses_seeds_and_nuts_and_their_products.png",
+    "repository_path": "results/figures/05a_boxplot_03_Calcium_supply_Pulses_seeds_and_nuts_and_their_products.png",
+    "bytes": 160827,
+    "sha256": "d1b7de8783a8bf483e30006265aee40961515536fdfd7b2c925500d8b362c5b8"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/figures/05a_boxplot_02_Zinc_supply_Roots_tubers_plantains_and_their_products.png",
+    "repository_path": "results/figures/05a_boxplot_02_Zinc_supply_Roots_tubers_plantains_and_their_products.png",
+    "bytes": 153173,
+    "sha256": "67c81eb735e4ec228a8a965535a7c01c92f6a6b989d7a71bc2fcff3fbee8d3ca"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/figures/48_final_test_roc_curve.png",
+    "repository_path": "results/figures/48_final_test_roc_curve.png",
+    "bytes": 164963,
+    "sha256": "053ffaeffe8ec47ccc23eba93cdb99803e5e459d962116f7b3df9bf9cd5a9e5c"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/figures/10_top15_hedges_g_effect_size.png",
+    "repository_path": "results/figures/10_top15_hedges_g_effect_size.png",
+    "bytes": 333747,
+    "sha256": "ab9efdbcc717207c4c6a69ea5c86a52d980fd6cb2e543d6071cddf9cb5adf93a"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/figures/12_pca_projection_candidate_predictors_by_tb_burden_class.png",
+    "repository_path": "results/figures/12_pca_projection_candidate_predictors_by_tb_burden_class.png",
+    "bytes": 473147,
+    "sha256": "47d020b0e7ceffeea609222e6eb445f36f29f826045b3bcec6e315440cc71d5a"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/figures/17_spearman_candidate_predictor_correlation_heatmap_annotated.png",
+    "repository_path": "results/figures/17_spearman_candidate_predictor_correlation_heatmap_annotated.png",
+    "bytes": 2158284,
+    "sha256": "67bc988e57bfdecf64b08976858d8046b492778a6912b2deaeb570ee4caeecce"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/00_column_type_summary.xlsx",
+    "repository_path": "results/tables/00_column_type_summary.xlsx",
+    "bytes": 6159,
+    "sha256": "a2192740ca81da66dc11bd4a706b6faf156ea5b2f193171097363deb83333475"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/02_target_creation_summary.csv",
+    "repository_path": "results/tables/02_target_creation_summary.csv",
+    "bytes": 388,
+    "sha256": "38fd483edfbfdf503f6dcc0353700a800fb2e9bb800cc0820b22ba48e9aa806e"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/figures/05a_final_class_specific_skewness_diagnostics.png",
+    "repository_path": "results/figures/05a_final_class_specific_skewness_diagnostics.png",
+    "bytes": 978713,
+    "sha256": "f5bd9a6c24306b18ce975ea54d504f53f464dbf9ddde0716afe909185b21f113"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/figures/14_mann_whitney_u_test_top_predictors_distribution_violin_boxplots.pdf",
+    "repository_path": "results/figures/14_mann_whitney_u_test_top_predictors_distribution_violin_boxplots.pdf",
+    "bytes": 92372,
+    "sha256": "faf2630cd34ab1d2b75e4b6efe0758e1dd5520ddeeb2aa72098343035ab917ae"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/figures/05a_boxplot_07_Vitamin_C_supply_Vegetables_and_their_products.png",
+    "repository_path": "results/figures/05a_boxplot_07_Vitamin_C_supply_Vegetables_and_their_products.png",
+    "bytes": 162286,
+    "sha256": "e621ea8fedc9474a625a8ca3a5d614c8b35dc062753be4dca67c98599e088312"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/figures/05a_top_positive_skewness_predictors.png",
+    "repository_path": "results/figures/05a_top_positive_skewness_predictors.png",
+    "bytes": 599708,
+    "sha256": "ff662228ed02c77ccd0fc6a008647ec8209746feefe5c7089157b65f57426aba"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/00_candidate_predictor_columns.csv",
+    "repository_path": "results/tables/00_candidate_predictor_columns.csv",
+    "bytes": 2276,
+    "sha256": "5fc21f30e2a693d45331f0c925f41c0b86a6e9b1d9dc75c229dc4d0d6888f74f"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/00_negative_values_summary.csv",
+    "repository_path": "results/tables/00_negative_values_summary.csv",
+    "bytes": 3098,
+    "sha256": "d26047c20d9d805047663a203eaea4527f87afcdfa4be5715f57820df9d3c8e5"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/figures/05a_top_15_predictors_by_outlier_rate.png",
+    "repository_path": "results/figures/05a_top_15_predictors_by_outlier_rate.png",
+    "bytes": 403190,
+    "sha256": "ca72259cb240058494f294e2f5c6f233cf901e4aaf416b739828565a35a22de1"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/31_logistic_regression_set_a_probability_diagnostics.csv",
+    "repository_path": "results/tables/31_logistic_regression_set_a_probability_diagnostics.csv",
+    "bytes": 601,
+    "sha256": "fb10a11dd64681edfae71e54d440689cff6b4f33d35a8794ea2307490a119123"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/figures/05a_class_specific_skewness_diagnostics.png",
+    "repository_path": "results/figures/05a_class_specific_skewness_diagnostics.png",
+    "bytes": 944934,
+    "sha256": "75e1d3c9571cc486b17ba86c81d1196f64b2d8f3ddb31f5eb5d375fd53f41dba"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/figures/05a_boxplot_05_Vitamin_C_supply_Roots_tubers_plantains_and_their_products.png",
+    "repository_path": "results/figures/05a_boxplot_05_Vitamin_C_supply_Roots_tubers_plantains_and_their_products.png",
+    "bytes": 161190,
+    "sha256": "3801738b313f4a430e07e79acd94c573a894708eb6c1551d2fb1823eb49a5bc4"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/thesis/Дипломска работа-Мила Јованоска.docx",
+    "repository_path": "thesis/archive/Дипломска работа-Мила Јованоска.docx",
+    "bytes": 1004936,
+    "sha256": "a0801c2b7696e7e8441f0f5e707e1c1ced558795b833755b41530f1c45e61150"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/figures/05a_top_predictors_by_maximum_class_outlier_rate.png",
+    "repository_path": "results/figures/05a_top_predictors_by_maximum_class_outlier_rate.png",
+    "bytes": 622298,
+    "sha256": "bc71869cbc72907fb04a36287f24fddf4b95f9a2cae69887407771853f876404"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/04_countries_closest_to_q3_threshold.xlsx",
+    "repository_path": "results/tables/04_countries_closest_to_q3_threshold.xlsx",
+    "bytes": 6423,
+    "sha256": "e85e8e576e7c3b0f01e7d9414efd254ef59ae230ea6f0c2a24f3e854a2fdb529"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/figures/04_Human_Development_Index_value_boxplot.png",
+    "repository_path": "results/figures/04_Human_Development_Index_value_boxplot.png",
+    "bytes": 109943,
+    "sha256": "574202dd191d8dc65dae416ad266ab958d6cb85a97b5fc98bcc0ac840bd8cc3b"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/figures/14_mann_whitney_u_test_training_only_fdr_significant_effect_sizes.png",
+    "repository_path": "results/figures/14_mann_whitney_u_test_training_only_fdr_significant_effect_sizes.png",
+    "bytes": 1161614,
+    "sha256": "9c0d8921140d8b008fcc032b942e104e202cb12a2e41cc6a620efe01ce615d69"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/figures/02_top15_tb_incidence_countries.png",
+    "repository_path": "results/figures/02_top15_tb_incidence_countries.png",
+    "bytes": 251471,
+    "sha256": "71deecd6fa3bd28dd2c94e1d133087abd2b14d6c8e4eac53ac646cc36c466252"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/figures/09_feature_target_correlation_ranking.pdf",
+    "repository_path": "results/figures/09_feature_target_correlation_ranking.pdf",
+    "bytes": 40767,
+    "sha256": "22f57ff88ea79e3af6d4d0aba5a7e4766b8ced90fb83bea12d2a202b7a5479c0"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/figures/05a_boxplot_06_Vitamin_C_supply_Fruits_and_their_products.png",
+    "repository_path": "results/figures/05a_boxplot_06_Vitamin_C_supply_Fruits_and_their_products.png",
+    "bytes": 140006,
+    "sha256": "62d61e9feedba9dee9405558ad9635ce4b1fb1d383fba58fbf92e47e1d23428d"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/figures/25_final_logistic_regression_set_b_odds_ratios_95ci.png",
+    "repository_path": "results/figures/25_final_logistic_regression_set_b_odds_ratios_95ci.png",
+    "bytes": 640037,
+    "sha256": "0025d1c01439d535ab7e2ad6610e804a273ec2b3d4a7589c8960836d6fb1a04e"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/00_domain_range_checks.xlsx",
+    "repository_path": "results/tables/00_domain_range_checks.xlsx",
+    "bytes": 5543,
+    "sha256": "f74d86f0ad6dbb5df5547f15e43a53e3e86f18ab2c5b4ba686767ca6a5a5bbf7"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/figures/13_welch_t_test_training_only_volcano_plot.png",
+    "repository_path": "results/figures/13_welch_t_test_training_only_volcano_plot.png",
+    "bytes": 488964,
+    "sha256": "854c15c818e49ccb9b0bbc011b1ddd489a97b6d5f468ad7564b47aab2372bb22"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/figures/04_top_15_countries_by_tb_incidence.pdf",
+    "repository_path": "results/figures/04_top_15_countries_by_tb_incidence.pdf",
+    "bytes": 27497,
+    "sha256": "cc8fb9cc2660bf97ddd75f8672409e3494d5497161e7e313b339f8895d011f68"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/figures/12_pca_projection_candidate_predictors_by_tb_burden_class.pdf",
+    "repository_path": "results/figures/12_pca_projection_candidate_predictors_by_tb_burden_class.pdf",
+    "bytes": 42036,
+    "sha256": "f68d793a9b61dadf8f9a1a0284a8c0ce825129d71f0c2fe938ec6249a2f77304"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/figures/02_tb_incidence_histogram_log_scale.png",
+    "repository_path": "results/figures/02_tb_incidence_histogram_log_scale.png",
+    "bytes": 122425,
+    "sha256": "c46e24a6f0bb41250cca59d6293cf04e78861f4dde50bf8512ec9e2e8cc12042"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/03_tb_incidence_by_target_class_summary.csv",
+    "repository_path": "results/tables/03_tb_incidence_by_target_class_summary.csv",
+    "bytes": 247,
+    "sha256": "cd8eaab8818d80bdaf225bd6b17f2af1bc78de795e85278fb13f03c27add57ce"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/figures/15_standardized_mean_difference_training_only_effect_size_forest_plot.png",
+    "repository_path": "results/figures/15_standardized_mean_difference_training_only_effect_size_forest_plot.png",
+    "bytes": 848246,
+    "sha256": "03f282b1bbd0fe9713f93563ced224f55d65fc283c6c03ecb9c219dc16af78e9"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/00_dataset_audit_summary.xlsx",
+    "repository_path": "results/tables/00_dataset_audit_summary.xlsx",
+    "bytes": 5300,
+    "sha256": "26bb75b9a458b0bb612595a974374743a89502a7000a89afb0f485642612508a"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/29_X_test_logistic_regression_set_a_standardized.csv",
+    "repository_path": "results/tables/29_X_test_logistic_regression_set_a_standardized.csv",
+    "bytes": 35922,
+    "sha256": "703653693ee9ae4af6bad9f57abcde3c81009a8d0a0a9519ed08c298612f7479"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/00_leakage_quality_gate_summary.csv",
+    "repository_path": "results/tables/00_leakage_quality_gate_summary.csv",
+    "bytes": 2869,
+    "sha256": "6b83d97cbac3f91db0645eee366fdef15121f9b96063a91a38dca5611fd818ec"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/00_candidate_predictor_columns.xlsx",
+    "repository_path": "results/tables/00_candidate_predictor_columns.xlsx",
+    "bytes": 5696,
+    "sha256": "d1e355826a66454459841708254d7cdabab7a3e9c23ae88a279b82665a3143b0"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/figures/05_correlation_heatmap_selected_predictors.png",
+    "repository_path": "results/figures/05_correlation_heatmap_selected_predictors.png",
+    "bytes": 1278060,
+    "sha256": "0079e1b9f27f2c294fc381f70ea322ece34410df3679d8b8e5db51f581909ea1"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/31_logistic_regression_set_a_train_test_metrics.csv",
+    "repository_path": "results/tables/31_logistic_regression_set_a_train_test_metrics.csv",
+    "bytes": 892,
+    "sha256": "6531791ecbcccab28f095cfcbfc451afdc4e1462e214fce9eb12da2f79adaef9"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/figures/14_mann_whitney_u_test_training_only_fdr_significant_effect_sizes_improved.png",
+    "repository_path": "results/figures/14_mann_whitney_u_test_training_only_fdr_significant_effect_sizes_improved.png",
+    "bytes": 1458811,
+    "sha256": "66924a514ef85c7c4ccc0ea0e1a5a607f8cec9271b653fb5de34ae40245c17e2"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/29_logistic_regression_set_a_input_summary.xlsx",
+    "repository_path": "results/tables/29_logistic_regression_set_a_input_summary.xlsx",
+    "bytes": 5566,
+    "sha256": "1707049fff294a35e12fc7f6ad562ae743604fabf2cff76f0eae6f74ed2fb3a6"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/00_initial_column_role_summary.xlsx",
+    "repository_path": "results/tables/00_initial_column_role_summary.xlsx",
+    "bytes": 6671,
+    "sha256": "506253418a2ce30c39d0eef0e0b6203845c77a4e343b42af8b2fe050ca2d76aa"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/figures/05a_top_15_predictors_by_absolute_skewness.png",
+    "repository_path": "results/figures/05a_top_15_predictors_by_absolute_skewness.png",
+    "bytes": 397146,
+    "sha256": "ee25346921c25e3af1462985e0d6e1c1ed8a15814cae45b06b22f27b49da01ed"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/figures/12_hdi_gni_scatter_by_tb_burden_class.pdf",
+    "repository_path": "results/figures/12_hdi_gni_scatter_by_tb_burden_class.pdf",
+    "bytes": 41857,
+    "sha256": "46cbe86af3560f058ebf04170ca29114f0c48e2527111acf3d682aedbb9f6168"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/figures/10_top_predictors_correlation_heatmap.pdf",
+    "repository_path": "results/figures/10_top_predictors_correlation_heatmap.pdf",
+    "bytes": 49705,
+    "sha256": "4fee14c08964bcb6775952ddcba09d0918cdc2fa80b30819c2862923c1385d45"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/24_logistic_regression_set_b_evaluation_metrics.csv",
+    "repository_path": "results/tables/24_logistic_regression_set_b_evaluation_metrics.csv",
+    "bytes": 1108,
+    "sha256": "8480c9c2af657b486ef5a1da13d7066287259d1a99aca7bf2800abbe81e45a5e"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/figures/13_welch_t_test_top_predictors_boxplots.png",
+    "repository_path": "results/figures/13_welch_t_test_top_predictors_boxplots.png",
+    "bytes": 984541,
+    "sha256": "d58c6904503194afdff6ca9f9a2155840f2d9ffcd48dd3f4d356db7f919ac391"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/notebooks/TB_Burden_Classification_Thesis.ipynb",
+    "repository_path": "notebooks/TB_Burden_Classification_Thesis.ipynb",
+    "bytes": 11397639,
+    "sha256": "6b25505eb66c0ea48502b8e87b4bc25b5745cccb18089c93709949c3f15f381d"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/00_numerical_descriptive_summary.csv",
+    "repository_path": "results/tables/00_numerical_descriptive_summary.csv",
+    "bytes": 5960,
+    "sha256": "f017f20a5d228eb4516909b906cf04240f78c5e0eeda93fcbf12871d08361dd0"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/00_negative_values_summary.xlsx",
+    "repository_path": "results/tables/00_negative_values_summary.xlsx",
+    "bytes": 6387,
+    "sha256": "9fc20a358114714e98381417e6bd4555eb64e9b6848d78cfebd6a48477fc8a04"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/00_column_list.csv",
+    "repository_path": "results/tables/00_column_list.csv",
+    "bytes": 3546,
+    "sha256": "57b547004d4d773ef0dcedb82b825e2d3f76ad0df4ae40eb1accc0d64d7c3935"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/24_logistic_regression_set_b_evaluation_metrics.xlsx",
+    "repository_path": "results/tables/24_logistic_regression_set_b_evaluation_metrics.xlsx",
+    "bytes": 5677,
+    "sha256": "fb90955aac0cf0597a62b44fcd653348dc724ce518ce7e7f31e8fff138ba8917"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/35_logistic_regression_set_b_permutation_importance_balanced_accuracy.csv",
+    "repository_path": "results/tables/35_logistic_regression_set_b_permutation_importance_balanced_accuracy.csv",
+    "bytes": 2634,
+    "sha256": "3a02e39d5bdbe3d439b71dac293e92df79a90ed57422dca39565dbaa127cfc60"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/00_infinite_values_summary.csv",
+    "repository_path": "results/tables/00_infinite_values_summary.csv",
+    "bytes": 3098,
+    "sha256": "e7a2ee8db1177f5869e4046ef0baf37869d3fcbc8bb617579ac5d63d57a9a3b0"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/29_logistic_regression_set_a_scaler_parameters.xlsx",
+    "repository_path": "results/tables/29_logistic_regression_set_a_scaler_parameters.xlsx",
+    "bytes": 9354,
+    "sha256": "cd61201fd6b7dd542af7ecc27d705be620daf7e8a99984e9c0d0983d0849aa6e"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/00_numerical_descriptive_summary.xlsx",
+    "repository_path": "results/tables/00_numerical_descriptive_summary.xlsx",
+    "bytes": 9388,
+    "sha256": "dce645f7e4ac77f42eecc9664f857c2fa9e3007c9c12cf328de223ee6c658c81"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/00_column_list.xlsx",
+    "repository_path": "results/tables/00_column_list.xlsx",
+    "bytes": 7000,
+    "sha256": "e2d1adb1f0756becdbb61c5737cb786ca38a84bb27fca01185163205dae5b63a"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/00_unique_values_summary.xlsx",
+    "repository_path": "results/tables/00_unique_values_summary.xlsx",
+    "bytes": 7038,
+    "sha256": "866bac235197f658d160c0bf1d5810838072ddafc5e39f3f07914f035f2e4740"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/28_logistic_regression_set_b_test_precision_recall_thresholds.csv",
+    "repository_path": "results/tables/28_logistic_regression_set_b_test_precision_recall_thresholds.csv",
+    "bytes": 1713,
+    "sha256": "3d1b79c180e5006d0d3ca8d59306fa55033e30e930d960501f60bf88fc72fd5a"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/31_logistic_regression_set_a_train_test_metrics.xlsx",
+    "repository_path": "results/tables/31_logistic_regression_set_a_train_test_metrics.xlsx",
+    "bytes": 5545,
+    "sha256": "8c87b013873523a938430c9f75b30e8e25a5f1735adb77ca49e262090b56467d"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/00_missing_values_summary.csv",
+    "repository_path": "results/tables/00_missing_values_summary.csv",
+    "bytes": 3362,
+    "sha256": "336462d8212dcabae6ba07637d48036b6eec2653e4621c05c6daaa9de59a1cdb"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/34_logistic_regression_set_a_test_precision_recall_thresholds.csv",
+    "repository_path": "results/tables/34_logistic_regression_set_a_test_precision_recall_thresholds.csv",
+    "bytes": 1540,
+    "sha256": "dc6ad226a6aa50af7eb4a980fca36400b2de14539bb48c405452a3f02f92f45c"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/figures/09_feature_target_correlation_ranking.png",
+    "repository_path": "results/figures/09_feature_target_correlation_ranking.png",
+    "bytes": 429724,
+    "sha256": "f3c7142772b0b14919f39399ad60a50ab9f1e52eb74026df99f49e0acb8826f6"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/00_infinite_values_summary.xlsx",
+    "repository_path": "results/tables/00_infinite_values_summary.xlsx",
+    "bytes": 6384,
+    "sha256": "85b1526b7c5e562ec1682b58ecf563eb37c27baaae8233727a4860b5ba519b39"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/19_X_test_final_modelling_input.csv",
+    "repository_path": "results/tables/19_X_test_final_modelling_input.csv",
+    "bytes": 2518,
+    "sha256": "691976312de7911b2813ed24fe1d94ee87861b17fa73af41f340cae8fbe9547f"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/00_column_type_summary.csv",
+    "repository_path": "results/tables/00_column_type_summary.csv",
+    "bytes": 3168,
+    "sha256": "5aec4de0e35cb30d806e7b69cb6f317af6f4c7c162ea7480dfe5d6d26dab8053"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/figures/03_tb_incidence_distribution_boxplot.png",
+    "repository_path": "results/figures/03_tb_incidence_distribution_boxplot.png",
+    "bytes": 141280,
+    "sha256": "486dd5c18b08e05db8fcc33c1c72b49a046cd5f2ee2f5e3416b4849440aa6c08"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/00_missing_values_summary.xlsx",
+    "repository_path": "results/tables/00_missing_values_summary.xlsx",
+    "bytes": 6617,
+    "sha256": "4114ea6d625ea8d20d64cad4776263216e35eec254a8dfa032562c76bd15b6d5"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/figures/06_tb_incidence_by_target_class_box_strip.png",
+    "repository_path": "results/figures/06_tb_incidence_by_target_class_box_strip.png",
+    "bytes": 198114,
+    "sha256": "d2f8a21a5203656d3f76c2e3c6dceb950062fd710f27f6ffe73ba604c1b4a378"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/30_logistic_regression_set_a_statsmodels_summary.txt",
+    "repository_path": "results/tables/30_logistic_regression_set_a_statsmodels_summary.txt",
+    "bytes": 8296,
+    "sha256": "5dc21f7f9e5674e6be2ffb8e95300752249e7ee4d73c07c0c83a970b75bb485b"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/29_logistic_regression_set_a_predictor_list.csv",
+    "repository_path": "results/tables/29_logistic_regression_set_a_predictor_list.csv",
+    "bytes": 2410,
+    "sha256": "78d29fd4de547ae7aed8f36eae221f71d39a50a1883be4d76a62a96b799c9466"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/31_logistic_regression_set_a_confusion_matrix_summary.xlsx",
+    "repository_path": "results/tables/31_logistic_regression_set_a_confusion_matrix_summary.xlsx",
+    "bytes": 5466,
+    "sha256": "952f02bb6b17998eaaccd57e60ef351fd7239aab27056f1fd9ad93d1911863ab"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/35_logistic_regression_set_b_permutation_importance_balanced_accuracy.xlsx",
+    "repository_path": "results/tables/35_logistic_regression_set_b_permutation_importance_balanced_accuracy.xlsx",
+    "bytes": 6134,
+    "sha256": "98e06a770fbc3df6ad18a1abdae1567672bdbdb72c4d8b10ee388e39fa39bb62"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/33_logistic_regression_set_a_test_roc_thresholds.csv",
+    "repository_path": "results/tables/33_logistic_regression_set_a_test_roc_thresholds.csv",
+    "bytes": 586,
+    "sha256": "5d61af56ca19b36f731a9ddb870c7fded1cd4329df2a0c688db683f28ba63f36"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/17_spearman_candidate_correlation_groups.csv",
+    "repository_path": "results/tables/17_spearman_candidate_correlation_groups.csv",
+    "bytes": 2891,
+    "sha256": "7c385c0772ca51f15e95520656b6092e3227271537810ccbf01a88cf4179588d"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/30_logistic_regression_set_a_model_fit_summary.csv",
+    "repository_path": "results/tables/30_logistic_regression_set_a_model_fit_summary.csv",
+    "bytes": 1746,
+    "sha256": "caa69bc7656a061f13a50654d41415e400cf4a075cb8b7a534c43eaa2405f180"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/30_logistic_regression_set_a_model_fit_summary.xlsx",
+    "repository_path": "results/tables/30_logistic_regression_set_a_model_fit_summary.xlsx",
+    "bytes": 5951,
+    "sha256": "27e71056ba24c9109b7731cd44717e4838b34b1b154d2893c24e3caa8fe1a229"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/31_logistic_regression_set_a_confusion_matrix_summary.csv",
+    "repository_path": "results/tables/31_logistic_regression_set_a_confusion_matrix_summary.csv",
+    "bytes": 966,
+    "sha256": "c859b4c2cb9af2b1973ba60c4b2b17a1860efc5897dc9200f5a29a650c72b69f"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/29_logistic_regression_set_a_predictor_list.xlsx",
+    "repository_path": "results/tables/29_logistic_regression_set_a_predictor_list.xlsx",
+    "bytes": 5984,
+    "sha256": "904f586f60357deea0a308b0f0efbbd7a2d6e401fa0e7c803b1d0232a9f2ec68"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/31_logistic_regression_set_a_test_predictions.csv",
+    "repository_path": "results/tables/31_logistic_regression_set_a_test_predictions.csv",
+    "bytes": 1934,
+    "sha256": "e1ff4e76edc498a8e0f129999a92c634bde6b6c02269bf2aa97e668847592e0e"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/17_spearman_candidate_correlation_group_summary.csv",
+    "repository_path": "results/tables/17_spearman_candidate_correlation_group_summary.csv",
+    "bytes": 1321,
+    "sha256": "49a650b5b37688e8cd1a22e51addb202fdde79a99950d42fbe3834deabbcf441"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/24_logistic_regression_set_b_evaluation_summary.xlsx",
+    "repository_path": "results/tables/24_logistic_regression_set_b_evaluation_summary.xlsx",
+    "bytes": 5664,
+    "sha256": "8a9c59c1b84ec1c3a0a8cae5e9ba18f767837ea1c95a1be62efb50442f914d8c"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/06_top_15_predictors_correlation_matrix.csv",
+    "repository_path": "results/tables/06_top_15_predictors_correlation_matrix.csv",
+    "bytes": 5139,
+    "sha256": "8ddcf4f978146ae5301a1faee2f2c25cb0e3999d5206d271150b8b7e9bceee3a"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/19_final_modelling_input_summary.xlsx",
+    "repository_path": "results/tables/19_final_modelling_input_summary.xlsx",
+    "bytes": 5383,
+    "sha256": "fd5449c8ab4c2c57d0d5a98755ad0b06cdcd0b71946a458ede4ca460bca6d49e"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/figures/17_spearman_candidate_predictor_correlation_heatmap.png",
+    "repository_path": "results/figures/17_spearman_candidate_predictor_correlation_heatmap.png",
+    "bytes": 1231057,
+    "sha256": "105ab0565b15c3bb7249edb6d42ff55f7700dfd3237834af9d21c4ff37e8cfd4"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/figures/08_countries_closest_to_q3_threshold.png",
+    "repository_path": "results/figures/08_countries_closest_to_q3_threshold.png",
+    "bytes": 697391,
+    "sha256": "e72b49ef49d98cb681d2293e5b908af2849f2daa0df3a520d966e1fce17f74dd"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/27_logistic_regression_set_b_test_roc_thresholds.csv",
+    "repository_path": "results/tables/27_logistic_regression_set_b_test_roc_thresholds.csv",
+    "bytes": 866,
+    "sha256": "978969a9dc90c0f70e0ea4646b7a4215e12daf64dbffed7d080df946a90ab940"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/figures/34_final_logistic_regression_set_a_test_precision_recall_curve.png",
+    "repository_path": "results/figures/34_final_logistic_regression_set_a_test_precision_recall_curve.png",
+    "bytes": 350088,
+    "sha256": "eecde854559389034e1d8e229de13c9c4ebf1888f0eb84daaa5b7f9c37266a3a"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/figures/28_final_logistic_regression_set_b_test_precision_recall_curve.png",
+    "repository_path": "results/figures/28_final_logistic_regression_set_b_test_precision_recall_curve.png",
+    "bytes": 374125,
+    "sha256": "77fab2885bd08bc05913be80bb25909d418424344e14e49afa8350176702f643"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/00_column_roles_documentation.csv",
+    "repository_path": "results/tables/00_column_roles_documentation.csv",
+    "bytes": 6271,
+    "sha256": "c8b9e8779bbdee8559578ca44f986c216afaaeb16e7551cdf25594f34177a7aa"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/figures/32_final_logistic_regression_set_a_test_confusion_matrix.png",
+    "repository_path": "results/figures/32_final_logistic_regression_set_a_test_confusion_matrix.png",
+    "bytes": 289591,
+    "sha256": "26bcb3418b8fa2b67f20ab1c82956a7ea59236dd006fd357fa7d608392eb5213"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/31_logistic_regression_set_a_probability_diagnostics.xlsx",
+    "repository_path": "results/tables/31_logistic_regression_set_a_probability_diagnostics.xlsx",
+    "bytes": 5310,
+    "sha256": "ae828309d96ea158a8d3b81092484b7d940852840a19a41a26191b9ba69b11bd"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/30_logistic_regression_set_a_statsmodels_summary.html",
+    "repository_path": "results/tables/30_logistic_regression_set_a_statsmodels_summary.html",
+    "bytes": 11223,
+    "sha256": "dc5599410302b1df8feb712e25da6b968b6d0347ed63e146377f9c0e48b9e9be"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/figures/27_logistic_regression_set_b_test_roc_curve.png",
+    "repository_path": "results/figures/27_logistic_regression_set_b_test_roc_curve.png",
+    "bytes": 174013,
+    "sha256": "589c96028fccc92f4f57308e66c4277e57025116550b0d9ac93dcebf63a75cbd"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/31_logistic_regression_set_a_train_predictions.csv",
+    "repository_path": "results/tables/31_logistic_regression_set_a_train_predictions.csv",
+    "bytes": 7062,
+    "sha256": "9c13999bb5e038f305e7210cfdbbd492cdfb3d5c69fba4ded06ed98703c099a5"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/00_domain_range_checks.csv",
+    "repository_path": "results/tables/00_domain_range_checks.csv",
+    "bytes": 726,
+    "sha256": "fc7c63fe6252eaaf1799a3e3a4c051022e024403283432d6428021f628e6649e"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/24_logistic_regression_set_b_test_predictions.csv",
+    "repository_path": "results/tables/24_logistic_regression_set_b_test_predictions.csv",
+    "bytes": 1468,
+    "sha256": "2a52e67dc7ec984c3a02f5b27deb71489adbeea57f37cf4d4c5b97c8b1724f16"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/23_logistic_regression_set_b_coefficients_odds_ratios.csv",
+    "repository_path": "results/tables/23_logistic_regression_set_b_coefficients_odds_ratios.csv",
+    "bytes": 9618,
+    "sha256": "8207dbec5e1fdeba3e31050c7bc84780cd667ed47d0182d79b64732cfd86fa05"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/figures/36_final_logistic_regression_set_b_vs_set_a_test_metrics_comparison.pdf",
+    "repository_path": "results/figures/36_final_logistic_regression_set_b_vs_set_a_test_metrics_comparison.pdf",
+    "bytes": 19612,
+    "sha256": "e8c0e6fdc6a766f17b222e7ee1231a1892fca0536558ff2529539b0fcf94a00f"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/23_logistic_regression_set_b_coefficient_summary.csv",
+    "repository_path": "results/tables/23_logistic_regression_set_b_coefficient_summary.csv",
+    "bytes": 987,
+    "sha256": "cd09c57142b46fc2c03363c14bd3f200432df4c8a77acc85203915012065876a"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/figures/17_candidate_predictors_spearman_correlation_heatmap_annotated.pdf",
+    "repository_path": "results/figures/17_candidate_predictors_spearman_correlation_heatmap_annotated.pdf",
+    "bytes": 298724,
+    "sha256": "63a6d3d33fed3a10ba6725d115abf896f62a7172c002e4ac1645be897a90780a"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/21_logistic_regression_set_b_input_summary.csv",
+    "repository_path": "results/tables/21_logistic_regression_set_b_input_summary.csv",
+    "bytes": 965,
+    "sha256": "9878c162a85635c8159c03ed0658363a27ba58d8de361cccb2ae9b454086b56e"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/23_logistic_regression_set_b_coefficients_odds_ratios.xlsx",
+    "repository_path": "results/tables/23_logistic_regression_set_b_coefficients_odds_ratios.xlsx",
+    "bytes": 8881,
+    "sha256": "fa820b263ca340f8390e34880be77736ee530cff4a0486b707e3758765d3d29f"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/figures/17_candidate_predictors_spearman_correlation_heatmap.png",
+    "repository_path": "results/figures/17_candidate_predictors_spearman_correlation_heatmap.png",
+    "bytes": 1069647,
+    "sha256": "4c17ff86e53d02187934288953217844a7f0e749199013d5489972ede54b7fa8"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/figures/17_spearman_candidate_predictor_correlation_heatmap.pdf",
+    "repository_path": "results/figures/17_spearman_candidate_predictor_correlation_heatmap.pdf",
+    "bytes": 85844,
+    "sha256": "0d9113798c2836169d6fd8db1129309c5a376581c079ec14d309c8dc0f7d625c"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/24_logistic_regression_set_b_confusion_matrix.csv",
+    "repository_path": "results/tables/24_logistic_regression_set_b_confusion_matrix.csv",
+    "bytes": 261,
+    "sha256": "25b7eb7b92aeb28707647452f019a37f3a3dbdd2c3a13991a959e45162eb9e2f"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/24_logistic_regression_set_b_evaluation_summary.csv",
+    "repository_path": "results/tables/24_logistic_regression_set_b_evaluation_summary.csv",
+    "bytes": 1107,
+    "sha256": "5b6437df8fbc1e495df13f36e24f6c5663a535a1232c3e19a14b6de7d0652149"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/24_logistic_regression_set_b_train_predictions.csv",
+    "repository_path": "results/tables/24_logistic_regression_set_b_train_predictions.csv",
+    "bytes": 5470,
+    "sha256": "d44f3c176a86d3a6cd49647b6a9ffa8bcc8d054a6f9df9edc2baf7ccb504df22"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/21_X_train_logistic_regression_set_b_standardized.csv",
+    "repository_path": "results/tables/21_X_train_logistic_regression_set_b_standardized.csv",
+    "bytes": 38153,
+    "sha256": "e568b8c67b4dd112fb23da1878cf840439eb3acd6e698f587dd88976aa9a49f3"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/24_logistic_regression_set_b_confusion_matrix.xlsx",
+    "repository_path": "results/tables/24_logistic_regression_set_b_confusion_matrix.xlsx",
+    "bytes": 5182,
+    "sha256": "fd432c4fb45b8002b5b47025e10ad239606c68b56e72f66ac54e42418f420ebc"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/22_logistic_regression_set_b_model_fit_summary.xlsx",
+    "repository_path": "results/tables/22_logistic_regression_set_b_model_fit_summary.xlsx",
+    "bytes": 5551,
+    "sha256": "a456c4a4d064257cb55da55ea34eb1d948def74410143e8e189ff9d2f1b50905"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/13_welch_t_test_training_only_medium_or_large_hedges_g_predictors.xlsx",
+    "repository_path": "results/tables/13_welch_t_test_training_only_medium_or_large_hedges_g_predictors.xlsx",
+    "bytes": 13075,
+    "sha256": "90d545ba4fad0ae6cdddc3809a5aff54d4d82837a800853cee99b0a333e901c2"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/23_logistic_regression_set_b_significant_predictors.csv",
+    "repository_path": "results/tables/23_logistic_regression_set_b_significant_predictors.csv",
+    "bytes": 511,
+    "sha256": "e96230757b830674de90932e214a27e655d18c748801f738d27f2ce197fafd06"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/22_logistic_regression_set_b_statsmodels_summary.txt",
+    "repository_path": "results/tables/22_logistic_regression_set_b_statsmodels_summary.txt",
+    "bytes": 3912,
+    "sha256": "4c97313df205fcf33c5c23671a3d2fa2627ac500f3e8604f8d785eeafdce97c1"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/21_X_test_logistic_regression_set_b_standardized.csv",
+    "repository_path": "results/tables/21_X_test_logistic_regression_set_b_standardized.csv",
+    "bytes": 10177,
+    "sha256": "d40e8c08f6dc1e474d3cc91a134926af37f229b10a8463379fb69a9434db0693"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/21_logistic_regression_set_b_scaler_parameters.xlsx",
+    "repository_path": "results/tables/21_logistic_regression_set_b_scaler_parameters.xlsx",
+    "bytes": 6437,
+    "sha256": "96ab7ea05d6677d9ea2071db6399b246a25f49324aa5f9c0f14bf0f91bc32a80"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/figures/14_mann_whitney_u_test_top_predictors_distribution_violin_boxplots.png",
+    "repository_path": "results/figures/14_mann_whitney_u_test_top_predictors_distribution_violin_boxplots.png",
+    "bytes": 1264224,
+    "sha256": "3851a358c6bddc74cf238f871e4780102bb67f717b33c520c252345d4c549bb6"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/figures/13_welch_t_test_training_only_volcano_plot.pdf",
+    "repository_path": "results/figures/13_welch_t_test_training_only_volcano_plot.pdf",
+    "bytes": 43690,
+    "sha256": "f7f82d5bb2d9280e6b4e7f78450c55063d84b9071fde529dc2e488dcd3bc9fc0"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/figures/13_welch_t_test_training_only_fdr_significant_effect_sizes_improved.png",
+    "repository_path": "results/figures/13_welch_t_test_training_only_fdr_significant_effect_sizes_improved.png",
+    "bytes": 834734,
+    "sha256": "85685826b519ba53b19ccfe271ca23bd29cf937f15bc5ba1c05267aeb693d244"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/19_final_train_test_target_distribution.xlsx",
+    "repository_path": "results/tables/19_final_train_test_target_distribution.xlsx",
+    "bytes": 5144,
+    "sha256": "b41a4fb8a29948a88890822f24046c374fb4cd3cc961aa81077c3ae541af80e8"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/23_logistic_regression_set_b_coefficient_summary.xlsx",
+    "repository_path": "results/tables/23_logistic_regression_set_b_coefficient_summary.xlsx",
+    "bytes": 5493,
+    "sha256": "9ecd842d97513131d32cf56a49d45537f45e08c67e2854b663cdc2e785ece7db"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/29_logistic_regression_set_a_scaler_parameters.csv",
+    "repository_path": "results/tables/29_logistic_regression_set_a_scaler_parameters.csv",
+    "bytes": 9306,
+    "sha256": "9900ab0ef200531a2c764ca04f43b03ef3cc7ba0e995d1f632e856da845d8e49"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/06_top_15_predictors_correlation_matrix.xlsx",
+    "repository_path": "results/tables/06_top_15_predictors_correlation_matrix.xlsx",
+    "bytes": 7476,
+    "sha256": "cc06edb426959219fdafdf0de0c8c247baddccc1c8b99d627f8029351eef347f"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/19_final_train_test_target_distribution.csv",
+    "repository_path": "results/tables/19_final_train_test_target_distribution.csv",
+    "bytes": 329,
+    "sha256": "1a1a38ca05eccc18f97bd633c7df9fd37ff2ec79c74a03a15b34bc0e23ce00c1"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/figures/10_top_15_predictors_correlation_heatmap.png",
+    "repository_path": "results/figures/10_top_15_predictors_correlation_heatmap.png",
+    "bytes": 832260,
+    "sha256": "8611c2c4b8bc68b41f0a8331af5dda9cd08af7eec4b4afcfedb56041705475e2"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/01_top_60_countries_by_tb_incidence.csv",
+    "repository_path": "results/tables/01_top_60_countries_by_tb_incidence.csv",
+    "bytes": 1950,
+    "sha256": "4babf99bc9b6af23b2f10c265b8e545a8f2ef3d5c39a6eb44f375ec34b1a8940"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/29_X_train_logistic_regression_set_a_standardized.csv",
+    "repository_path": "results/tables/29_X_train_logistic_regression_set_a_standardized.csv",
+    "bytes": 134977,
+    "sha256": "df9d59e6d6429d5a349b646249b2c7c263ac7694f781bb40b5c88812f468ce80"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/figures/13_welch_t_test_top_predictors_boxplots_large_panels.png",
+    "repository_path": "results/figures/13_welch_t_test_top_predictors_boxplots_large_panels.png",
+    "bytes": 1298624,
+    "sha256": "6e89cec9e3a295752cb4411b35af70bb1e1da8d77ee8c47a7f954e10e4416e98"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/figures/17_candidate_predictors_spearman_correlation_heatmap.pdf",
+    "repository_path": "results/figures/17_candidate_predictors_spearman_correlation_heatmap.pdf",
+    "bytes": 66280,
+    "sha256": "c4f8b206cd739d7c9f5401555a4133ce5b3d4b360370923a3785ee0a7f439f37"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/18_final_predictor_selection_summary.xlsx",
+    "repository_path": "results/tables/18_final_predictor_selection_summary.xlsx",
+    "bytes": 5340,
+    "sha256": "c72b53fdcd6a59bf4e8fb87a8b11c610db0f26797e10e7b22fe6cba0334b60fe"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/00_leakage_quality_gate_summary.xlsx",
+    "repository_path": "results/tables/00_leakage_quality_gate_summary.xlsx",
+    "bytes": 5734,
+    "sha256": "087c5b614f02b6cbf263840888867112a758d399aece61da9da5c2e1b2630844"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/21_logistic_regression_set_b_scaler_parameters.csv",
+    "repository_path": "results/tables/21_logistic_regression_set_b_scaler_parameters.csv",
+    "bytes": 2845,
+    "sha256": "79bd8d925335d663a80bcabfa1dd0a7a530da51c6ccec94688ac299f9f4e7fe2"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/19_final_modelling_input_summary.csv",
+    "repository_path": "results/tables/19_final_modelling_input_summary.csv",
+    "bytes": 675,
+    "sha256": "ad9ca151d257117187a099a9d301c32d62148edbbcb22bc054fb74c877bf9f13"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/22_logistic_regression_set_b_model_fit_summary.csv",
+    "repository_path": "results/tables/22_logistic_regression_set_b_model_fit_summary.csv",
+    "bytes": 660,
+    "sha256": "0c0c31458d89240c80aa4ec21cb4d98951c64c38db4861eafe8e37a096d40e72"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/figures/13_welch_t_test_training_only_fdr_significant_effect_sizes.png",
+    "repository_path": "results/figures/13_welch_t_test_training_only_fdr_significant_effect_sizes.png",
+    "bytes": 790114,
+    "sha256": "e8882c683b353815f8ed2c1f068c36353995bd141e5697be30dcdd578e428f78"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/18_final_input_predictors_after_spearman_pruning.xlsx",
+    "repository_path": "results/tables/18_final_input_predictors_after_spearman_pruning.xlsx",
+    "bytes": 7936,
+    "sha256": "ff226b6d55e31124024717e7449a0536a9f47276f42825d5188058b68763d087"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/19_final_modelling_predictors.csv",
+    "repository_path": "results/tables/19_final_modelling_predictors.csv",
+    "bytes": 3977,
+    "sha256": "35e85c1c01418caf4915f94695b6f510094b72d09f40b125156389f54ea43be1"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/figures/33_final_logistic_regression_set_a_test_roc_curve.png",
+    "repository_path": "results/figures/33_final_logistic_regression_set_a_test_roc_curve.png",
+    "bytes": 376532,
+    "sha256": "f45f9b6c4eebd84bce614dcf9073749d231ca76975aee9f9d9f98bc403f021c9"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/00_bcg_missing_summary.xlsx",
+    "repository_path": "results/tables/00_bcg_missing_summary.xlsx",
+    "bytes": 5152,
+    "sha256": "2e77173cffe9ddfa25d842268687e68c64be4df6da28a073df976c8977cad93f"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/figures/04_countries_above_q3_operational_threshold_by_tb_incidence.pdf",
+    "repository_path": "results/figures/04_countries_above_q3_operational_threshold_by_tb_incidence.pdf",
+    "bytes": 35368,
+    "sha256": "683713a6e5c7d4547f5354dfc6f3b4a0d957e6276266b1006cd40999fbdb50b6"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/18_excluded_predictors_due_to_spearman_collinearity.csv",
+    "repository_path": "results/tables/18_excluded_predictors_due_to_spearman_collinearity.csv",
+    "bytes": 5039,
+    "sha256": "ed30c3cb5b112947d9164e30057d5d96262f84c06fd35e97acc3868236fb2341"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/18_high_correlation_group_representative_selection.csv",
+    "repository_path": "results/tables/18_high_correlation_group_representative_selection.csv",
+    "bytes": 2472,
+    "sha256": "4723164a4cf985852464467f152518d3b7b8a745743a9254d4cd22a2fa766a07"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/17_spearman_candidate_multicollinearity_summary.xlsx",
+    "repository_path": "results/tables/17_spearman_candidate_multicollinearity_summary.xlsx",
+    "bytes": 5106,
+    "sha256": "59975a31387c15375caf8d599e586a308359a07c26268e013f8aa69888082b9c"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/17_spearman_candidate_predictor_correlation_matrix.xlsx",
+    "repository_path": "results/tables/17_spearman_candidate_predictor_correlation_matrix.xlsx",
+    "bytes": 12323,
+    "sha256": "cb856c60ba474ffd7e9e3bf1c024206dfd6cf7b70ffb51f434aa5767afd151f6"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/00_column_roles_documentation.xlsx",
+    "repository_path": "results/tables/00_column_roles_documentation.xlsx",
+    "bytes": 7145,
+    "sha256": "17a0e0a07e11399962c945901c65dc792644a0fe65ad6cd5cf6130a41f9bfd4f"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/12_training_screening_class_distribution.csv",
+    "repository_path": "results/tables/12_training_screening_class_distribution.csv",
+    "bytes": 116,
+    "sha256": "7538b45bb7a44b761ffcbd584bf2f16a1625882b11f77d73220fa3674b56aa48"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/18_excluded_predictors_due_to_spearman_collinearity.xlsx",
+    "repository_path": "results/tables/18_excluded_predictors_due_to_spearman_collinearity.xlsx",
+    "bytes": 6910,
+    "sha256": "f86a2a043a803390ee84b6d291ecf790478ccca6b65d39738b4a941d699e3a7e"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/16_combined_training_only_screening_counts.xlsx",
+    "repository_path": "results/tables/16_combined_training_only_screening_counts.xlsx",
+    "bytes": 5301,
+    "sha256": "fe4dcce920995c39717c0965aed95c4335c3a5c578a01c13925a135381bb9331"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/29_logistic_regression_set_a_input_summary.csv",
+    "repository_path": "results/tables/29_logistic_regression_set_a_input_summary.csv",
+    "bytes": 995,
+    "sha256": "76fdb7de7b9c6cc1347db3600c23af1382f4d2dc6d9fb7c5feda380bfa6cfb32"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/19_final_modelling_predictors.xlsx",
+    "repository_path": "results/tables/19_final_modelling_predictors.xlsx",
+    "bytes": 6998,
+    "sha256": "37bccd0cf84d765714848bc6c0b47dbcd44b9ff1945803e0093e594ca2d90e19"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/20_set_b_vif_diagnostics.xlsx",
+    "repository_path": "results/tables/20_set_b_vif_diagnostics.xlsx",
+    "bytes": 7748,
+    "sha256": "42608a139dc73f1c9c8ca5e5825adcc7bb5808383aa9a91879bca8aa71df1726"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/17_spearman_candidate_correlation_groups.xlsx",
+    "repository_path": "results/tables/17_spearman_candidate_correlation_groups.xlsx",
+    "bytes": 6648,
+    "sha256": "2dbf60bc5281a7801717bff302de475972a87f0adbf3e4ee8dc7c461ab651aa9"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/16_non_retained_predictors_before_collinearity.xlsx",
+    "repository_path": "results/tables/16_non_retained_predictors_before_collinearity.xlsx",
+    "bytes": 7294,
+    "sha256": "ec3f2b4ff89d433fa6037e0e37ab7e173456ca95780a1e4da978849b15ec4028"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/12_training_screening_input_summary.xlsx",
+    "repository_path": "results/tables/12_training_screening_input_summary.xlsx",
+    "bytes": 5183,
+    "sha256": "319d3aa9c5000fcd89855de38ef279b8cc64059a7d8c847b13365dc85f5af037"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/18_final_predictor_selection_summary.csv",
+    "repository_path": "results/tables/18_final_predictor_selection_summary.csv",
+    "bytes": 735,
+    "sha256": "9e4c36a1337f4d0c2d93b6b8eece3a28ce93402ba37d5f1735a2a7c564185570"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/21_logistic_regression_set_b_input_summary.xlsx",
+    "repository_path": "results/tables/21_logistic_regression_set_b_input_summary.xlsx",
+    "bytes": 5541,
+    "sha256": "b0d798621b6e213e58e522379771f8b957ca463effb689999c1981c8dcfa328c"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/17_spearman_candidate_highly_correlated_pairs.xlsx",
+    "repository_path": "results/tables/17_spearman_candidate_highly_correlated_pairs.xlsx",
+    "bytes": 8902,
+    "sha256": "ec00c56e2a72afdb7f5979e6c07088e006e7871aeeee1b43c78aa2799c22cad4"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/17_spearman_candidate_correlation_group_summary.xlsx",
+    "repository_path": "results/tables/17_spearman_candidate_correlation_group_summary.xlsx",
+    "bytes": 5524,
+    "sha256": "9ed328eaa8c102fc535085c6ca7a2204abfcca71e40a311022671459e7ed9af7"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/20_set_b_vif_diagnostics.csv",
+    "repository_path": "results/tables/20_set_b_vif_diagnostics.csv",
+    "bytes": 6428,
+    "sha256": "d054f0d182b15e09f635849e5d552912a482ae3a012eb324d771d1c7b09015da"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/16_non_retained_predictors_before_collinearity.csv",
+    "repository_path": "results/tables/16_non_retained_predictors_before_collinearity.csv",
+    "bytes": 6694,
+    "sha256": "727b44a8aea405e61d8f18233b6b2516b04c9e8fa694c2887ea9f293d7012837"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/04_countries_closest_to_q3_threshold.csv",
+    "repository_path": "results/tables/04_countries_closest_to_q3_threshold.csv",
+    "bytes": 2085,
+    "sha256": "2198e10bd4b9efec575fde37b125defbed1cbc839f04876ee30fce68725a872f"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/figures/04_countries_above_q3_operational_threshold_by_tb_incidence.png",
+    "repository_path": "results/figures/04_countries_above_q3_operational_threshold_by_tb_incidence.png",
+    "bytes": 724286,
+    "sha256": "888a131a513a23791bd5e3ece452df6c03aff82f25fded81a20d76b36702790f"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/14_mann_whitney_u_test_training_only_fdr_significant_effect_size_plot_data_improved.xlsx",
+    "repository_path": "results/tables/14_mann_whitney_u_test_training_only_fdr_significant_effect_size_plot_data_improved.xlsx",
+    "bytes": 11322,
+    "sha256": "819cdb6753d08a3e7e0305e6b66ed70facfec6539c10feb0e80ee1c84845deda"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/figures/15_standardized_mean_difference_training_only_effect_size_forest_plot.pdf",
+    "repository_path": "results/figures/15_standardized_mean_difference_training_only_effect_size_forest_plot.pdf",
+    "bytes": 49868,
+    "sha256": "f76e39109e4112553742eedfe09488887fe95325c3435e9b875aae87b0701650"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/16_candidate_predictors_before_collinearity.xlsx",
+    "repository_path": "results/tables/16_candidate_predictors_before_collinearity.xlsx",
+    "bytes": 8199,
+    "sha256": "1d1ef5a47fcf14fa404ca6f28ace47bca530e76c15a9a37fbc2469be4b5a5c2f"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/14_mann_whitney_u_test_training_only_fdr_significant_effect_size_plot_data_improved.csv",
+    "repository_path": "results/tables/14_mann_whitney_u_test_training_only_fdr_significant_effect_size_plot_data_improved.csv",
+    "bytes": 11974,
+    "sha256": "f73d8f9295fba80d01b83fe4f6b1bef577c228f7708bc8f9180d7368602c2733"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/18_X_screening_train_final_predictors.csv",
+    "repository_path": "results/tables/18_X_screening_train_final_predictors.csv",
+    "bytes": 8217,
+    "sha256": "d47197095461e82632536b4def24a93889ee98ad202e49d22ca352dcf395b642"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/14_mann_whitney_u_test_training_only_summary.xlsx",
+    "repository_path": "results/tables/14_mann_whitney_u_test_training_only_summary.xlsx",
+    "bytes": 5119,
+    "sha256": "2af9b0bcee6a7ed1a412c55c753e9b8280cf75bd7d53b761f8df4eedebaab3ad"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/19_X_train_final_modelling_input.csv",
+    "repository_path": "results/tables/19_X_train_final_modelling_input.csv",
+    "bytes": 8217,
+    "sha256": "d47197095461e82632536b4def24a93889ee98ad202e49d22ca352dcf395b642"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/14_mann_whitney_u_test_top_predictors_distribution_plot_data_large_panels.xlsx",
+    "repository_path": "results/tables/14_mann_whitney_u_test_top_predictors_distribution_plot_data_large_panels.xlsx",
+    "bytes": 12330,
+    "sha256": "ce5c68d4635ff89d793a0d2eccb1661dd1bbad3ab4126bdf722c4633bd6de376"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/17_candidate_predictors_not_in_high_correlation_groups.xlsx",
+    "repository_path": "results/tables/17_candidate_predictors_not_in_high_correlation_groups.xlsx",
+    "bytes": 6063,
+    "sha256": "db8f6de90f290b6a7015856a7afee6f3e529b7a8897da00a82946dc8d630e23e"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/14_mann_whitney_u_test_training_only_summary.csv",
+    "repository_path": "results/tables/14_mann_whitney_u_test_training_only_summary.csv",
+    "bytes": 213,
+    "sha256": "3eb150e898f7db1d1ca72e1b7081b6df451b02e87bfd171405a4b8439d08a125"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/16_combined_training_only_screening_summary.xlsx",
+    "repository_path": "results/tables/16_combined_training_only_screening_summary.xlsx",
+    "bytes": 19992,
+    "sha256": "e87180a4a2b4495f873938b4125147e8f0b0fb380ca931189e0c4493cb1a0efa"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/09_predictor_role_summary.xlsx",
+    "repository_path": "results/tables/09_predictor_role_summary.xlsx",
+    "bytes": 5069,
+    "sha256": "98324b341c7768bea6928e25268ee71b1f6a78adab2ab5c86de4e1905cb8d93e"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/13_welch_t_test_training_only_summary.xlsx",
+    "repository_path": "results/tables/13_welch_t_test_training_only_summary.xlsx",
+    "bytes": 5147,
+    "sha256": "16c0dbe6821ef3094f9e62eee6b018189ace8ba489f1d4e01da8dd47e8a91338"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/14_mann_whitney_u_test_training_only_significant_predictors.xlsx",
+    "repository_path": "results/tables/14_mann_whitney_u_test_training_only_significant_predictors.xlsx",
+    "bytes": 10891,
+    "sha256": "5343d35298ee84a4c96cd7fef61048d596b16d86cea2f4ce10821a4a7743d513"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/13_welch_t_test_training_only_large_hedges_g_predictors.xlsx",
+    "repository_path": "results/tables/13_welch_t_test_training_only_large_hedges_g_predictors.xlsx",
+    "bytes": 11081,
+    "sha256": "6173b1c02e1ca4a11055b5778a184c66f6b3c3d9dff81315fa93bb80f4df10d8"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/13_welch_t_test_training_only_absolute_hedges_g_ranking.xlsx",
+    "repository_path": "results/tables/13_welch_t_test_training_only_absolute_hedges_g_ranking.xlsx",
+    "bytes": 20795,
+    "sha256": "a08171eff9fcfe872b9885ba7b7db65c945c43054930c183b5cf3c3243a9f95d"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/20_vif_diagnostics_set_b_final_predictors.csv",
+    "repository_path": "results/tables/20_vif_diagnostics_set_b_final_predictors.csv",
+    "bytes": 2121,
+    "sha256": "e0c18e400c99c6cc56a13c7c7eaed294441fa96995064a3f332b03b477eabe64"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/13_welch_t_test_training_only_results.xlsx",
+    "repository_path": "results/tables/13_welch_t_test_training_only_results.xlsx",
+    "bytes": 20527,
+    "sha256": "847082aa0066d5acf7c41a617719b8e2d456eeaf49be627231164b9e28ff464c"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/13_welch_t_test_training_only_large_hedges_g_predictors.csv",
+    "repository_path": "results/tables/13_welch_t_test_training_only_large_hedges_g_predictors.csv",
+    "bytes": 9174,
+    "sha256": "4479c771158c788d4330a367f51c17d21789fc7ac11bb684e5a95e1d54b9b4c7"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/13_welch_t_test_training_only_effect_size_magnitude_summary.xlsx",
+    "repository_path": "results/tables/13_welch_t_test_training_only_effect_size_magnitude_summary.xlsx",
+    "bytes": 5052,
+    "sha256": "ac1446d741610fb1c6a6a1aad94887f86b6e80925f642cd756b9dc235ae067b8"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/22_logistic_regression_set_b_statsmodels_summary.html",
+    "repository_path": "results/tables/22_logistic_regression_set_b_statsmodels_summary.html",
+    "bytes": 4269,
+    "sha256": "598230a5595ba71da54d5a1bf6db9637789c0ae2598ea05439558baf3528284a"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/12_class_specific_distribution_diagnostics_overview.csv",
+    "repository_path": "results/tables/12_class_specific_distribution_diagnostics_overview.csv",
+    "bytes": 1004,
+    "sha256": "e66c02193b23f17074c5fc6bba3dd737d9210fef7dbe8aa8dcd4b0464ac8ab62"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/13_welch_t_test_training_only_significant_predictors.csv",
+    "repository_path": "results/tables/13_welch_t_test_training_only_significant_predictors.csv",
+    "bytes": 12827,
+    "sha256": "f4af916d16112d874f02ada9ee370c58dc734ad80420f5ee3bd3826fb2869fdc"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/13_welch_t_test_training_only_summary.csv",
+    "repository_path": "results/tables/13_welch_t_test_training_only_summary.csv",
+    "bytes": 278,
+    "sha256": "67cb0948a6c2f6136f9ae7eb18f7bab8e85a3f4952879b1ceb0b05a67fbb197f"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/13_welch_t_test_training_only_significant_predictors.xlsx",
+    "repository_path": "results/tables/13_welch_t_test_training_only_significant_predictors.xlsx",
+    "bytes": 13277,
+    "sha256": "c1c83e7d377e746921630b26f5cf723e4a5bea6bcd0babc187ca7321a0c1bc6e"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/12_class_specific_distribution_diagnostics_overview.xlsx",
+    "repository_path": "results/tables/12_class_specific_distribution_diagnostics_overview.xlsx",
+    "bytes": 5578,
+    "sha256": "737bc2fe110353a15162d2bc6e6b66971803b4c9c3d111ba1a3739612e063678"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/18_high_correlation_group_representative_selection.xlsx",
+    "repository_path": "results/tables/18_high_correlation_group_representative_selection.xlsx",
+    "bytes": 6076,
+    "sha256": "39f82404cc3060a2583c464fc1ffa9ccaeb7c35818a6360e29eeb87fb7fc2bc3"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/11_train_test_split_assignment.csv",
+    "repository_path": "results/tables/11_train_test_split_assignment.csv",
+    "bytes": 9855,
+    "sha256": "a6b5123b254ebefdb4ad1aeb57a4acc9ab0753b8a0c7c9cd1c32d9f89b3d29f7"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/12_class_specific_distribution_diagnostics_summary.csv",
+    "repository_path": "results/tables/12_class_specific_distribution_diagnostics_summary.csv",
+    "bytes": 19756,
+    "sha256": "2cdab731a3d28f4a9f72d7cea737d88bc60f605b6fdae438d7664d55a9dec2f1"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/11_train_test_split_target_distribution.xlsx",
+    "repository_path": "results/tables/11_train_test_split_target_distribution.xlsx",
+    "bytes": 5202,
+    "sha256": "abbaa3bc4d25405a9225a93e98c72b36912ccd2dee74071bd802a48eed73b97e"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/05a_class_specific_distribution_diagnostics.csv",
+    "repository_path": "results/tables/05a_class_specific_distribution_diagnostics.csv",
+    "bytes": 24181,
+    "sha256": "3d0280467e6fa5e455e194300a3fcef09499666e3d18371d060d553dd176b91b"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/15_standardized_mean_difference_training_only_results.xlsx",
+    "repository_path": "results/tables/15_standardized_mean_difference_training_only_results.xlsx",
+    "bytes": 14071,
+    "sha256": "374adc395ff1a071bbea254855bf75d7732725bf5020d7b1b388f33bc6c1ac57"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/14_mann_whitney_u_test_training_only_results.xlsx",
+    "repository_path": "results/tables/14_mann_whitney_u_test_training_only_results.xlsx",
+    "bytes": 13085,
+    "sha256": "f714306c0759297f6fd83f67160a55d0552f2919401a2129f4d2d6d388279ac1"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/05a_improved_distribution_plot_summary.csv",
+    "repository_path": "results/tables/05a_improved_distribution_plot_summary.csv",
+    "bytes": 695,
+    "sha256": "c37f31bf753989519a10c8fa54c486a7f53577d2c8a26b26616933621e2b2f4f"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/10_ml_input_quality_summary.xlsx",
+    "repository_path": "results/tables/10_ml_input_quality_summary.xlsx",
+    "bytes": 5160,
+    "sha256": "b860d98b4be2bf73a24da5650a085bebf5045eadd2476455473eaa86f05cb0c0"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/12_training_screening_class_distribution.xlsx",
+    "repository_path": "results/tables/12_training_screening_class_distribution.xlsx",
+    "bytes": 5051,
+    "sha256": "4e6faf992ea0aa5e28a1813120ef12dc356c6f19fad0239ae040412bb2081f7f"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/11_train_test_split_assignment.xlsx",
+    "repository_path": "results/tables/11_train_test_split_assignment.xlsx",
+    "bytes": 11470,
+    "sha256": "2803975ab2024caebfd0f8d7e7c3e30a81ffdccad3eecce82d6fcc68396828b7"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/23_logistic_regression_set_b_significant_predictors.xlsx",
+    "repository_path": "results/tables/23_logistic_regression_set_b_significant_predictors.xlsx",
+    "bytes": 5233,
+    "sha256": "b44dfc0708862dedcada804cd6e1cf94ecdd62dd5d182b2070ec103bf0057517"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/09_excluded_ml_columns_summary.xlsx",
+    "repository_path": "results/tables/09_excluded_ml_columns_summary.xlsx",
+    "bytes": 5159,
+    "sha256": "48dd0351c6fbfa454f03aecf413daae6600cf8bc50593fa6ee6b29779f7aa115"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/16_combined_training_only_screening_summary.csv",
+    "repository_path": "results/tables/16_combined_training_only_screening_summary.csv",
+    "bytes": 35623,
+    "sha256": "d8e7a24631d3c2b1fede8236a7a08d516bf87c089338284759731abbb25a46b5"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/20_set_b_vif_summary.csv",
+    "repository_path": "results/tables/20_set_b_vif_summary.csv",
+    "bytes": 1008,
+    "sha256": "da82826c626aea43c1a6bf01bbb392d2fb69763d88cbea5ab1ce1a8eb82bd4f1"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/09_final_ml_predictors_summary.xlsx",
+    "repository_path": "results/tables/09_final_ml_predictors_summary.xlsx",
+    "bytes": 6308,
+    "sha256": "a520b1b19449f2f148211bed348a9055b5643296f6553387e4b0a9be5f997ac9"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/05a_practical_distribution_diagnostics_summary.xlsx",
+    "repository_path": "results/tables/05a_practical_distribution_diagnostics_summary.xlsx",
+    "bytes": 13901,
+    "sha256": "81c17b7d4a570a032bd02bfd2498dc7149ac96be492846510532c5aac0cea532"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/08_pca_country_coordinates.xlsx",
+    "repository_path": "results/tables/08_pca_country_coordinates.xlsx",
+    "bytes": 15086,
+    "sha256": "09cc8944a2bf9cedd974a7c92aee453b67c9cce1a41f58af1f033c8f7a20ee2d"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/14_mann_whitney_u_test_training_only_results.csv",
+    "repository_path": "results/tables/14_mann_whitney_u_test_training_only_results.csv",
+    "bytes": 14452,
+    "sha256": "b990e369d81a42ea2fc35b8dab4c7aea8984fda2948d050dc313115eeebe3f17"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/11_train_test_split_shape_summary.xlsx",
+    "repository_path": "results/tables/11_train_test_split_shape_summary.xlsx",
+    "bytes": 5081,
+    "sha256": "19fabc2f260fb2a6bd0455079d1624f908815ef9b7d40800863117fd20fb350f"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/36_logistic_regression_set_b_vs_set_a_train_test_gap_comparison.csv",
+    "repository_path": "results/tables/36_logistic_regression_set_b_vs_set_a_train_test_gap_comparison.csv",
+    "bytes": 1319,
+    "sha256": "592a4506f11c6ed835b83c047c8a8ae11635adb9d643a57f4f7d238905a430f0"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/36_logistic_regression_set_b_vs_set_a_test_metrics_comparison.csv",
+    "repository_path": "results/tables/36_logistic_regression_set_b_vs_set_a_test_metrics_comparison.csv",
+    "bytes": 878,
+    "sha256": "ee15995b9970172ab4db3374539562ad7f0465f094d935b315247649641b39ec"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/05a_class_specific_distribution_diagnostics_summary.xlsx",
+    "repository_path": "results/tables/05a_class_specific_distribution_diagnostics_summary.xlsx",
+    "bytes": 10652,
+    "sha256": "eff15251f3cf7311c08c0a12f75e256e346e6eea87b3fb6156ca915637aaa87e"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/18_final_input_predictors_after_spearman_pruning.csv",
+    "repository_path": "results/tables/18_final_input_predictors_after_spearman_pruning.csv",
+    "bytes": 5882,
+    "sha256": "da63af00087adb6373b331bbdbd8196496576b48dec46ff5328e116956d57e53"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/08_pca_feature_loadings.xlsx",
+    "repository_path": "results/tables/08_pca_feature_loadings.xlsx",
+    "bytes": 6903,
+    "sha256": "6904a11e64ea0d908bd0723e69ca46536e055dade0e8e4e79d728096370c74c1"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/12_training_screening_predictor_summary.xlsx",
+    "repository_path": "results/tables/12_training_screening_predictor_summary.xlsx",
+    "bytes": 6304,
+    "sha256": "ecf3b14e5e810d479bfcd895ed4f8810512bf67d5efd0377c10c409c89c76e8f"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/13_welch_t_test_training_only_results.csv",
+    "repository_path": "results/tables/13_welch_t_test_training_only_results.csv",
+    "bytes": 25306,
+    "sha256": "7a927324317881df94978a28859db9cbdef96b7b412daab27618240b7d6f4ba7"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/14_mann_whitney_u_test_training_only_fdr_significant_effect_size_plot_data.csv",
+    "repository_path": "results/tables/14_mann_whitney_u_test_training_only_fdr_significant_effect_size_plot_data.csv",
+    "bytes": 11966,
+    "sha256": "1198909887b8fd003b7c1a7eb888d22eb333e4e9b37dae55886e59d87823af44"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/20_vif_diagnostics_set_b_summary.xlsx",
+    "repository_path": "results/tables/20_vif_diagnostics_set_b_summary.xlsx",
+    "bytes": 5407,
+    "sha256": "4164ac9f5e836b9fb8dfe7090d59a51b6f119d3fbd713fd0e226b5372a0960b5"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/05a_class_specific_distribution_diagnostics.xlsx",
+    "repository_path": "results/tables/05a_class_specific_distribution_diagnostics.xlsx",
+    "bytes": 17845,
+    "sha256": "bf2040c7264a536eb01ee92756b58524407db045092edf4aa3fa6b4630da00c2"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/20_set_b_vif_summary.xlsx",
+    "repository_path": "results/tables/20_set_b_vif_summary.xlsx",
+    "bytes": 5605,
+    "sha256": "89a0d5e4cac5e07a69c7aa3f4aaa18c3fb1f8556561f663fc9e4b1b6930f8716"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/17_candidate_predictors_not_in_high_correlation_groups.csv",
+    "repository_path": "results/tables/17_candidate_predictors_not_in_high_correlation_groups.csv",
+    "bytes": 2140,
+    "sha256": "6433343f70c2ac74d6dcc6df88f91d8a6ee8ae385034290bec9f038ed1452a88"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/15_standardized_mean_difference_training_only_results.csv",
+    "repository_path": "results/tables/15_standardized_mean_difference_training_only_results.csv",
+    "bytes": 15606,
+    "sha256": "63dafe3288860e435a1a5032b24f6c6bc72e9fd8c5b9bd8970d043117494ee11"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/17_multicollinearity_diagnostic_summary.xlsx",
+    "repository_path": "results/tables/17_multicollinearity_diagnostic_summary.xlsx",
+    "bytes": 5115,
+    "sha256": "c222cb92e652d5dd06115f290b633e2151154f89becf3da36f425bc0680cd045"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/05a_improved_distribution_plot_summary.xlsx",
+    "repository_path": "results/tables/05a_improved_distribution_plot_summary.xlsx",
+    "bytes": 5191,
+    "sha256": "338c2d12aa3e0bb7449fc9835b1e8aa51512bd8bbb132e98e1368e7779e86071"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/17_spearman_candidate_predictor_correlation_matrix.csv",
+    "repository_path": "results/tables/17_spearman_candidate_predictor_correlation_matrix.csv",
+    "bytes": 16183,
+    "sha256": "4ead43f72750d634ba3f51cc03dec3b839cb68c65601262e62d101d44cc58c1f"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/05a_practical_distribution_diagnostics_by_class.xlsx",
+    "repository_path": "results/tables/05a_practical_distribution_diagnostics_by_class.xlsx",
+    "bytes": 16933,
+    "sha256": "23e6838502e627a0c934a5d31f94e93b55e46ef87e14c26bbe637f1dc44795fe"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/12_training_screening_input_summary.csv",
+    "repository_path": "results/tables/12_training_screening_input_summary.csv",
+    "bytes": 383,
+    "sha256": "4bfbdbf3084b18fd197cbd9dc4a5ced7e7a46218058777ecfb7529b7258175b7"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/17_spearman_candidate_highly_correlated_pairs.csv",
+    "repository_path": "results/tables/17_spearman_candidate_highly_correlated_pairs.csv",
+    "bytes": 12185,
+    "sha256": "d8fd7317e9ca4d91fd7e6ab4c6dd97f3354bd8a2382e43639714082ed74c7406"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/05a_class_specific_distribution_diagnostics_summary.csv",
+    "repository_path": "results/tables/05a_class_specific_distribution_diagnostics_summary.csv",
+    "bytes": 21665,
+    "sha256": "2262f2306ebba96846567e987176f5b10d2856849547200d5bb8f2f8b788872f"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/20_vif_diagnostics_set_b_summary.csv",
+    "repository_path": "results/tables/20_vif_diagnostics_set_b_summary.csv",
+    "bytes": 591,
+    "sha256": "592ee049cce5d958108a262602ffdbb962a1cdd80c5255a4f8f68418e13b41cf"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/17_highly_correlated_candidate_predictor_pairs.xlsx",
+    "repository_path": "results/tables/17_highly_correlated_candidate_predictor_pairs.xlsx",
+    "bytes": 8454,
+    "sha256": "9138f28f57b3e390d56d3580879b3c56a20262c4b0e02297d66d63d5644ba51f"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/11_train_test_split_target_distribution.csv",
+    "repository_path": "results/tables/11_train_test_split_target_distribution.csv",
+    "bytes": 304,
+    "sha256": "af4bc160674819da805624a38b84a353fa4ca5cc124380be6a5eaa0b7366eb24"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/40_final_test_predictions.csv",
+    "repository_path": "results/tables/40_final_test_predictions.csv",
+    "bytes": 1636,
+    "sha256": "0efad7425bd33223ada6965d10601b13fc3971bddbef9ca6aaf8e985c7d2fad7"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/20_vif_diagnostics_set_b_final_predictors.xlsx",
+    "repository_path": "results/tables/20_vif_diagnostics_set_b_final_predictors.xlsx",
+    "bytes": 6169,
+    "sha256": "bf051fb8f89ee323f03fcf7b1e1ab3ac405464c52e20776670cd6745feb829f5"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/05a_practical_distribution_diagnostics_summary.csv",
+    "repository_path": "results/tables/05a_practical_distribution_diagnostics_summary.csv",
+    "bytes": 20579,
+    "sha256": "0c983936e502ed42e546d4d92b3b6808d63c378dfa0edebc8c7b156302e2c11d"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/01_top_70_countries_by_tb_incidence.csv",
+    "repository_path": "results/tables/01_top_70_countries_by_tb_incidence.csv",
+    "bytes": 2252,
+    "sha256": "35cb8b7b2ae4af08389b8fe0087b7a4d682984562ac26ec806da888f42d3bc82"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/16_combined_training_only_screening_counts.csv",
+    "repository_path": "results/tables/16_combined_training_only_screening_counts.csv",
+    "bytes": 586,
+    "sha256": "b642fb8df747884e1a0fdaa5d8c724b17779bb9ab7d39852e73063c3c3b77d7f"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/10_ml_target_distribution_before_split.csv",
+    "repository_path": "results/tables/10_ml_target_distribution_before_split.csv",
+    "bytes": 116,
+    "sha256": "f5ae697028b41e8f65a94ae415f9b1396fd513b7a3f3b694c0921eb226ac0a5f"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/01_tb_incidence_descriptive_summary.xlsx",
+    "repository_path": "results/tables/01_tb_incidence_descriptive_summary.xlsx",
+    "bytes": 5575,
+    "sha256": "abf01b79ec2b76c9f594ccedeab8aad92708e97414725f00ed3d54cfd1fb14ab"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/16_candidate_predictors_before_collinearity.csv",
+    "repository_path": "results/tables/16_candidate_predictors_before_collinearity.csv",
+    "bytes": 10054,
+    "sha256": "2d250f11884a176daab0d9882d533017c96a19d804b6521bbeb40f200ff44017"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/01_top_50_countries_by_tb_incidence.xlsx",
+    "repository_path": "results/tables/01_top_50_countries_by_tb_incidence.xlsx",
+    "bytes": 6645,
+    "sha256": "533c9cead2771ef1e12a1479588c56b2577571e068939a97e46e1b4781a93809"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/14_mann_whitney_u_test_training_only_significant_predictors.csv",
+    "repository_path": "results/tables/14_mann_whitney_u_test_training_only_significant_predictors.csv",
+    "bytes": 10163,
+    "sha256": "b78e5bae7333ad79f810b750941a22a3ca5c5a810e3550e59f67e1fd23854f13"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/07_top_predictor_distributions_by_class_summary.xlsx",
+    "repository_path": "results/tables/07_top_predictor_distributions_by_class_summary.xlsx",
+    "bytes": 6136,
+    "sha256": "6e1fe9e8fd3df1f5aa8b8f5c257ebb2c8c5ec148c7f6a9d9641a0a041eda6a30"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/01_tb_incidence_potential_outliers.csv",
+    "repository_path": "results/tables/01_tb_incidence_potential_outliers.csv",
+    "bytes": 267,
+    "sha256": "fd2b1f4de2ecfcc7e121def5d4aba741335a149d8ed28dc61ce07256d83591e0"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/13_welch_t_test_training_only_fdr_significant_effect_size_plot_data_improved.csv",
+    "repository_path": "results/tables/13_welch_t_test_training_only_fdr_significant_effect_size_plot_data_improved.csv",
+    "bytes": 10110,
+    "sha256": "6e7e13d49d518231291ad2f5a79e429a2defbad587423184f31cd2dbb229727e"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/46_final_test_precision_recall_curve_points.xlsx",
+    "repository_path": "results/tables/46_final_test_precision_recall_curve_points.xlsx",
+    "bytes": 6005,
+    "sha256": "121073f3972ee38dd5c1a576ba5920fd8c51516ee9098bc338951bbce61be670"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/17_spearman_candidate_multicollinearity_summary.csv",
+    "repository_path": "results/tables/17_spearman_candidate_multicollinearity_summary.csv",
+    "bytes": 273,
+    "sha256": "5af93c74df5f71b7bdf5df8e638b89dce0ee2cd3f73213464c28df123fc30a59"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/45_final_test_roc_curve_points.xlsx",
+    "repository_path": "results/tables/45_final_test_roc_curve_points.xlsx",
+    "bytes": 5345,
+    "sha256": "c0a0dd24d73ce5bcad00e77cb7543fa96aa740459dc687d7cde216c5817667ba"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/13_welch_t_test_training_only_absolute_hedges_g_ranking.csv",
+    "repository_path": "results/tables/13_welch_t_test_training_only_absolute_hedges_g_ranking.csv",
+    "bytes": 25461,
+    "sha256": "47525132798184ea04d41f175dba7fee6a50e8ef398a10db3a5e89dd9b193224"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/15_standardized_mean_difference_training_only_summary.csv",
+    "repository_path": "results/tables/15_standardized_mean_difference_training_only_summary.csv",
+    "bytes": 239,
+    "sha256": "627356e8bcc70f6936c686ba14edd2e401c73a889ddc8cbc2b0b7785064678b7"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/14_mann_whitney_u_test_top_predictors_distribution_plot_data.xlsx",
+    "repository_path": "results/tables/14_mann_whitney_u_test_top_predictors_distribution_plot_data.xlsx",
+    "bytes": 12332,
+    "sha256": "39d4debc8bb329cbf4bad7cd5d227b03105227772b8360a3dd928fcc70091251"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/13_welch_t_test_training_only_medium_or_large_hedges_g_predictors.csv",
+    "repository_path": "results/tables/13_welch_t_test_training_only_medium_or_large_hedges_g_predictors.csv",
+    "bytes": 12408,
+    "sha256": "329c1e6528f0ad044896e894c69919a10aa8bff22f834c5aab3b73eb2b6305cf"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/12_training_screening_predictor_summary.csv",
+    "repository_path": "results/tables/12_training_screening_predictor_summary.csv",
+    "bytes": 2908,
+    "sha256": "1d7fed54a4621e8f6e7db746eecf79cddc0207c6e65661c217eca087e7fc86c9"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/43_final_test_confusion_matrix_interpretation.csv",
+    "repository_path": "results/tables/43_final_test_confusion_matrix_interpretation.csv",
+    "bytes": 959,
+    "sha256": "0df14b6e4b0a499fbadc9708989a102e762567c657516f099c3f5fb5bc17ec9e"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/17_multicollinearity_diagnostic_summary.csv",
+    "repository_path": "results/tables/17_multicollinearity_diagnostic_summary.csv",
+    "bytes": 280,
+    "sha256": "6fc29c52ae2a34a574915b893b747280e86219ec72722334c8c63e4b8d8201c8"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/05a_practical_distribution_diagnostics_by_class.csv",
+    "repository_path": "results/tables/05a_practical_distribution_diagnostics_by_class.csv",
+    "bytes": 22244,
+    "sha256": "86ba74bbd3bd3ee402e8504c18740232cebd57edd7079659398785302a91b623"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/17_correlation_cluster_membership.csv",
+    "repository_path": "results/tables/17_correlation_cluster_membership.csv",
+    "bytes": 3506,
+    "sha256": "f8e141850a48e493b31cf398420ef49fb2a134eacc2d41cc6d0e2057b7836a22"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/41_final_test_confusion_matrix_counts.xlsx",
+    "repository_path": "results/tables/41_final_test_confusion_matrix_counts.xlsx",
+    "bytes": 5007,
+    "sha256": "3426e2504b86fa228e082295cd607265d3a6f3778390cc2ee96c8f5b340c4210"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/09_predictor_role_summary.csv",
+    "repository_path": "results/tables/09_predictor_role_summary.csv",
+    "bytes": 165,
+    "sha256": "f0f7858fa4ac8ca96d3030372b483b6ac8f5aaf6946128d816783d597211df00"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/14_mann_whitney_u_test_top_predictors_distribution_plot_data_large_panels.csv",
+    "repository_path": "results/tables/14_mann_whitney_u_test_top_predictors_distribution_plot_data_large_panels.csv",
+    "bytes": 8792,
+    "sha256": "2aab641431f090c324be836c22f2b3a5a108ba1dfc07dc7ebb45718aa07eb801"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/42_final_test_confusion_matrix_normalized.xlsx",
+    "repository_path": "results/tables/42_final_test_confusion_matrix_normalized.xlsx",
+    "bytes": 5015,
+    "sha256": "c55af1ca501aa22b1f3f6574991e6542935b6a5c71e4876c6a010c5bc0014a1f"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/11_train_test_split_shape_summary.csv",
+    "repository_path": "results/tables/11_train_test_split_shape_summary.csv",
+    "bytes": 154,
+    "sha256": "c40a9571675e678aaf5a974b32d6b194fad7066a758d8d8143c705f299251227"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/01_top_50_countries_by_tb_incidence.csv",
+    "repository_path": "results/tables/01_top_50_countries_by_tb_incidence.csv",
+    "bytes": 1613,
+    "sha256": "045388889327244a2fe7569d09fd7edebc472d8cfc90ce8bed0530a561ba045c"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/13_welch_t_test_training_only_effect_size_magnitude_summary.csv",
+    "repository_path": "results/tables/13_welch_t_test_training_only_effect_size_magnitude_summary.csv",
+    "bytes": 100,
+    "sha256": "8fad587b0137a271e0898d9f4c4df0558fd53643c536633ffb9a3305f2cf207e"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/15_standardized_mean_difference_training_only_medium_or_large_effect_predictors.csv",
+    "repository_path": "results/tables/15_standardized_mean_difference_training_only_medium_or_large_effect_predictors.csv",
+    "bytes": 7421,
+    "sha256": "7c191a2db62b68dbc632aabd6cea4dac5da4a88ad822e6a4862ead9a32a7dc4d"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/39_final_test_evaluation_summary.csv",
+    "repository_path": "results/tables/39_final_test_evaluation_summary.csv",
+    "bytes": 861,
+    "sha256": "9118cd97b88fa04d7dd5f25dfe13f2851dfb8b587725126de31b08fbdcf81d7c"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/40_final_test_predictions.xlsx",
+    "repository_path": "results/tables/40_final_test_predictions.xlsx",
+    "bytes": 6380,
+    "sha256": "f7f2f9e82a965aeb2b48b03ad996d58c1c5dd03cb09be077a0a2230454947986"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/35_knn_hyperparameter_candidates.xlsx",
+    "repository_path": "results/tables/35_knn_hyperparameter_candidates.xlsx",
+    "bytes": 18566,
+    "sha256": "de1d32d1ea37f3d3b52af4f64d04d52e4af95c23849af3316978f2df7a5fdf0b"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/43_final_test_confusion_matrix_interpretation.xlsx",
+    "repository_path": "results/tables/43_final_test_confusion_matrix_interpretation.xlsx",
+    "bytes": 5397,
+    "sha256": "3789c6a6b4534a2813a10b9ea27e95c615582c2f13484c123fff2cf8a19cbde6"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/36_model_cv_comparison_all_models.xlsx",
+    "repository_path": "results/tables/36_model_cv_comparison_all_models.xlsx",
+    "bytes": 8494,
+    "sha256": "2a746d58e307617cfe8b91646a97a730480f30b0269d524187956654c5c4f480"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/01_top_65_countries_by_tb_incidence.xlsx",
+    "repository_path": "results/tables/01_top_65_countries_by_tb_incidence.xlsx",
+    "bytes": 7156,
+    "sha256": "c6f3083d73d12031ae27f97101439f004011698f64fad60d766548c1ae07bdff"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/33_knn_grid_search_cv_results.xlsx",
+    "repository_path": "results/tables/33_knn_grid_search_cv_results.xlsx",
+    "bytes": 6770,
+    "sha256": "d7f63de70943ff6d7e74eafe96b88143d58cc586c6021af3e85cae342096490b"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/15_standardized_mean_difference_training_only_summary.xlsx",
+    "repository_path": "results/tables/15_standardized_mean_difference_training_only_summary.xlsx",
+    "bytes": 5105,
+    "sha256": "feb62bcd6663a60dc5fe07df7e47e75a58399523f74f06345ac11d609cf28812"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/37_model_cv_comparison_best_per_model.xlsx",
+    "repository_path": "results/tables/37_model_cv_comparison_best_per_model.xlsx",
+    "bytes": 7304,
+    "sha256": "1e06c586d91d246a59aa3a259b3c8ee8e0f67d9d1399eb5f39672bac922ff852"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/01_top_20_countries_by_tb_incidence.xlsx",
+    "repository_path": "results/tables/01_top_20_countries_by_tb_incidence.xlsx",
+    "bytes": 5730,
+    "sha256": "aee5aa3469371cb3b215162b9fb0e4478cb0b68c3323686aef81dea3b7fb10c7"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/39_final_test_evaluation_summary.xlsx",
+    "repository_path": "results/tables/39_final_test_evaluation_summary.xlsx",
+    "bytes": 5514,
+    "sha256": "bed418238a07cc391afcdf8a61d9d878a929aac1dd71d9901c2006b357331199"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/38_final_model_selection_summary.xlsx",
+    "repository_path": "results/tables/38_final_model_selection_summary.xlsx",
+    "bytes": 5531,
+    "sha256": "632117cfb7ccf7799b07ad45d22f3e9913ad26da20e1e831f1edce70bc5ea302"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/09_excluded_ml_columns_summary.csv",
+    "repository_path": "results/tables/09_excluded_ml_columns_summary.csv",
+    "bytes": 329,
+    "sha256": "092b4bc8262d4975b0d66b6ea1706a47bcfed96af0beca32ee9c09a905ae77a7"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/49_final_test_classification_report.csv",
+    "repository_path": "results/tables/49_final_test_classification_report.csv",
+    "bytes": 866,
+    "sha256": "2c798442ff649870db29eee41e08bd5ad947e19e8494dcb8897355296de219f7"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/17_candidate_predictors_spearman_correlation_matrix.csv",
+    "repository_path": "results/tables/17_candidate_predictors_spearman_correlation_matrix.csv",
+    "bytes": 16183,
+    "sha256": "4ead43f72750d634ba3f51cc03dec3b839cb68c65601262e62d101d44cc58c1f"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/08_pca_feature_loadings.csv",
+    "repository_path": "results/tables/08_pca_feature_loadings.csv",
+    "bytes": 3978,
+    "sha256": "c3919415e8daa1bcedde350acc8bfd79d0c4fcddc51847c622036499018fbb68"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/32_support_vector_machine_hyperparameter_candidates.csv",
+    "repository_path": "results/tables/32_support_vector_machine_hyperparameter_candidates.csv",
+    "bytes": 50521,
+    "sha256": "115b5f39b98268b6f5318493a53b67ff4d0ddbbde1f81fc704c956711ee56dde"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/12_class_specific_distribution_diagnostics_summary.xlsx",
+    "repository_path": "results/tables/12_class_specific_distribution_diagnostics_summary.xlsx",
+    "bytes": 13724,
+    "sha256": "73cca8ea418063deb2aa9659d5e3170c2b8ad5747dbd38bc312f13fc5c9be199"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/34_knn_best_model_summary.xlsx",
+    "repository_path": "results/tables/34_knn_best_model_summary.xlsx",
+    "bytes": 5891,
+    "sha256": "9f2e766605d9337fa9770cc9f8bed6d522c5cc85e0aa141f175fb0328e7b3f71"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/07_top_predictor_distributions_by_class_summary.csv",
+    "repository_path": "results/tables/07_top_predictor_distributions_by_class_summary.csv",
+    "bytes": 2016,
+    "sha256": "8f42ca01c9c2e14f3c8b68b910bc91c7b992cc32c332ac6347cf7358fbfcfb97"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/36_model_cv_comparison_all_models.csv",
+    "repository_path": "results/tables/36_model_cv_comparison_all_models.csv",
+    "bytes": 6432,
+    "sha256": "4a4140f17e38607e195a41cd51e28b544af3a5200122824f3b4417877d2ae158"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/28_gradient_boosting_best_model_summary.csv",
+    "repository_path": "results/tables/28_gradient_boosting_best_model_summary.csv",
+    "bytes": 1556,
+    "sha256": "65c4b60629f1fe7fb564140b1a2f3c5ec068a9d8e2f774791b0501ac0e7560a2"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/29_gradient_boosting_hyperparameter_candidates.csv",
+    "repository_path": "results/tables/29_gradient_boosting_hyperparameter_candidates.csv",
+    "bytes": 755415,
+    "sha256": "e3ffc8a15e1e8a4a62a0a85c1f304d01cc6d77d3a5d1b6e86b1eab3059820c7c"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/45_final_test_roc_curve_points.csv",
+    "repository_path": "results/tables/45_final_test_roc_curve_points.csv",
+    "bytes": 724,
+    "sha256": "dbd2b8370e5fad2aef7d0148f6c545b8edb5485961aa4eca24a7c5a61a28ee92"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/46_final_test_precision_recall_curve_points.csv",
+    "repository_path": "results/tables/46_final_test_precision_recall_curve_points.csv",
+    "bytes": 1793,
+    "sha256": "1c6d0643ca524568cc15d8c30b7dc8103773c5de4591e9acf873075304885b94"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/47_final_test_curve_summary.csv",
+    "repository_path": "results/tables/47_final_test_curve_summary.csv",
+    "bytes": 845,
+    "sha256": "51250c3106988d018b4f73e5e341885747755a57971d826121c20444d613e5c2"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/08_pca_country_coordinates.csv",
+    "repository_path": "results/tables/08_pca_country_coordinates.csv",
+    "bytes": 15966,
+    "sha256": "7da4b216327ed72147deb9d17e796da7b611fc8bc6759ef206bf989f2552727a"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/09_final_ml_predictors_summary.csv",
+    "repository_path": "results/tables/09_final_ml_predictors_summary.csv",
+    "bytes": 2912,
+    "sha256": "50885bf9e6037b8bf04d9be11df6074a9356f539cc4ea65f3e2abec9b00451ee"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/30_support_vector_machine_grid_search_cv_results.csv",
+    "repository_path": "results/tables/30_support_vector_machine_grid_search_cv_results.csv",
+    "bytes": 3576,
+    "sha256": "8172b5b03f9dfc7654927fd998fac84127964cc318c907f9ea77a6b62b3a5307"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/10_ml_input_quality_summary.csv",
+    "repository_path": "results/tables/10_ml_input_quality_summary.csv",
+    "bytes": 280,
+    "sha256": "2e43940c4e8431d5cc02c0b65752806de71289a91afb336dc6e9153a2ee10757"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/01_top_15_countries_by_tb_incidence.xlsx",
+    "repository_path": "results/tables/01_top_15_countries_by_tb_incidence.xlsx",
+    "bytes": 5549,
+    "sha256": "2fc9d73adcc9dab6acf73a7266e733883fc5a7f51ed7f5184cb66150b0af4f1f"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/31_support_vector_machine_best_model_summary.csv",
+    "repository_path": "results/tables/31_support_vector_machine_best_model_summary.csv",
+    "bytes": 1445,
+    "sha256": "25d9ec1ddc1f2ea1443b45927a8f4f6626d869cd42e7718e0f19ed745799c247"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/08_pca_explained_variance.csv",
+    "repository_path": "results/tables/08_pca_explained_variance.csv",
+    "bytes": 168,
+    "sha256": "3b503c1619418b35b6158ff6bfc3775d5a59a52249757ea135b899d187f430fa"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/31_support_vector_machine_best_model_summary.xlsx",
+    "repository_path": "results/tables/31_support_vector_machine_best_model_summary.xlsx",
+    "bytes": 5870,
+    "sha256": "e0370e915e2cf7b9a3aa311bda9826329ee2abb05acac3fd57ce3301f8ef071a"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/18_modeling_plan_and_preprocessing_requirements.xlsx",
+    "repository_path": "results/tables/18_modeling_plan_and_preprocessing_requirements.xlsx",
+    "bytes": 5775,
+    "sha256": "2127bb1ad307dfb1b598bd08e7fdadbf558a77a77d48ce1c1f67d303ac3018bd"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/12_selected_predictors_correlation_matrix.xlsx",
+    "repository_path": "results/tables/12_selected_predictors_correlation_matrix.xlsx",
+    "bytes": 13136,
+    "sha256": "cb62ee2149e52848e6b8f8b377c57227ceef3b0ad88f2209154f0e2e2fac575c"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/30_support_vector_machine_grid_search_cv_results.xlsx",
+    "repository_path": "results/tables/30_support_vector_machine_grid_search_cv_results.xlsx",
+    "bytes": 6746,
+    "sha256": "121aecb92be5ea346d441254de519fd8640fcf6b85c4fcf9bfe4e5dbda87ff6c"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/23_logistic_regression_hyperparameter_candidates.xlsx",
+    "repository_path": "results/tables/23_logistic_regression_hyperparameter_candidates.xlsx",
+    "bytes": 31662,
+    "sha256": "8852ad59f9fd79a5540a4e64b08ece86a0f6387d08948cef34e970345b13337e"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/42_final_test_confusion_matrix_normalized.csv",
+    "repository_path": "results/tables/42_final_test_confusion_matrix_normalized.csv",
+    "bytes": 167,
+    "sha256": "c442e670b39c38b090e772191bc2992da5f4d86b1faa55ab25209aca6e78425b"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/29_gradient_boosting_hyperparameter_candidates.xlsx",
+    "repository_path": "results/tables/29_gradient_boosting_hyperparameter_candidates.xlsx",
+    "bytes": 396539,
+    "sha256": "826366ded72609474242f9edc7e2007e8761c6d366cd7e42e39aa184cb76260c"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/33_knn_grid_search_cv_results.csv",
+    "repository_path": "results/tables/33_knn_grid_search_cv_results.csv",
+    "bytes": 3541,
+    "sha256": "dd528b2a080958337d942848153b90b7b0ef3303ed4a0091ec58d24ade6c268f"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/24_random_forest_grid_search_cv_results.csv",
+    "repository_path": "results/tables/24_random_forest_grid_search_cv_results.csv",
+    "bytes": 3632,
+    "sha256": "7f9f20709fab6c8cff3dedc6ad140c3492b37c196f75692f891a47a9901f9e01"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/21_logistic_regression_grid_search_cv_results.csv",
+    "repository_path": "results/tables/21_logistic_regression_grid_search_cv_results.csv",
+    "bytes": 3647,
+    "sha256": "e10f3357d25ec6a9edfd73bf400e2a404e4c6587cd4b2200e67700319e421ce6"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/10_ml_target_distribution_before_split.xlsx",
+    "repository_path": "results/tables/10_ml_target_distribution_before_split.xlsx",
+    "bytes": 5051,
+    "sha256": "024ee189a21ada7c66d9fab361104268314adb5b1d468e7149be2bfb6ac3e853"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/47_final_test_curve_summary.xlsx",
+    "repository_path": "results/tables/47_final_test_curve_summary.xlsx",
+    "bytes": 5432,
+    "sha256": "8f53ddcadf8e9023363cddd244060d52950315ab2b29acb37fedc95ea1ff2004"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/15_standardized_mean_difference_training_only_effect_size_plot_data.csv",
+    "repository_path": "results/tables/15_standardized_mean_difference_training_only_effect_size_plot_data.csv",
+    "bytes": 8399,
+    "sha256": "6f246dc95eb5285e78079a88907fa5c8f6edc9ce43cd0d5715e89dde9a77c880"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/26_random_forest_hyperparameter_candidates.xlsx",
+    "repository_path": "results/tables/26_random_forest_hyperparameter_candidates.xlsx",
+    "bytes": 198229,
+    "sha256": "0211992ce2faae76b455e36765f8cba8aa5ff46e0b6020eb8d58c92f5a3f4793"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/08_pca_explained_variance.xlsx",
+    "repository_path": "results/tables/08_pca_explained_variance.xlsx",
+    "bytes": 5058,
+    "sha256": "d72854f8491a3d00fcbc5604dcb2c2592b8230d814aa1ea004562a678f5e5e07"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/37_model_cv_comparison_best_per_model.csv",
+    "repository_path": "results/tables/37_model_cv_comparison_best_per_model.csv",
+    "bytes": 3754,
+    "sha256": "bf61d654273aec8ef6126e186c80d4864b77cec67b0832c015e434f33f25f552"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/22_logistic_regression_best_model_summary.xlsx",
+    "repository_path": "results/tables/22_logistic_regression_best_model_summary.xlsx",
+    "bytes": 5932,
+    "sha256": "87c47fc2d9089dc8f7a19a6168f8d30ad02034b5c4f58fb541eeb2dcffd19c85"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/34_knn_best_model_summary.csv",
+    "repository_path": "results/tables/34_knn_best_model_summary.csv",
+    "bytes": 1436,
+    "sha256": "8bddc97b999b8cdb730c31d51f5fad331cd0e3c2e41656030d9ba48660d7fab2"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/32_support_vector_machine_hyperparameter_candidates.xlsx",
+    "repository_path": "results/tables/32_support_vector_machine_hyperparameter_candidates.xlsx",
+    "bytes": 31171,
+    "sha256": "9c03169e774ff12f911bb566f187058076be91363cd9355417132d7ada60aa3e"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/23_logistic_regression_hyperparameter_candidates.csv",
+    "repository_path": "results/tables/23_logistic_regression_hyperparameter_candidates.csv",
+    "bytes": 48983,
+    "sha256": "a3757aec17309eb2b189d3a62eca23157e7e83faf59e67f0849d363b6e0d4677"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/27_gradient_boosting_grid_search_cv_results.xlsx",
+    "repository_path": "results/tables/27_gradient_boosting_grid_search_cv_results.xlsx",
+    "bytes": 6967,
+    "sha256": "8f3838d3124a83c7521a63dba7e5c7a17883abcd8791aebec21bd4f38138b415"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/25_random_forest_best_model_summary.csv",
+    "repository_path": "results/tables/25_random_forest_best_model_summary.csv",
+    "bytes": 1575,
+    "sha256": "79f6fc9910c7f1ea23a5cd28bc45c79f4453f047adad5c326f7db2946dd602d9"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/19_dummy_classifier_baseline_cv_results.csv",
+    "repository_path": "results/tables/19_dummy_classifier_baseline_cv_results.csv",
+    "bytes": 2114,
+    "sha256": "3255b88cfa4748ded2d91357bf5066bf0edd8600aeea73d1c417d46b8608cf5c"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/18_modeling_plan_and_preprocessing_requirements.csv",
+    "repository_path": "results/tables/18_modeling_plan_and_preprocessing_requirements.csv",
+    "bytes": 1490,
+    "sha256": "de76ea6e3245befaa2d6ca18cb1690d4e9f94548a8789a3c97dea49a67513346"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/15_predictor_set_a_all_valid_predictors.csv",
+    "repository_path": "results/tables/15_predictor_set_a_all_valid_predictors.csv",
+    "bytes": 3621,
+    "sha256": "ab4e27cc987aedd908157c391c48a83f23a1b35aa09ab402842b5b8bc6cff250"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/10_final_statistical_feature_screening_table.csv",
+    "repository_path": "results/tables/10_final_statistical_feature_screening_table.csv",
+    "bytes": 15739,
+    "sha256": "970504e2d3e14a0b2a2faa9f4f2bf287b1d9494c93ab95b6f3a2e7fcda5d810e"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/28_gradient_boosting_best_model_summary.xlsx",
+    "repository_path": "results/tables/28_gradient_boosting_best_model_summary.xlsx",
+    "bytes": 5969,
+    "sha256": "986b302024e376043d42e81025573771c2f92fe43705cf0fd61cceb774e9902f"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/36_logistic_regression_set_b_vs_set_a_train_test_gap_comparison.xlsx",
+    "repository_path": "results/tables/36_logistic_regression_set_b_vs_set_a_train_test_gap_comparison.xlsx",
+    "bytes": 5829,
+    "sha256": "03f727bb871542ca14bca27db285f53eac7e920a8fc0544625fe82326988f94d"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/22_logistic_regression_best_model_summary.csv",
+    "repository_path": "results/tables/22_logistic_regression_best_model_summary.csv",
+    "bytes": 1521,
+    "sha256": "0af8d019f68b3b4219ee430ccc6f0793eeccbe5fb5c6e8c2c0e1f0fe0b3b80e9"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/15_standardized_mean_difference_training_only_large_effect_predictors.csv",
+    "repository_path": "results/tables/15_standardized_mean_difference_training_only_large_effect_predictors.csv",
+    "bytes": 5424,
+    "sha256": "80f7a30d0109c71569ca72cb8ed4f3ce08a66dcbd6e7857ad7d1ca50a026e682"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/15_standardized_mean_difference_training_only_large_effect_predictors.xlsx",
+    "repository_path": "results/tables/15_standardized_mean_difference_training_only_large_effect_predictors.xlsx",
+    "bytes": 8492,
+    "sha256": "8f898d7a99518b8541ef53654fe438721d7792e4fc6d4bb2fb47d19fc3d37c04"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/17_highly_correlated_candidate_predictor_pairs.csv",
+    "repository_path": "results/tables/17_highly_correlated_candidate_predictor_pairs.csv",
+    "bytes": 14048,
+    "sha256": "8ab1c90c133fc9a3c808dd1031751bd8e0ede83d2306facdcd249be65e21620e"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/27_gradient_boosting_grid_search_cv_results.csv",
+    "repository_path": "results/tables/27_gradient_boosting_grid_search_cv_results.csv",
+    "bytes": 3542,
+    "sha256": "831ef60bf193de5d31aa3de38b9412f08f2bedfaf6dc0150f0368df237c3e11b"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/36_logistic_regression_set_b_vs_set_a_test_metrics_comparison.xlsx",
+    "repository_path": "results/tables/36_logistic_regression_set_b_vs_set_a_test_metrics_comparison.xlsx",
+    "bytes": 5569,
+    "sha256": "6005ba7e638e71a047860217a2f61b0e2ac89e5dfa03202ac06af24e7a5d3ed5"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/16_predictor_set_b_statistically_selected_predictors.csv",
+    "repository_path": "results/tables/16_predictor_set_b_statistically_selected_predictors.csv",
+    "bytes": 2474,
+    "sha256": "2efc5b01803fc426f4389a28243780c57d3b7315685026e7145a70e6d8322ce0"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/17_candidate_predictors_spearman_correlation_matrix.xlsx",
+    "repository_path": "results/tables/17_candidate_predictors_spearman_correlation_matrix.xlsx",
+    "bytes": 12324,
+    "sha256": "294632ffa672541dd5e45fc14897239d2e40d06311ecf07ce5a80c91ff4b4170"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/14_predictor_sets_summary.csv",
+    "repository_path": "results/tables/14_predictor_sets_summary.csv",
+    "bytes": 492,
+    "sha256": "e676ddb7623e511cf0de8e5f9665d230e5020808d5310d85727e58d14cfa8d67"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/13_welch_t_test_training_only_fdr_significant_effect_size_plot_data.csv",
+    "repository_path": "results/tables/13_welch_t_test_training_only_fdr_significant_effect_size_plot_data.csv",
+    "bytes": 8835,
+    "sha256": "5947a3f24aef4b3337e32768e4b1a976e59089249ec82964ecb0697825b75d4b"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/20_dummy_classifier_baseline_cv_summary.csv",
+    "repository_path": "results/tables/20_dummy_classifier_baseline_cv_summary.csv",
+    "bytes": 388,
+    "sha256": "58af914b26ac9260fd4e3e073acb49574aff87985d74bd3113e06888b4f1987f"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/25_random_forest_best_model_summary.xlsx",
+    "repository_path": "results/tables/25_random_forest_best_model_summary.xlsx",
+    "bytes": 5982,
+    "sha256": "f1c6fce61856c13b1b7680fcfb43d4f08f71c0d6c6e615914fa8e1cc686461da"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/08_hdi_gni_by_tb_burden_class_summary.csv",
+    "repository_path": "results/tables/08_hdi_gni_by_tb_burden_class_summary.csv",
+    "bytes": 381,
+    "sha256": "38e593dc4d0bafe59d33f531d03e0ed7fd3e4c5dadfcb05a26afa363e5c3b14c"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/41_final_test_confusion_matrix_counts.csv",
+    "repository_path": "results/tables/41_final_test_confusion_matrix_counts.csv",
+    "bytes": 128,
+    "sha256": "ec28eb70aaabc71723148571ebf3a22909191a4acb6b170a2b17c6887a2eb8f6"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/21_logistic_regression_grid_search_cv_results.xlsx",
+    "repository_path": "results/tables/21_logistic_regression_grid_search_cv_results.xlsx",
+    "bytes": 6885,
+    "sha256": "bd8a9af5f18f0a966684092ff6e34069a67e72b631968f8f0ed52c62aecbbf4d"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/10_effect_size_results.csv",
+    "repository_path": "results/tables/10_effect_size_results.csv",
+    "bytes": 8625,
+    "sha256": "491b340a785750cff04f4f6368bf8edfb0032bf4ed5913ed38ddb10e1d1893ab"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/10_final_statistical_feature_screening_table.xlsx",
+    "repository_path": "results/tables/10_final_statistical_feature_screening_table.xlsx",
+    "bytes": 12822,
+    "sha256": "fac007832fc2498438437589cf95492042337c626b25235e7e5e68cc7c9b1439"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/08_hdi_gni_by_tb_burden_class_summary.xlsx",
+    "repository_path": "results/tables/08_hdi_gni_by_tb_burden_class_summary.xlsx",
+    "bytes": 5245,
+    "sha256": "8018c0de4078959dce6932aeaaa1a82f38a0bb4ce7479209ade8278fd8e0e18c"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/11_statistically_selected_predictors.xlsx",
+    "repository_path": "results/tables/11_statistically_selected_predictors.xlsx",
+    "bytes": 10047,
+    "sha256": "0ba4f707274dec931cc42c523ccb5f533e9566eea7bed5bfc1bd93143b619679"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/02_target_validation_summary.csv",
+    "repository_path": "results/tables/02_target_validation_summary.csv",
+    "bytes": 663,
+    "sha256": "387589f4aa521fd3a573ba6c15d987394a0342b70c892c85c050fb811aef53ef"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/01_top_70_countries_by_tb_incidence.xlsx",
+    "repository_path": "results/tables/01_top_70_countries_by_tb_incidence.xlsx",
+    "bytes": 7308,
+    "sha256": "3bad09a3fca0f14a34adeb713b32d425de2b0af851820e26ca1a462ef5b0c4c7"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/02_target_group_counts.csv",
+    "repository_path": "results/tables/02_target_group_counts.csv",
+    "bytes": 232,
+    "sha256": "a2d076ec354962bd0d3fadf72e2c139f4c6210b423a4150198da00b0f15853ad"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/13_highly_correlated_selected_predictor_pairs.xlsx",
+    "repository_path": "results/tables/13_highly_correlated_selected_predictor_pairs.xlsx",
+    "bytes": 6065,
+    "sha256": "d278819fca98cc332bc5b5a8e86e587f0c3616c6af6c462f6db40315533b602e"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/12_selected_predictors_correlation_matrix.csv",
+    "repository_path": "results/tables/12_selected_predictors_correlation_matrix.csv",
+    "bytes": 17519,
+    "sha256": "180b0a1ebdbb1889f43a6c38002101aea24a657d610d60f86c9bbe91af4dce7d"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/15_standardized_mean_difference_training_only_medium_or_large_effect_predictors.xlsx",
+    "repository_path": "results/tables/15_standardized_mean_difference_training_only_medium_or_large_effect_predictors.xlsx",
+    "bytes": 9616,
+    "sha256": "d496ce6dcb108b460bceb1a34cd5e8e79c5b5854cb3b54a75d3b5bd93c1f6f52"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/14_average_precision_summary.csv",
+    "repository_path": "results/tables/14_average_precision_summary.csv",
+    "bytes": 208,
+    "sha256": "745d43406d07791dcc28456c4e703b44bbb7b59c970be3546cf33e486b17aa71"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/20_dummy_classifier_baseline_cv_summary.xlsx",
+    "repository_path": "results/tables/20_dummy_classifier_baseline_cv_summary.xlsx",
+    "bytes": 5205,
+    "sha256": "6000084c221d90fab4af58f7075e149dae9d494b960767a55d3206e630d06159"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/10_day2_statistical_analysis_summary.txt",
+    "repository_path": "results/tables/10_day2_statistical_analysis_summary.txt",
+    "bytes": 779,
+    "sha256": "e34463883a2615443c0c81fd702012adcfeebce7e82b525b3bcb546c6595d82e"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/06_top_predictors_correlation_matrix.xlsx",
+    "repository_path": "results/tables/06_top_predictors_correlation_matrix.xlsx",
+    "bytes": 6923,
+    "sha256": "7679d95d0afdcab938976da88a31736daf74608434615ef1ccd24ed77a57a642"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/12_logistic_classification_report.csv",
+    "repository_path": "results/tables/12_logistic_classification_report.csv",
+    "bytes": 396,
+    "sha256": "5a2dc355c442940175d7cd74f83b6fab6a5b7df9c33ca5c33f4f967275ae9290"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/08_mannwhitney_results.csv",
+    "repository_path": "results/tables/08_mannwhitney_results.csv",
+    "bytes": 12185,
+    "sha256": "5e438193e2828cd2d6dbbfb235884c8d6762cade706349941adfdb57b26895e2"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/11_ml_predictor_list_main.csv",
+    "repository_path": "results/tables/11_ml_predictor_list_main.csv",
+    "bytes": 2266,
+    "sha256": "56c99ba41753f51cec9086e8d42ab5e86b34203365510589f28b227bb0be0fe5"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/11_train_test_class_distribution.csv",
+    "repository_path": "results/tables/11_train_test_class_distribution.csv",
+    "bytes": 204,
+    "sha256": "3d517900be55c4106a31c666c32f4ebb54ef9e6031fb0aa08f2409080de3a344"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/07_welch_ttest_results.csv",
+    "repository_path": "results/tables/07_welch_ttest_results.csv",
+    "bytes": 14540,
+    "sha256": "456ab9c0a409d3e525ef5bdad792991bb21a7e85afeb5e32cb5e09760e1c8919"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/09_standardized_feature_differences_by_tb_burden_class.xlsx",
+    "repository_path": "results/tables/09_standardized_feature_differences_by_tb_burden_class.xlsx",
+    "bytes": 7082,
+    "sha256": "fefc988df0d6c80f8a47d2352d447c370295829a9d41e558e3651d49793f09df"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/12_baseline_confusion_matrix.csv",
+    "repository_path": "results/tables/12_baseline_confusion_matrix.csv",
+    "bytes": 72,
+    "sha256": "615f005796033ec82376b44cf8d35c744d853ad851995a8f52e0667877ae7a42"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/12_logistic_confusion_matrix.csv",
+    "repository_path": "results/tables/12_logistic_confusion_matrix.csv",
+    "bytes": 72,
+    "sha256": "3666049d1edd8e4c39b4aa338e6d7f439fd70cdce76f1100155263ef9d5ce050"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/15_logistic_coefficients_odds_ratios.csv",
+    "repository_path": "results/tables/15_logistic_coefficients_odds_ratios.csv",
+    "bytes": 6872,
+    "sha256": "699aa095838babc53c2137dbd2ade0a2c9d7a5a3ab09431db63c1ca00f38cbb6"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/12_baseline_logistic_metrics.csv",
+    "repository_path": "results/tables/12_baseline_logistic_metrics.csv",
+    "bytes": 278,
+    "sha256": "2ea63973ac5c96f93dfb27a8481254377170f01babc59a502a02e88ec23d1069"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/02_target_validation_summary.xlsx",
+    "repository_path": "results/tables/02_target_validation_summary.xlsx",
+    "bytes": 5408,
+    "sha256": "9209f263ae2930a60318eef076a31d546c341eedcf0c7b6fcf115e4f2691bad8"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/14_predictor_sets_summary.xlsx",
+    "repository_path": "results/tables/14_predictor_sets_summary.xlsx",
+    "bytes": 5224,
+    "sha256": "039a9f7d9942c54a5f9cfa2d1405dd6572e1934946cfb88aa1a7e53f276416c1"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/11_train_test_country_assignment.csv",
+    "repository_path": "results/tables/11_train_test_country_assignment.csv",
+    "bytes": 6714,
+    "sha256": "4296d2010084db90cc4d962481c5dc6f05adc5b5d5b5bb16346a4e905d4c71a2"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/07_08_combined_statistical_results_raw.csv",
+    "repository_path": "results/tables/07_08_combined_statistical_results_raw.csv",
+    "bytes": 9572,
+    "sha256": "b38f657fe6a1b5fd202a59905aa17b87a74dde25c7562235476a1c2e2da0b111"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/06_top_predictors_correlation_matrix.csv",
+    "repository_path": "results/tables/06_top_predictors_correlation_matrix.csv",
+    "bytes": 3957,
+    "sha256": "b02e1252c9cc1b5cbb9f857bc3e24f8f7f70c70f73b731b4bf49dc90b4378c9a"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/09_fdr_corrected_statistical_results.csv",
+    "repository_path": "results/tables/09_fdr_corrected_statistical_results.csv",
+    "bytes": 13792,
+    "sha256": "a26079c192c462e61e542b3776da904ac9eac64b10207ccee19244bdb914eeb0"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/24_random_forest_grid_search_cv_results.xlsx",
+    "repository_path": "results/tables/24_random_forest_grid_search_cv_results.xlsx",
+    "bytes": 6997,
+    "sha256": "ad54e147a21e40c63ce7404e7aaa3b27086c749ea8d310165dd6abb9d17475a3"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/06_statistical_predictor_list.csv",
+    "repository_path": "results/tables/06_statistical_predictor_list.csv",
+    "bytes": 2266,
+    "sha256": "56c99ba41753f51cec9086e8d42ab5e86b34203365510589f28b227bb0be0fe5"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/14_roc_auc_summary.csv",
+    "repository_path": "results/tables/14_roc_auc_summary.csv",
+    "bytes": 205,
+    "sha256": "6656b5cf633716ae2236e9db51f4b39b9c74de14fd950205f8d0520123c0461c"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/09_statistical_interpretation_shortlist.csv",
+    "repository_path": "results/tables/09_statistical_interpretation_shortlist.csv",
+    "bytes": 6650,
+    "sha256": "b01a85f8f09f09b17c4ec92a96abb005c6c656058419e2bd193d390aed8f16f4"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/13_test_model_comparison.csv",
+    "repository_path": "results/tables/13_test_model_comparison.csv",
+    "bytes": 698,
+    "sha256": "ca2d82e95451f6aac6837ca108d6ad2266e5c07aa382da9ad8de2d1edbaa3eaf"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/05_correlation_matrix_selected_predictors.csv",
+    "repository_path": "results/tables/05_correlation_matrix_selected_predictors.csv",
+    "bytes": 4147,
+    "sha256": "b5c806f033db696f050c6951acb87c683fc6194335ae86a99c2e7e6dc517acd3"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/12_baseline_classification_report.csv",
+    "repository_path": "results/tables/12_baseline_classification_report.csv",
+    "bytes": 348,
+    "sha256": "405c8c106f260c1a395f71e39d91e201d8c7eb3be24e7c04d406678e9f99685c"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/10_final_statistical_table_fdr_effect_size.csv",
+    "repository_path": "results/tables/10_final_statistical_table_fdr_effect_size.csv",
+    "bytes": 21765,
+    "sha256": "064d6c771198e77359724387c187be432d9224ffbea15dc2ebc2b521862cf596"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/01_tb_incidence_descriptive_summary.csv",
+    "repository_path": "results/tables/01_tb_incidence_descriptive_summary.csv",
+    "bytes": 1019,
+    "sha256": "d239c952cbfb8c0b462c2df91d6810f4899c90ce05cb5d09ae8e162ae4a0de12"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/17_predictors_not_in_high_correlation_clusters.csv",
+    "repository_path": "results/tables/17_predictors_not_in_high_correlation_clusters.csv",
+    "bytes": 524,
+    "sha256": "a767665e4eb359f689c495708d5c5b38d35d1b056a5758ff8747146d6bb0e0c4"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/15_standardized_mean_difference_training_only_effect_size_plot_data.xlsx",
+    "repository_path": "results/tables/15_standardized_mean_difference_training_only_effect_size_plot_data.xlsx",
+    "bytes": 9791,
+    "sha256": "340d0ca3b7aa399deff6c493c84a6bfd3bbc1066a2ac61260bdd9307d1b89309"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/10_top_effect_size_predictors.csv",
+    "repository_path": "results/tables/10_top_effect_size_predictors.csv",
+    "bytes": 7331,
+    "sha256": "43a8a7a36507f3dc2b66d22c387848d8f71208af4979ec03220ca67ac8cb127b"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/06_predictor_group_counts.csv",
+    "repository_path": "results/tables/06_predictor_group_counts.csv",
+    "bytes": 3490,
+    "sha256": "0e7325962c2b0307e33ae9093a070eb7e98c602834bf5c20f7df83ab20db3d78"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/05_bcg_missingness_by_burden_group.csv",
+    "repository_path": "results/tables/05_bcg_missingness_by_burden_group.csv",
+    "bytes": 197,
+    "sha256": "7d8b4576d87407f5f91b512710aa17a8d729003972201dbc613c4b2d32baae11"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/08_mannwhitney_results_raw.csv",
+    "repository_path": "results/tables/08_mannwhitney_results_raw.csv",
+    "bytes": 5073,
+    "sha256": "aa9ca22c63001ca6d7b7a5c0310e9a52427679c63ced3cb851745b622b54f167"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/10_statistical_interpretation_priorities.csv",
+    "repository_path": "results/tables/10_statistical_interpretation_priorities.csv",
+    "bytes": 16274,
+    "sha256": "8b5f99bb190bf9ef828fe86f1a8b97a87ad52ccc2f45d58188f8862bbf2e3b1d"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/05_groupwise_descriptive_statistics.csv",
+    "repository_path": "results/tables/05_groupwise_descriptive_statistics.csv",
+    "bytes": 12478,
+    "sha256": "f30b08e109eb1f7c50e9ae7bc9714e149380d26c3cdf72bc51b76780e2e77213"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/02_target_group_counts.xlsx",
+    "repository_path": "results/tables/02_target_group_counts.xlsx",
+    "bytes": 5104,
+    "sha256": "387779778e6f4f525450db27f1766ceb448165d45d45929c5a2624abe59b7dc4"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/06_predictor_quality_check.csv",
+    "repository_path": "results/tables/06_predictor_quality_check.csv",
+    "bytes": 3671,
+    "sha256": "8f525b1d99468ad91b924f341d587519e000a594e837cde9623ca9dd90900c69"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/03_high_tb_burden_countries.csv",
+    "repository_path": "results/tables/03_high_tb_burden_countries.csv",
+    "bytes": 1728,
+    "sha256": "d3a77b7a90373f8d4fac3b48d82d576fce0241d7c940c0900ed905a98c6af567"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/13_best_model_by_test_metric.csv",
+    "repository_path": "results/tables/13_best_model_by_test_metric.csv",
+    "bytes": 345,
+    "sha256": "cae3b20b15a1ab12e7b43e8ab6a72faf47f813634e66478ebc4377013b845874"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/17_correlation_cluster_summary.xlsx",
+    "repository_path": "results/tables/17_correlation_cluster_summary.xlsx",
+    "bytes": 5430,
+    "sha256": "55ea25d31b98d5d4d947975bc884d5d17c791b3649e5dc68c4308206f5fb45e4"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/14_mann_whitney_u_test_top_predictors_distribution_plot_data.csv",
+    "repository_path": "results/tables/14_mann_whitney_u_test_top_predictors_distribution_plot_data.csv",
+    "bytes": 8792,
+    "sha256": "2aab641431f090c324be836c22f2b3a5a108ba1dfc07dc7ebb45718aa07eb801"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/13_confusion_matrices/SVM_rbf_balanced_confusion_matrix.csv",
+    "repository_path": "results/tables/13_confusion_matrices/SVM_rbf_balanced_confusion_matrix.csv",
+    "bytes": 72,
+    "sha256": "9e1e6e0c9f1176a5dbb4cb090eea7b90090d6f95f38615765d9b5b0a96a00991"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/14_model_comparison_test_and_cv.csv",
+    "repository_path": "results/tables/14_model_comparison_test_and_cv.csv",
+    "bytes": 2073,
+    "sha256": "b0a3a839f81ccd287a8e6eab98bbc19a726e8dd89cc160f79ddc18173800a6e7"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/02_tb_incidence_descriptive_statistics.csv",
+    "repository_path": "results/tables/02_tb_incidence_descriptive_statistics.csv",
+    "bytes": 270,
+    "sha256": "eaca1b360d10f05956945ec05d422bf8dbe516997676ee9bf3c6a46adb3c7cc6"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/13_confusion_matrices/KNN_k5_confusion_matrix.csv",
+    "repository_path": "results/tables/13_confusion_matrices/KNN_k5_confusion_matrix.csv",
+    "bytes": 72,
+    "sha256": "c492285df9624b51a1aefbae9ce4375d36c528fb181c7e26fe17061a1af0851a"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/17_predictors_not_in_high_correlation_clusters.xlsx",
+    "repository_path": "results/tables/17_predictors_not_in_high_correlation_clusters.xlsx",
+    "bytes": 5149,
+    "sha256": "cb05a89684a5de4811612723f60bb2400df6836c0a56ec88d242b1c545a15d39"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/14_cross_validation_results.csv",
+    "repository_path": "results/tables/14_cross_validation_results.csv",
+    "bytes": 1442,
+    "sha256": "08a859c4105bf115e3917a93cca0e2b8283d4852642b85cefc9f46fdb9226099"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/13_confusion_matrices/GradientBoosting_confusion_matrix.csv",
+    "repository_path": "results/tables/13_confusion_matrices/GradientBoosting_confusion_matrix.csv",
+    "bytes": 72,
+    "sha256": "8d978b1f7469afdb9d871d4460f44093af38f5f5e99001821e8842743d3d9941"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/01_column_roles.csv",
+    "repository_path": "results/tables/01_column_roles.csv",
+    "bytes": 4286,
+    "sha256": "1688350b79ca1c1814a9fe406dd2755e8d732c6c6f78c004ab21db6267181b00"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/14_mann_whitney_u_test_training_only_fdr_significant_effect_size_plot_data.xlsx",
+    "repository_path": "results/tables/14_mann_whitney_u_test_training_only_fdr_significant_effect_size_plot_data.xlsx",
+    "bytes": 11318,
+    "sha256": "5f71c8078dedb9ad07d87ab5d3bb691f6fbd5c349ce2b0e397b8fd516290c76c"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/02_top_60_countries_by_tb_incidence.csv",
+    "repository_path": "results/tables/02_top_60_countries_by_tb_incidence.csv",
+    "bytes": 3540,
+    "sha256": "53e1870db9a8eb5118a3096c4c54bf78ff639245a5f4c4d613836280be872a78"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/13_confusion_matrices/LogisticRegression_balanced_confusion_matrix.csv",
+    "repository_path": "results/tables/13_confusion_matrices/LogisticRegression_balanced_confusion_matrix.csv",
+    "bytes": 72,
+    "sha256": "3666049d1edd8e4c39b4aa338e6d7f439fd70cdce76f1100155263ef9d5ce050"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/13_highly_correlated_selected_predictor_pairs.csv",
+    "repository_path": "results/tables/13_highly_correlated_selected_predictor_pairs.csv",
+    "bytes": 2900,
+    "sha256": "667620c51f6f0fc1123b5834d39a45605d1456ba6000a13611e0a91823a70fb0"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/01_top_15_countries_by_tb_incidence.csv",
+    "repository_path": "results/tables/01_top_15_countries_by_tb_incidence.csv",
+    "bytes": 553,
+    "sha256": "ae86282a526a1942a24bbe3e42135f4f3da47bc9605f18ba157d7835d0f0aee2"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/07_welch_ttest_results_raw.csv",
+    "repository_path": "results/tables/07_welch_ttest_results_raw.csv",
+    "bytes": 7125,
+    "sha256": "b0bae3e5965d5d12cb9b3ea96d5e61835469ac0ddc7387fa0c86d5126479e7b7"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/01_top_65_countries_by_tb_incidence.csv",
+    "repository_path": "results/tables/01_top_65_countries_by_tb_incidence.csv",
+    "bytes": 2099,
+    "sha256": "f36127aa5f1025f5fb42c3782c76276ff23f46d30ac21c0dd79af202525b7228"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/03_target_group_counts.csv",
+    "repository_path": "results/tables/03_target_group_counts.csv",
+    "bytes": 119,
+    "sha256": "8ef9f08d65227fed16199b825d152c6bc15bb09acf387dbf9d8bf6180bb3f67b"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/13_confusion_matrices/RandomForest_balanced_confusion_matrix.csv",
+    "repository_path": "results/tables/13_confusion_matrices/RandomForest_balanced_confusion_matrix.csv",
+    "bytes": 72,
+    "sha256": "3ae00f80fcbf0e92db68abe6fd76ba834abb84c90c0051594eb10d45b8e833c1"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/02_top_60_countries_by_tb_incidence.xlsx",
+    "repository_path": "results/tables/02_top_60_countries_by_tb_incidence.xlsx",
+    "bytes": 7592,
+    "sha256": "c8a5ab34368bb24a72fda9424a1190696bf1fe93a2d38538892d36d581ada940"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/17_correlation_cluster_summary.csv",
+    "repository_path": "results/tables/17_correlation_cluster_summary.csv",
+    "bytes": 1167,
+    "sha256": "3f996755cccf6ebc72a5bd9fc0b02cc2d33704a3b531b51d5d364c0ef2b98563"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/17_correlation_cluster_membership.xlsx",
+    "repository_path": "results/tables/17_correlation_cluster_membership.xlsx",
+    "bytes": 6759,
+    "sha256": "08406d3967888f657f2347e35e256026652bfdfe4bb3d908585955578707c229"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/38_final_model_selection_summary.csv",
+    "repository_path": "results/tables/38_final_model_selection_summary.csv",
+    "bytes": 933,
+    "sha256": "197e1340ff359b31637600c0bd724d9dcece8459a2873c3f01623a81f7f931c9"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/35_knn_hyperparameter_candidates.csv",
+    "repository_path": "results/tables/35_knn_hyperparameter_candidates.csv",
+    "bytes": 25100,
+    "sha256": "4861fa804571e96de2b049c994c0b1f0007e2319f4e83822212fa77089b4eed2"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/02_top15_tb_incidence_countries.csv",
+    "repository_path": "results/tables/02_top15_tb_incidence_countries.csv",
+    "bytes": 325,
+    "sha256": "f86976c618436847dfef452d73c7ae2b8b952dcd416c1d52590ede01eb868999"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/09_test_agreement_summary.csv",
+    "repository_path": "results/tables/09_test_agreement_summary.csv",
+    "bytes": 221,
+    "sha256": "456a36bcd5fa98b178c5248b34e1761de0833a56fcbc440c2c3314f8c36ff7b9"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/13_welch_t_test_training_only_fdr_significant_effect_size_plot_data_improved.xlsx",
+    "repository_path": "results/tables/13_welch_t_test_training_only_fdr_significant_effect_size_plot_data_improved.xlsx",
+    "bytes": 11182,
+    "sha256": "4889e5f2509df9944e95441bb60a848d15e364fcbdbfa4605421507b5e5f55c6"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/01_top_20_countries_by_tb_incidence.csv",
+    "repository_path": "results/tables/01_top_20_countries_by_tb_incidence.csv",
+    "bytes": 746,
+    "sha256": "79f5cb029c788fc3ff97cef6c1e2713be0a23ef80ce80a34df732eeeee743caf"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/49_final_test_classification_report.xlsx",
+    "repository_path": "results/tables/49_final_test_classification_report.xlsx",
+    "bytes": 5410,
+    "sha256": "c5567631ddd0d6e35a6643499320c9f8ff35b0c42101ddfbc9a09724a7545117"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/01_tb_incidence_potential_outliers.xlsx",
+    "repository_path": "results/tables/01_tb_incidence_potential_outliers.xlsx",
+    "bytes": 5243,
+    "sha256": "93fab61d5d8874f89aaa73d3e39e65c048c7718496ba3f3c358e2d0bf1c9dc20"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/26_random_forest_hyperparameter_candidates.csv",
+    "repository_path": "results/tables/26_random_forest_hyperparameter_candidates.csv",
+    "bytes": 381046,
+    "sha256": "e69414384567b79d1ac929778022cff3cd08a75148407cd3cb7906f2664c2068"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/13_welch_t_test_training_only_fdr_significant_effect_size_plot_data.xlsx",
+    "repository_path": "results/tables/13_welch_t_test_training_only_fdr_significant_effect_size_plot_data.xlsx",
+    "bytes": 10474,
+    "sha256": "f027d63dcdec65e1c612e699036cc0d4e00c2183ef40cbe1964b3033e3f9d481"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/09_standardized_feature_differences_by_tb_burden_class.csv",
+    "repository_path": "results/tables/09_standardized_feature_differences_by_tb_burden_class.csv",
+    "bytes": 3589,
+    "sha256": "d1d2133d4120fc68beea2662799baeb0eecfd56527fdc9e0a8cc88ef5b6b7431"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/19_dummy_classifier_baseline_cv_results.xlsx",
+    "repository_path": "results/tables/19_dummy_classifier_baseline_cv_results.xlsx",
+    "bytes": 5953,
+    "sha256": "12bbd66d44ea7e89c30068abb237e728091d91c3c69e45af8c5f2e12ac83237d"
+  },
+  {
+    "source": "original ZIP",
+    "source_path": "TB_Burden_Classification_Thesis/results/tables/11_statistically_selected_predictors.csv",
+    "repository_path": "results/tables/11_statistically_selected_predictors.csv",
+    "bytes": 9677,
+    "sha256": "745d8420e6f4f46410ad79cf3a65f13e997e637ff4a2304f107617636b21188f"
+  },
+  {
+    "source": "final thesis attachment",
+    "source_path": "Дипломска работа-Мила Јованоска 221034.docx",
+    "repository_path": "thesis/Дипломска работа-Мила Јованоска 221034.docx",
+    "bytes": 1832357,
+    "sha256": "184cc04a10130cce32db648299722649861b6b2e283bd0158baad42c2ec6140e"
+  }
+]
