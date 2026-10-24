@@ -1,0 +1,47 @@
+feature,PC1_loading,PC2_loading,absolute_PC1_loading,absolute_PC2_loading,maximum_absolute_loading
+Iron supply - Cereals and their products,0.0386,0.2781,0.0386,0.2781,0.2781
+"Total saturated fatty acids supply - Fish, shellfish and their products",-0.0699,-0.2752,0.0699,0.2752,0.2752
+"Vitamin B6 supply - Fish, shellfish and their products",-0.0727,-0.2749,0.0727,0.2749,0.2749
+"Total monounsaturated fatty acids supply - Fish, shellfish and their products",-0.0683,-0.272,0.0683,0.272,0.272
+"Selenium supply - Fish, shellfish and their products",-0.0941,-0.2693,0.0941,0.2693,0.2693
+Protein supply - Cereals and their products,0.0223,0.2678,0.0223,0.2678,0.2678
+"Protein supply - Fish, shellfish and their products",-0.0859,-0.2671,0.0859,0.2671,0.2671
+"Vitamin B12 supply - Fish, shellfish and their products",-0.0726,-0.2659,0.0726,0.2659,0.2659
+HDI Rank,0.2421,0.0032,0.2421,0.0032,0.2421
+Human Development Index (value),-0.2406,-0.0079,0.2406,0.0079,0.2406
+Calcium supply - Cereals and their products,0.0372,0.2315,0.0372,0.2315,0.2315
+Zinc supply - Cereals and their products,0.0771,0.2278,0.0771,0.2278,0.2278
+Mean Years of Schooling (years),-0.2253,-0.0307,0.2253,0.0307,0.2253
+Energy supply - Cereals and their products,0.0815,0.2174,0.0815,0.2174,0.2174
+Life Expectancy at Birth (years),-0.215,0.0068,0.215,0.0068,0.215
+Expected Years of Schooling (years),-0.2136,-0.0291,0.2136,0.0291,0.2136
+Energy supply - Meat and meat products,-0.2102,-0.0532,0.2102,0.0532,0.2102
+Zinc supply - Milk and milk products,-0.21,0.0963,0.21,0.0963,0.21
+Protein supply - Milk and milk products,-0.2091,0.1033,0.2091,0.1033,0.2091
+Protein supply - Meat and meat products,-0.2076,-0.0622,0.2076,0.0622,0.2076
+Gross National Income Per Capita (2017 PPP$),-0.2064,0.0011,0.2064,0.0011,0.2064
+Calcium supply - Milk and milk products,-0.2042,0.1149,0.2042,0.1149,0.2042
+Zinc supply - Meat and meat products,-0.2003,-0.0229,0.2003,0.0229,0.2003
+Vitamin A supply (retinol activity equivalents) - Fats and oils,-0.1993,0.0029,0.1993,0.0029,0.1993
+Vitamin A supply (retinol activity equivalents) - Milk and milk products,-0.1988,0.1175,0.1988,0.1175,0.1988
+Energy supply - Sweets and sugars,-0.1978,-0.0108,0.1978,0.0108,0.1978
+"Energy supply - Roots, tubers, plantains and their products",0.136,-0.1852,0.136,0.1852,0.1852
+Energy supply - Fats and oils,-0.1816,0.0449,0.1816,0.0449,0.1816
+"Iron supply - Roots, tubers, plantains and their products",0.1254,-0.179,0.1254,0.179,0.179
+"Zinc supply - Roots, tubers, plantains and their products",0.13,-0.1731,0.13,0.1731,0.1731
+Iron supply - Meat and meat products,-0.1688,-0.0081,0.1688,0.0081,0.1688
+"Vitamin A supply (retinol activity equivalents) - Roots, tubers, plantains and their products",0.1269,-0.1659,0.1269,0.1659,0.1659
+Vitamin C supply - Milk and milk products,-0.148,0.1631,0.148,0.1631,0.1631
+"Vitamin C supply - Roots, tubers, plantains and their products",0.1185,-0.1596,0.1185,0.1596,0.1596
+BCG_coverage_pct,-0.144,0.0158,0.144,0.0158,0.144
+Vitamin C supply - Beverages,-0.1221,-0.0935,0.1221,0.0935,0.1221
+"Protein supply - Pulses, seeds and nuts and their products",0.1189,0.0235,0.1189,0.0235,0.1189
+"Iron supply - Pulses, seeds and nuts and their products",0.1188,-0.0059,0.1188,0.0059,0.1188
+"Zinc supply - Pulses, seeds and nuts and their products",0.11,0.0113,0.11,0.0113,0.11
+"Calcium supply - Pulses, seeds and nuts and their products",0.099,0.016,0.099,0.016,0.099
+Vitamin C supply - Vegetables and their products,-0.0691,0.0911,0.0691,0.0911,0.0911
+Vitamin A supply (retinol activity equivalents) - Meat and meat products,-0.0908,0.0292,0.0908,0.0292,0.0908
+Vitamin A supply (retinol activity equivalents) - Vegetables and their products,-0.0692,0.0457,0.0692,0.0457,0.0692
+Iron supply - Vegetables and their products,-0.0385,0.0356,0.0385,0.0356,0.0385
+Vitamin C supply - Fruits and their products,0.0224,-0.0319,0.0224,0.0319,0.0319
+Calcium supply - Vegetables and their products,-0.022,0.0255,0.022,0.0255,0.0255

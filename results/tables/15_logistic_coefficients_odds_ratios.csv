@@ -1,0 +1,47 @@
+Predictor,logistic_coefficient,absolute_logistic_coefficient,odds_ratio_per_1sd_increase,ml_direction
+Life Expectancy at Birth (years),-1.7231015905680747,1.7231015905680747,0.1785116184422966,decreases_probability_of_high_tb_burden
+Iron supply - Cereals and their products,-0.913968210436478,0.913968210436478,0.4009300882319168,decreases_probability_of_high_tb_burden
+Zinc supply - Cereals and their products,0.8482226396183841,0.8482226396183841,2.33549214959979,increases_probability_of_high_tb_burden
+Energy supply - Sweets and sugars,-0.8403291079334639,0.8403291079334639,0.4315684674480167,decreases_probability_of_high_tb_burden
+HDI Rank,0.784264914214716,0.784264914214716,2.1907959257451766,increases_probability_of_high_tb_burden
+Vitamin A supply (retinol activity equivalents) - Milk and milk products,-0.6205002395947494,0.6205002395947494,0.537675403783507,decreases_probability_of_high_tb_burden
+"Total monounsaturated fatty acids supply - Fish, shellfish and their products",0.6175247334777001,0.6175247334777001,1.8543323895755441,increases_probability_of_high_tb_burden
+Calcium supply - Cereals and their products,-0.6171354335090371,0.6171354335090371,0.5394876244300078,decreases_probability_of_high_tb_burden
+Protein supply - Meat and meat products,-0.6023185785702957,0.6023185785702957,0.5475406472086287,decreases_probability_of_high_tb_burden
+Vitamin C supply - Milk and milk products,0.6007312309082086,0.6007312309082086,1.8234516772367653,increases_probability_of_high_tb_burden
+Iron supply - Meat and meat products,0.5936513376609271,0.5936513376609271,1.8105874265161395,increases_probability_of_high_tb_burden
+Vitamin C supply - Vegetables and their products,-0.5549310775102999,0.5549310775102999,0.5741118290494872,decreases_probability_of_high_tb_burden
+Calcium supply - Vegetables and their products,0.521346585025354,0.521346585025354,1.6842941686319415,increases_probability_of_high_tb_burden
+"Iron supply - Roots, tubers, plantains and their products",-0.4870521369203531,0.4870521369203531,0.6144349973610002,decreases_probability_of_high_tb_burden
+"Selenium supply - Fish, shellfish and their products",-0.4479487128293027,0.4479487128293027,0.6389374524857989,decreases_probability_of_high_tb_burden
+Expected Years of Schooling (years),0.4164544167682739,0.4164544167682739,1.5165748693630055,increases_probability_of_high_tb_burden
+"Protein supply - Fish, shellfish and their products",0.41396607597881485,0.41396607597881485,1.5128058055576898,increases_probability_of_high_tb_burden
+Protein supply - Cereals and their products,-0.39187838368982536,0.39187838368982536,0.6757862955989483,decreases_probability_of_high_tb_burden
+Energy supply - Meat and meat products,-0.3906159796847653,0.3906159796847653,0.6766399496398474,decreases_probability_of_high_tb_burden
+"Calcium supply - Pulses, seeds and nuts and their products",-0.36745270217310505,0.36745270217310505,0.6924960795937676,decreases_probability_of_high_tb_burden
+"Energy supply - Roots, tubers, plantains and their products",-0.3569065037156205,0.3569065037156205,0.6998379269217054,decreases_probability_of_high_tb_burden
+Vitamin A supply (retinol activity equivalents) - Vegetables and their products,-0.3423188478615465,0.3423188478615465,0.7101217478077203,decreases_probability_of_high_tb_burden
+Iron supply - Vegetables and their products,0.3270682563519009,0.3270682563519009,1.386896138420524,increases_probability_of_high_tb_burden
+BCG_coverage_pct,-0.3177636947801232,0.3177636947801232,0.7277747450678219,decreases_probability_of_high_tb_burden
+Calcium supply - Milk and milk products,0.2840658448391202,0.2840658448391202,1.3285204040852043,increases_probability_of_high_tb_burden
+Vitamin C supply - Beverages,0.26879362058309153,0.26879362058309153,1.3083850894290294,increases_probability_of_high_tb_burden
+Energy supply - Cereals and their products,0.26867864286075244,0.26867864286075244,1.3082346629395176,increases_probability_of_high_tb_burden
+Mean Years of Schooling (years),0.26262708949117824,0.26262708949117824,1.3003417174347727,increases_probability_of_high_tb_burden
+"Iron supply - Pulses, seeds and nuts and their products",0.23845288476082885,0.23845288476082885,1.2692839020129583,increases_probability_of_high_tb_burden
+"Protein supply - Pulses, seeds and nuts and their products",-0.2252103171787027,0.2252103171787027,0.7983482947403712,decreases_probability_of_high_tb_burden
+Vitamin C supply - Fruits and their products,-0.20967980214781298,0.20967980214781298,0.8108438348624484,decreases_probability_of_high_tb_burden
+Gross National Income Per Capita (2017 PPP$),-0.18768624984691357,0.18768624984691357,0.8288747260122575,decreases_probability_of_high_tb_burden
+Zinc supply - Meat and meat products,0.1779604883090652,0.1779604883090652,1.1947781125986396,increases_probability_of_high_tb_burden
+Zinc supply - Milk and milk products,-0.16974788835330828,0.16974788835330828,0.843877541136592,decreases_probability_of_high_tb_burden
+Vitamin A supply (retinol activity equivalents) - Fats and oils,0.1543229797967324,0.1543229797967324,1.1668677006162942,increases_probability_of_high_tb_burden
+Vitamin A supply (retinol activity equivalents) - Meat and meat products,0.14895581701241298,0.14895581701241298,1.16062170834169,increases_probability_of_high_tb_burden
+"Vitamin B6 supply - Fish, shellfish and their products",-0.1279353446843412,0.1279353446843412,0.8799102681816754,decreases_probability_of_high_tb_burden
+Energy supply - Fats and oils,0.1167552937632165,0.1167552937632165,1.1238443843092347,increases_probability_of_high_tb_burden
+"Vitamin B12 supply - Fish, shellfish and their products",-0.09023818550892398,0.09023818550892398,0.9137135260294105,decreases_probability_of_high_tb_burden
+Human Development Index (value),-0.07933499977439222,0.07933499977439222,0.9237304231231993,decreases_probability_of_high_tb_burden
+"Zinc supply - Pulses, seeds and nuts and their products",0.06286856744718795,0.06286856744718795,1.0648868692335205,increases_probability_of_high_tb_burden
+"Zinc supply - Roots, tubers, plantains and their products",0.05382375679132196,0.05382375679132196,1.0552985965536794,increases_probability_of_high_tb_burden
+"Vitamin A supply (retinol activity equivalents) - Roots, tubers, plantains and their products",-0.049726047443347715,0.049726047443347715,0.9514900519316644,decreases_probability_of_high_tb_burden
+"Vitamin C supply - Roots, tubers, plantains and their products",-0.0432084221518856,0.0432084221518856,0.9577117609180882,decreases_probability_of_high_tb_burden
+Protein supply - Milk and milk products,-0.04160615474702741,0.04160615474702741,0.9592475012606494,decreases_probability_of_high_tb_burden
+"Total saturated fatty acids supply - Fish, shellfish and their products",0.022918040730709334,0.022918040730709334,1.0231826768060581,increases_probability_of_high_tb_burden

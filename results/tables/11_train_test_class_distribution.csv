@@ -1,0 +1,4 @@
+Dataset part,Number of countries,Non-high TB burden,High TB burden,Non-high percentage,High percentage
+Full dataset,183,137,46,74.86,25.14
+Training set,146,109,37,74.66,25.34
+Test set,37,28,9,75.68,24.32

@@ -1,0 +1,6 @@
+column_group,number_of_columns
+Total dataset columns,51
+Numeric columns,48
+Candidate predictor columns,46
+Excluded from ML predictors,5
+Final valid ML predictors,46

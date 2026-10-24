@@ -1,0 +1,5 @@
+test_agreement_fdr,significance_pattern,Number of predictors
+agreement,not_significant_after_fdr,16
+agreement,significant_in_both_tests,22
+disagreement,significant_only_mannwhitney,5
+disagreement,significant_only_welch,3

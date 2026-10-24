@@ -1,0 +1,7 @@
+split,high_tb_burden,number_of_countries,percentage,target_label
+Full dataset,0,137,74.86,Non-high TB burden
+Full dataset,1,46,25.14,High TB burden
+Training set,0,109,74.66,Non-high TB burden
+Training set,1,37,25.34,High TB burden
+Test set,0,28,75.68,Non-high TB burden
+Test set,1,9,24.32,High TB burden

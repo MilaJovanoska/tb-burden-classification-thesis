@@ -1,0 +1,6 @@
+excluded_column,reason_for_exclusion
+Area,"Country identifier, not a predictive variable"
+TB_incidence_2022,Target-source column used to define high_tb_burden
+high_tb_burden,Binary target variable
+tb_burden_group,Text label version of the target variable
+BCG_was_missing,"Data-quality indicator, not used as a main ML predictor"

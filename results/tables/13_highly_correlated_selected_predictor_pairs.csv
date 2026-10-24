@@ -1,0 +1,23 @@
+feature_1,feature_2,pearson_correlation,absolute_pearson_correlation,correlation_direction
+Zinc supply - Milk and milk products,Protein supply - Milk and milk products,0.9955624623264135,0.9955624623264135,positive
+Protein supply - Milk and milk products,Calcium supply - Milk and milk products,0.9927483185921472,0.9927483185921472,positive
+Zinc supply - Milk and milk products,Calcium supply - Milk and milk products,0.9903330686937871,0.9903330686937871,positive
+HDI Rank,Human Development Index (value),-0.9902460959131969,0.9902460959131969,negative
+Energy supply - Meat and meat products,Protein supply - Meat and meat products,0.9851214285183335,0.9851214285183335,positive
+Vitamin A supply (retinol activity equivalents) - Milk and milk products,Calcium supply - Milk and milk products,0.9687053653886568,0.9687053653886568,positive
+"Energy supply - Roots, tubers, plantains and their products","Iron supply - Roots, tubers, plantains and their products",0.9642124920601264,0.9642124920601264,positive
+Protein supply - Milk and milk products,Vitamin A supply (retinol activity equivalents) - Milk and milk products,0.9638567461916571,0.9638567461916571,positive
+Protein supply - Meat and meat products,Zinc supply - Meat and meat products,0.9527224862486788,0.9527224862486788,positive
+Zinc supply - Milk and milk products,Vitamin A supply (retinol activity equivalents) - Milk and milk products,0.9519190659423099,0.9519190659423099,positive
+Energy supply - Meat and meat products,Zinc supply - Meat and meat products,0.9469486040332308,0.9469486040332308,positive
+"Energy supply - Roots, tubers, plantains and their products","Zinc supply - Roots, tubers, plantains and their products",0.9420990779870855,0.9420990779870855,positive
+Zinc supply - Meat and meat products,Iron supply - Meat and meat products,0.9384704667480913,0.9384704667480913,positive
+Life Expectancy at Birth (years),Human Development Index (value),0.9088499938986493,0.9088499938986493,positive
+Life Expectancy at Birth (years),HDI Rank,-0.9029493115067303,0.9029493115067303,negative
+Human Development Index (value),Mean Years of Schooling (years),0.8984984314322332,0.8984984314322332,positive
+Human Development Index (value),Expected Years of Schooling (years),0.8927511612716822,0.8927511612716822,positive
+"Iron supply - Roots, tubers, plantains and their products","Zinc supply - Roots, tubers, plantains and their products",0.8899302295923623,0.8899302295923623,positive
+HDI Rank,Mean Years of Schooling (years),-0.8871853555007514,0.8871853555007514,negative
+HDI Rank,Expected Years of Schooling (years),-0.8843378293138563,0.8843378293138563,negative
+HDI Rank,Gross National Income Per Capita (2017 PPP$),-0.8631243052152943,0.8631243052152943,negative
+Iron supply - Meat and meat products,Vitamin A supply (retinol activity equivalents) - Meat and meat products,0.8503832320437515,0.8503832320437515,positive

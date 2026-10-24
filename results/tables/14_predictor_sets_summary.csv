@@ -1,0 +1,3 @@
+predictor_set,number_of_training_countries,number_of_test_countries,number_of_predictors,selection_basis,multicollinearity_note
+Set A - All valid predictors,146,37,46,All valid predictors after leakage exclusion,No pruning applied; used as full valid predictor baseline.
+Set B - Statistically selected predictors,146,37,28,Selected by training-only statistical screening rule,No automatic pruning applied after multicollinearity review; correlations will be considered during interpretation.

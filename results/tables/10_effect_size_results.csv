@@ -1,0 +1,47 @@
+Predictor,hedges_g,absolute_hedges_g,hedges_g_effect_size_category,rank_biserial_correlation,absolute_rank_biserial_correlation,mean_direction,median_direction
+Calcium supply - Cereals and their products,-0.2505588576279604,0.2505588576279604,small,-0.10933037131069501,0.10933037131069501,lower_in_high_tb_burden,lower_in_high_tb_burden
+Calcium supply - Milk and milk products,-0.956897682935888,0.956897682935888,large,-0.5909235163440179,0.5909235163440179,lower_in_high_tb_burden,lower_in_high_tb_burden
+"Calcium supply - Pulses, seeds and nuts and their products",0.1434545177656201,0.1434545177656201,negligible,-0.005236432878451325,0.005236432878451325,higher_in_high_tb_burden,higher_in_high_tb_burden
+Calcium supply - Vegetables and their products,-0.07584093847304132,0.07584093847304132,negligible,-0.11139320850523649,0.11139320850523649,lower_in_high_tb_burden,lower_in_high_tb_burden
+Energy supply - Cereals and their products,0.18304246268075572,0.18304246268075572,negligible,0.11155188828943197,0.11155188828943197,higher_in_high_tb_burden,higher_in_high_tb_burden
+Energy supply - Fats and oils,-0.9285755429714612,0.9285755429714612,large,-0.535702951443986,0.535702951443986,lower_in_high_tb_burden,lower_in_high_tb_burden
+Energy supply - Meat and meat products,-0.925957215700962,0.925957215700962,large,-0.5556966042526182,0.5556966042526182,lower_in_high_tb_burden,lower_in_high_tb_burden
+"Energy supply - Roots, tubers, plantains and their products",0.5581635749771807,0.5581635749771807,medium,0.19755633132338946,0.19755633132338946,higher_in_high_tb_burden,higher_in_high_tb_burden
+Energy supply - Sweets and sugars,-1.0298867528697453,1.0298867528697453,large,-0.5533164074896858,0.5533164074896858,lower_in_high_tb_burden,lower_in_high_tb_burden
+Iron supply - Cereals and their products,-0.3416438308585175,0.3416438308585175,small,-0.17232624563630594,0.17232624563630594,lower_in_high_tb_burden,lower_in_high_tb_burden
+Iron supply - Meat and meat products,-0.45654884757601144,0.45654884757601144,small,-0.4500158679784195,0.4500158679784195,lower_in_high_tb_burden,lower_in_high_tb_burden
+"Iron supply - Pulses, seeds and nuts and their products",0.12164874443135805,0.12164874443135805,negligible,0.03966994604887342,0.03966994604887342,higher_in_high_tb_burden,no_median_difference
+"Iron supply - Roots, tubers, plantains and their products",0.4937862757644694,0.4937862757644694,small,0.19834973024436686,0.19834973024436686,higher_in_high_tb_burden,higher_in_high_tb_burden
+Iron supply - Vegetables and their products,-0.20666454419775718,0.20666454419775718,small,-0.23452872104093936,0.23452872104093936,lower_in_high_tb_burden,lower_in_high_tb_burden
+Protein supply - Cereals and their products,-0.26214200280947,0.26214200280947,small,-0.13582989527134248,0.13582989527134248,lower_in_high_tb_burden,lower_in_high_tb_burden
+"Protein supply - Fish, shellfish and their products",-0.15437741021211449,0.15437741021211449,negligible,-0.19501745477626153,0.19501745477626153,lower_in_high_tb_burden,lower_in_high_tb_burden
+Protein supply - Meat and meat products,-0.9198354006377706,0.9198354006377706,large,-0.5631545541098064,0.5631545541098064,lower_in_high_tb_burden,lower_in_high_tb_burden
+Protein supply - Milk and milk products,-1.0025955295190938,1.0025955295190938,large,-0.6213900349095525,0.6213900349095525,lower_in_high_tb_burden,lower_in_high_tb_burden
+"Protein supply - Pulses, seeds and nuts and their products",0.06926209490862856,0.06926209490862856,negligible,0.00587115201523325,0.00587115201523325,higher_in_high_tb_burden,lower_in_high_tb_burden
+"Selenium supply - Fish, shellfish and their products",-0.2476711504632968,0.2476711504632968,small,-0.23452872104093936,0.23452872104093936,lower_in_high_tb_burden,lower_in_high_tb_burden
+"Total monounsaturated fatty acids supply - Fish, shellfish and their products",-0.028717183356087108,0.028717183356087108,negligible,-0.13456045699777852,0.13456045699777852,lower_in_high_tb_burden,lower_in_high_tb_burden
+"Total saturated fatty acids supply - Fish, shellfish and their products",-0.07379750489931482,0.07379750489931482,negligible,-0.15518882894319264,0.15518882894319264,lower_in_high_tb_burden,lower_in_high_tb_burden
+Vitamin A supply (retinol activity equivalents) - Fats and oils,-0.8988420609937814,0.8988420609937814,large,-0.5983814662012059,0.5983814662012059,lower_in_high_tb_burden,lower_in_high_tb_burden
+Vitamin A supply (retinol activity equivalents) - Meat and meat products,-0.14364828820065934,0.14364828820065934,negligible,-0.33592510314185975,0.33592510314185975,lower_in_high_tb_burden,lower_in_high_tb_burden
+Vitamin A supply (retinol activity equivalents) - Milk and milk products,-0.9792716838756581,0.9792716838756581,large,-0.6026658203744844,0.6026658203744844,lower_in_high_tb_burden,lower_in_high_tb_burden
+"Vitamin A supply (retinol activity equivalents) - Roots, tubers, plantains and their products",0.34696048737974305,0.34696048737974305,small,0.3162488099016185,0.3162488099016185,higher_in_high_tb_burden,higher_in_high_tb_burden
+Vitamin A supply (retinol activity equivalents) - Vegetables and their products,-0.365519950257961,0.365519950257961,small,-0.327991113932085,0.327991113932085,lower_in_high_tb_burden,lower_in_high_tb_burden
+"Vitamin B12 supply - Fish, shellfish and their products",-0.14816596530812584,0.14816596530812584,negligible,-0.18010155506188508,0.18010155506188508,lower_in_high_tb_burden,lower_in_high_tb_burden
+"Vitamin B6 supply - Fish, shellfish and their products",-0.10168389846126268,0.10168389846126268,negligible,-0.1643922564265312,0.1643922564265312,lower_in_high_tb_burden,lower_in_high_tb_burden
+Vitamin C supply - Beverages,-0.4302178276347895,0.4302178276347895,small,-0.4076483655982228,0.4076483655982228,lower_in_high_tb_burden,lower_in_high_tb_burden
+Vitamin C supply - Fruits and their products,-0.15980838352564053,0.15980838352564053,negligible,-0.20390352269120915,0.20390352269120915,lower_in_high_tb_burden,lower_in_high_tb_burden
+Vitamin C supply - Milk and milk products,-0.6592695447203599,0.6592695447203599,medium,-0.45176134560456993,0.45176134560456993,lower_in_high_tb_burden,lower_in_high_tb_burden
+"Vitamin C supply - Roots, tubers, plantains and their products",0.41374501952104525,0.41374501952104525,small,0.1293240241193272,0.1293240241193272,higher_in_high_tb_burden,higher_in_high_tb_burden
+Vitamin C supply - Vegetables and their products,-0.607629164559746,0.607629164559746,medium,-0.4727070771183751,0.4727070771183751,lower_in_high_tb_burden,lower_in_high_tb_burden
+Zinc supply - Cereals and their products,0.14379911539606446,0.14379911539606446,negligible,0.10790225325293568,0.10790225325293568,higher_in_high_tb_burden,higher_in_high_tb_burden
+Zinc supply - Meat and meat products,-0.7354318421148528,0.7354318421148528,medium,-0.5325293557600761,0.5325293557600761,lower_in_high_tb_burden,lower_in_high_tb_burden
+Zinc supply - Milk and milk products,-1.0162576592650625,1.0162576592650625,large,-0.6317042208822596,0.6317042208822596,lower_in_high_tb_burden,lower_in_high_tb_burden
+"Zinc supply - Pulses, seeds and nuts and their products",0.09652620423842273,0.09652620423842273,negligible,-0.016978736908917824,0.016978736908917824,higher_in_high_tb_burden,lower_in_high_tb_burden
+"Zinc supply - Roots, tubers, plantains and their products",0.5420066749291297,0.5420066749291297,medium,0.2180260234846081,0.2180260234846081,higher_in_high_tb_burden,higher_in_high_tb_burden
+Expected Years of Schooling (years),-0.9821145725492344,0.9821145725492344,large,-0.5609330371310695,0.5609330371310695,lower_in_high_tb_burden,lower_in_high_tb_burden
+Gross National Income Per Capita (2017 PPP$),-1.0375979465485186,1.0375979465485186,large,-0.6705807680101554,0.6705807680101554,lower_in_high_tb_burden,lower_in_high_tb_burden
+HDI Rank,1.3981479242436121,1.3981479242436121,large,0.6967629324024118,0.6967629324024118,higher_in_high_tb_burden,higher_in_high_tb_burden
+Human Development Index (value),-1.346942609126588,1.346942609126588,large,-0.6967629324024119,0.6967629324024119,lower_in_high_tb_burden,lower_in_high_tb_burden
+Life Expectancy at Birth (years),-1.5716944486938484,1.5716944486938484,large,-0.7405585528403682,0.7405585528403682,lower_in_high_tb_burden,lower_in_high_tb_burden
+Mean Years of Schooling (years),-1.0055420686009933,1.0055420686009933,large,-0.5618851158362425,0.5618851158362425,lower_in_high_tb_burden,lower_in_high_tb_burden
+BCG_coverage_pct,-0.9879570406799136,0.9879570406799136,large,-0.48143446524912725,0.48143446524912725,lower_in_high_tb_burden,lower_in_high_tb_burden

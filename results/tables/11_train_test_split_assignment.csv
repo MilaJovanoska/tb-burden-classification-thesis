@@ -1,0 +1,184 @@
+original_index,split,Area,TB_incidence_2022,high_tb_burden,tb_burden_group
+0,Test set,Afghanistan,185.0,1,high_tb_burden
+1,Training set,Albania,15.0,0,non_high_tb_burden
+2,Test set,Algeria,51.0,0,non_high_tb_burden
+3,Training set,Angola,333.0,1,high_tb_burden
+4,Test set,Antigua and Barbuda,1.20000004768,0,non_high_tb_burden
+5,Training set,Argentina,29.0,0,non_high_tb_burden
+6,Training set,Armenia,25.0,0,non_high_tb_burden
+7,Training set,Australia,5.59999990463,0,non_high_tb_burden
+8,Training set,Austria,4.40000009537,0,non_high_tb_burden
+9,Training set,Azerbaijan,68.0,0,non_high_tb_burden
+10,Training set,Bahamas,13.0,0,non_high_tb_burden
+11,Training set,Bahrain,15.0,0,non_high_tb_burden
+12,Test set,Bangladesh,221.0,1,high_tb_burden
+13,Training set,Barbados,0.879999995232,0,non_high_tb_burden
+14,Training set,Belarus,28.0,0,non_high_tb_burden
+15,Training set,Belgium,7.80000019073,0,non_high_tb_burden
+16,Training set,Belize,27.0,0,non_high_tb_burden
+17,Test set,Benin,52.0,0,non_high_tb_burden
+18,Training set,Bhutan,164.0,1,high_tb_burden
+19,Training set,Bolivia (Plurinational State of),108.0,0,non_high_tb_burden
+20,Training set,Bosnia and Herzegovina,24.0,0,non_high_tb_burden
+21,Test set,Botswana,229.0,1,high_tb_burden
+22,Training set,Brazil,49.0,0,non_high_tb_burden
+23,Training set,Bulgaria,16.0,0,non_high_tb_burden
+24,Training set,Burkina Faso,44.0,0,non_high_tb_burden
+25,Test set,Burundi,97.0,0,non_high_tb_burden
+26,Test set,Cabo Verde,31.0,0,non_high_tb_burden
+27,Training set,Cambodia,320.0,1,high_tb_burden
+28,Training set,Cameroon,157.0,1,high_tb_burden
+29,Training set,Canada,5.69999980927,0,non_high_tb_burden
+30,Training set,Central African Republic,540.0,1,high_tb_burden
+31,Test set,Chad,140.0,0,non_high_tb_burden
+32,Training set,Chile,17.0,0,non_high_tb_burden
+33,Training set,China,52.0,0,non_high_tb_burden
+34,Training set,Colombia,47.0,0,non_high_tb_burden
+35,Training set,Comoros,35.0,0,non_high_tb_burden
+36,Training set,Congo,369.0,1,high_tb_burden
+37,Training set,Costa Rica,10.0,0,non_high_tb_burden
+38,Test set,Croatia,2.70000004768,0,non_high_tb_burden
+39,Training set,Cuba,6.59999990463,0,non_high_tb_burden
+40,Training set,Cyprus,8.30000019073,0,non_high_tb_burden
+41,Test set,Czechia,4.19999980927,0,non_high_tb_burden
+42,Training set,Côte d'Ivoire,123.0,0,non_high_tb_burden
+43,Training set,Democratic Republic of the Congo,317.0,1,high_tb_burden
+44,Training set,Denmark,4.0,0,non_high_tb_burden
+45,Training set,Djibouti,240.0,1,high_tb_burden
+46,Training set,Dominica,16.0,0,non_high_tb_burden
+47,Training set,Dominican Republic,43.0,0,non_high_tb_burden
+48,Test set,Ecuador,45.0,0,non_high_tb_burden
+49,Training set,Egypt,9.80000019073,0,non_high_tb_burden
+50,Training set,El Salvador,50.0,0,non_high_tb_burden
+51,Training set,Estonia,11.0,0,non_high_tb_burden
+52,Training set,Eswatini,325.0,1,high_tb_burden
+53,Training set,Ethiopia,126.0,0,non_high_tb_burden
+54,Training set,Fiji,66.0,0,non_high_tb_burden
+55,Training set,Finland,3.90000009537,0,non_high_tb_burden
+56,Training set,France,7.19999980927,0,non_high_tb_burden
+57,Training set,Gabon,509.0,1,high_tb_burden
+58,Training set,Gambia,145.0,0,non_high_tb_burden
+59,Training set,Georgia,60.0,0,non_high_tb_burden
+60,Training set,Germany,5.09999990463,0,non_high_tb_burden
+61,Training set,Ghana,133.0,0,non_high_tb_burden
+62,Training set,Greece,2.20000004768,0,non_high_tb_burden
+63,Training set,Grenada,3.09999990463,0,non_high_tb_burden
+64,Training set,Guatemala,26.0,0,non_high_tb_burden
+65,Test set,Guinea,175.0,1,high_tb_burden
+66,Training set,Guinea-Bissau,361.0,1,high_tb_burden
+67,Test set,Guyana,60.0,0,non_high_tb_burden
+68,Training set,Haiti,154.0,1,high_tb_burden
+69,Training set,Honduras,31.0,0,non_high_tb_burden
+70,Training set,Hungary,5.0,0,non_high_tb_burden
+71,Training set,Iceland,4.90000009537,0,non_high_tb_burden
+72,Training set,India,199.0,1,high_tb_burden
+73,Training set,Indonesia,385.0,1,high_tb_burden
+74,Training set,Iran (Islamic Republic of),11.0,0,non_high_tb_burden
+75,Training set,Iraq,23.0,0,non_high_tb_burden
+76,Training set,Ireland,4.5,0,non_high_tb_burden
+77,Test set,Israel,2.59999990463,0,non_high_tb_burden
+78,Training set,Italy,4.59999990463,0,non_high_tb_burden
+79,Training set,Jamaica,3.20000004768,0,non_high_tb_burden
+80,Training set,Japan,9.5,0,non_high_tb_burden
+81,Test set,Jordan,3.79999995232,0,non_high_tb_burden
+82,Training set,Kazakhstan,78.0,0,non_high_tb_burden
+83,Training set,Kenya,237.0,1,high_tb_burden
+84,Training set,Kiribati,431.0,1,high_tb_burden
+85,Training set,Kuwait,12.0,0,non_high_tb_burden
+86,Training set,Kyrgyzstan,130.0,0,non_high_tb_burden
+87,Training set,Lao People's Democratic Republic,138.0,0,non_high_tb_burden
+88,Training set,Latvia,19.0,0,non_high_tb_burden
+89,Training set,Lebanon,11.0,0,non_high_tb_burden
+90,Training set,Lesotho,661.0,1,high_tb_burden
+91,Training set,Liberia,308.0,1,high_tb_burden
+92,Training set,Libya,59.0,0,non_high_tb_burden
+93,Test set,Lithuania,30.0,0,non_high_tb_burden
+94,Training set,Luxembourg,8.30000019073,0,non_high_tb_burden
+95,Training set,Madagascar,233.0,1,high_tb_burden
+96,Training set,Malawi,125.0,0,non_high_tb_burden
+97,Test set,Malaysia,113.0,0,non_high_tb_burden
+98,Training set,Maldives,39.0,0,non_high_tb_burden
+99,Training set,Mali,49.0,0,non_high_tb_burden
+100,Training set,Malta,13.0,0,non_high_tb_burden
+101,Training set,Marshall Islands,483.0,1,high_tb_burden
+102,Training set,Mauritania,78.0,0,non_high_tb_burden
+103,Training set,Mauritius,12.0,0,non_high_tb_burden
+104,Training set,Mexico,28.0,0,non_high_tb_burden
+105,Training set,Micronesia (Federated States of),53.0,0,non_high_tb_burden
+106,Training set,Mongolia,452.0,1,high_tb_burden
+107,Training set,Montenegro,14.0,0,non_high_tb_burden
+108,Training set,Morocco,93.0,0,non_high_tb_burden
+109,Test set,Mozambique,361.0,1,high_tb_burden
+110,Test set,Myanmar,475.0,1,high_tb_burden
+111,Training set,Namibia,450.0,1,high_tb_burden
+112,Training set,Nauru,172.0,1,high_tb_burden
+113,Training set,Nepal,229.0,1,high_tb_burden
+114,Training set,Netherlands (Kingdom of the),4.09999990463,0,non_high_tb_burden
+115,Training set,New Zealand,5.90000009537,0,non_high_tb_burden
+116,Training set,Nicaragua,43.0,0,non_high_tb_burden
+117,Test set,Niger,77.0,0,non_high_tb_burden
+118,Training set,Nigeria,219.0,1,high_tb_burden
+119,Training set,North Macedonia,11.0,0,non_high_tb_burden
+120,Training set,Norway,3.29999995232,0,non_high_tb_burden
+121,Training set,Oman,9.30000019073,0,non_high_tb_burden
+122,Training set,Pakistan,258.0,1,high_tb_burden
+123,Training set,Panama,47.0,0,non_high_tb_burden
+124,Training set,Papua New Guinea,432.0,1,high_tb_burden
+125,Test set,Paraguay,46.0,0,non_high_tb_burden
+126,Training set,Peru,151.0,0,non_high_tb_burden
+127,Training set,Philippines,638.0,1,high_tb_burden
+128,Training set,Poland,12.0,0,non_high_tb_burden
+129,Training set,Portugal,16.0,0,non_high_tb_burden
+130,Training set,Qatar,37.0,0,non_high_tb_burden
+131,Training set,Republic of Korea,39.0,0,non_high_tb_burden
+132,Training set,Republic of Moldova,74.0,0,non_high_tb_burden
+133,Test set,Romania,52.0,0,non_high_tb_burden
+134,Training set,Russian Federation,39.0,0,non_high_tb_burden
+135,Training set,Rwanda,56.0,0,non_high_tb_burden
+136,Test set,Saint Kitts and Nevis,1.60000002384,0,non_high_tb_burden
+137,Test set,Saint Lucia,1.29999995232,0,non_high_tb_burden
+138,Training set,Saint Vincent and the Grenadines,11.0,0,non_high_tb_burden
+139,Training set,Samoa,4.69999980927,0,non_high_tb_burden
+140,Test set,Sao Tome and Principe,113.0,0,non_high_tb_burden
+141,Test set,Saudi Arabia,8.19999980927,0,non_high_tb_burden
+142,Training set,Senegal,112.0,0,non_high_tb_burden
+143,Training set,Serbia,14.0,0,non_high_tb_burden
+144,Training set,Seychelles,17.0,0,non_high_tb_burden
+145,Training set,Sierra Leone,286.0,1,high_tb_burden
+146,Training set,Slovakia,2.90000009537,0,non_high_tb_burden
+147,Training set,Slovenia,3.90000009537,0,non_high_tb_burden
+148,Training set,Solomon Islands,59.0,0,non_high_tb_burden
+149,Training set,Somalia,246.0,1,high_tb_burden
+150,Test set,South Africa,468.0,1,high_tb_burden
+151,Training set,South Sudan,227.0,1,high_tb_burden
+152,Training set,Spain,6.90000009537,0,non_high_tb_burden
+153,Training set,Sri Lanka,62.0,0,non_high_tb_burden
+154,Test set,Sudan,54.0,0,non_high_tb_burden
+155,Training set,Suriname,29.0,0,non_high_tb_burden
+156,Test set,Sweden,3.90000009537,0,non_high_tb_burden
+157,Training set,Switzerland,4.59999990463,0,non_high_tb_burden
+158,Training set,Syrian Arab Republic,17.0,0,non_high_tb_burden
+159,Test set,Tajikistan,78.0,0,non_high_tb_burden
+160,Test set,Thailand,155.0,1,high_tb_burden
+161,Training set,Timor-Leste,498.0,1,high_tb_burden
+162,Training set,Togo,32.0,0,non_high_tb_burden
+163,Training set,Tonga,2.20000004768,0,non_high_tb_burden
+164,Training set,Trinidad and Tobago,18.0,0,non_high_tb_burden
+165,Training set,Tunisia,37.0,0,non_high_tb_burden
+166,Test set,Turkmenistan,48.0,0,non_high_tb_burden
+167,Training set,Tuvalu,296.0,1,high_tb_burden
+168,Training set,Türkiye,14.0,0,non_high_tb_burden
+169,Training set,Uganda,198.0,1,high_tb_burden
+170,Test set,Ukraine,90.0,0,non_high_tb_burden
+171,Training set,United Arab Emirates,0.759999990463,0,non_high_tb_burden
+172,Training set,United Kingdom,7.59999990463,0,non_high_tb_burden
+173,Training set,United Republic of Tanzania,195.0,1,high_tb_burden
+174,Test set,United States of America,2.59999990463,0,non_high_tb_burden
+175,Training set,Uruguay,38.0,0,non_high_tb_burden
+176,Training set,Uzbekistan,83.0,0,non_high_tb_burden
+177,Training set,Vanuatu,30.0,0,non_high_tb_burden
+178,Training set,Venezuela (Bolivarian Republic of),46.0,0,non_high_tb_burden
+179,Training set,Viet Nam,176.0,1,high_tb_burden
+180,Test set,Yemen,48.0,0,non_high_tb_burden
+181,Test set,Zambia,295.0,1,high_tb_burden
+182,Training set,Zimbabwe,204.0,1,high_tb_burden

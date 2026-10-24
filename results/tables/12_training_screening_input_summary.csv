@@ -1,0 +1,11 @@
+item,value
+Training countries used for screening,146
+Predictors used for screening,46
+Index alignment check,Passed
+Leakage columns in screening predictors,0
+Missing values in screening predictors,0
+Infinite values in screening predictors,0
+Non-numeric screening predictors,0
+Constant screening predictors,0
+Target classes in screening data,2
+Minimum class count in screening data,37

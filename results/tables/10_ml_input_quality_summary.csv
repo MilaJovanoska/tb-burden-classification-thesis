@@ -1,0 +1,11 @@
+quality_check,value
+Number of countries,183
+Number of valid predictors,46
+Index alignment check,Passed
+Missing values in predictors,0
+Infinite values in predictors,0
+Missing values in target,0
+Non-numeric predictors,0
+Constant predictors,0
+Target classes,2
+Minimum class count,46

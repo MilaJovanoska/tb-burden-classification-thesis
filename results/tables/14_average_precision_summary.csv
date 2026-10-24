@@ -1,0 +1,6 @@
+Model,Average precision
+LogisticRegression_balanced,0.902064119455424
+SVM_rbf_balanced,0.824867724867725
+GradientBoosting,0.6930555555555555
+RandomForest_balanced,0.6394586894586896
+KNN_k5,0.5666666666666667

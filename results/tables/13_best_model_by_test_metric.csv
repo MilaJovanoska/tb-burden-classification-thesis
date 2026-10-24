@@ -1,0 +1,7 @@
+Metric,Best model,Best value
+Accuracy,KNN_k5,0.8108108108108109
+Balanced accuracy,LogisticRegression_balanced,0.8194444444444444
+Precision,RandomForest_balanced,0.6666666666666666
+Recall,LogisticRegression_balanced,0.8888888888888888
+F1-score,LogisticRegression_balanced,0.6666666666666666
+ROC-AUC,LogisticRegression_balanced,0.9325396825396826

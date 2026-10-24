@@ -1,0 +1,18 @@
+item,value
+Diagnostic step,Class-specific distribution diagnostics before statistical screening
+Data used,X_screening_train only
+Target variable used,Used only to split the training data into target classes
+Test set used,No
+Feature selection performed in this cell,No
+Number of predictors checked,46
+Non-high TB burden training samples,109
+High TB burden training samples,37
+High skewness threshold,1.0
+Very high skewness threshold,2.0
+Notable outlier-rate threshold percent,5.0
+Predictors with high class-specific skewness,38
+Predictors with very high class-specific skewness,26
+Predictors with notable class-specific outlier rate,32
+Maximum observed absolute class-specific skewness,5.504696065323205
+Maximum observed class-specific outlier rate percent,17.431192660550458
+Main interpretation,These diagnostics describe class-specific skewness and IQR-based outlier rates in the training set. They motivate the combined use of Welch's t-test and the Mann–Whitney U test but do not select predictors.

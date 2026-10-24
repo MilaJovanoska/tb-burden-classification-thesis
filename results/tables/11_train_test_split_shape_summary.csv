@@ -1,0 +1,4 @@
+dataset_part,number_of_countries,number_of_predictors,percentage_of_full_dataset
+Full dataset,183,46,100.0
+Training set,146,46,79.78
+Test set,37,46,20.22

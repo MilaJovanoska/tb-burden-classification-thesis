@@ -1,0 +1,8 @@
+item,value
+Predictors tested,46.0
+FDR alpha,0.05
+FDR-significant predictors,32.0
+Largest absolute rank-biserial correlation,0.8039
+Small effect threshold,0.1
+Medium effect threshold,0.3
+Large effect threshold,0.5

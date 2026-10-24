@@ -1,0 +1,184 @@
+Area,dataset_part,high_tb_burden,tb_burden_group
+Cyprus,train,0,non_high_tb_burden
+Brazil,train,0,non_high_tb_burden
+Central African Republic,train,1,high_tb_burden
+Denmark,train,0,non_high_tb_burden
+China,train,0,non_high_tb_burden
+New Zealand,train,0,non_high_tb_burden
+Cambodia,train,1,high_tb_burden
+Bulgaria,train,0,non_high_tb_burden
+Lebanon,train,0,non_high_tb_burden
+Mali,train,0,non_high_tb_burden
+Kyrgyzstan,train,0,non_high_tb_burden
+Ethiopia,train,0,non_high_tb_burden
+France,train,0,non_high_tb_burden
+Costa Rica,train,0,non_high_tb_burden
+Namibia,train,1,high_tb_burden
+Bolivia (Plurinational State of),train,0,non_high_tb_burden
+Angola,train,1,high_tb_burden
+Mauritius,train,0,non_high_tb_burden
+Peru,train,0,non_high_tb_burden
+Tuvalu,train,1,high_tb_burden
+United Kingdom,train,0,non_high_tb_burden
+Tunisia,train,0,non_high_tb_burden
+Lao People's Democratic Republic,train,0,non_high_tb_burden
+Russian Federation,train,0,non_high_tb_burden
+Bosnia and Herzegovina,train,0,non_high_tb_burden
+Latvia,train,0,non_high_tb_burden
+Colombia,train,0,non_high_tb_burden
+Azerbaijan,train,0,non_high_tb_burden
+Viet Nam,train,1,high_tb_burden
+Nauru,train,1,high_tb_burden
+Nigeria,train,1,high_tb_burden
+Armenia,train,0,non_high_tb_burden
+Honduras,train,0,non_high_tb_burden
+Italy,train,0,non_high_tb_burden
+Burkina Faso,train,0,non_high_tb_burden
+Barbados,train,0,non_high_tb_burden
+Micronesia (Federated States of),train,0,non_high_tb_burden
+Slovenia,train,0,non_high_tb_burden
+Norway,train,0,non_high_tb_burden
+Bahrain,train,0,non_high_tb_burden
+Grenada,train,0,non_high_tb_burden
+Solomon Islands,train,0,non_high_tb_burden
+India,train,1,high_tb_burden
+Haiti,train,1,high_tb_burden
+Sri Lanka,train,0,non_high_tb_burden
+Oman,train,0,non_high_tb_burden
+El Salvador,train,0,non_high_tb_burden
+Switzerland,train,0,non_high_tb_burden
+Slovakia,train,0,non_high_tb_burden
+Trinidad and Tobago,train,0,non_high_tb_burden
+Venezuela (Bolivarian Republic of),train,0,non_high_tb_burden
+North Macedonia,train,0,non_high_tb_burden
+Kuwait,train,0,non_high_tb_burden
+Argentina,train,0,non_high_tb_burden
+Republic of Moldova,train,0,non_high_tb_burden
+Estonia,train,0,non_high_tb_burden
+Uzbekistan,train,0,non_high_tb_burden
+Ghana,train,0,non_high_tb_burden
+Syrian Arab Republic,train,0,non_high_tb_burden
+Rwanda,train,0,non_high_tb_burden
+Tonga,train,0,non_high_tb_burden
+Nepal,train,1,high_tb_burden
+Uganda,train,1,high_tb_burden
+Nicaragua,train,0,non_high_tb_burden
+Libya,train,0,non_high_tb_burden
+Pakistan,train,1,high_tb_burden
+Türkiye,train,0,non_high_tb_burden
+Portugal,train,0,non_high_tb_burden
+Kazakhstan,train,0,non_high_tb_burden
+Chile,train,0,non_high_tb_burden
+Guatemala,train,0,non_high_tb_burden
+Serbia,train,0,non_high_tb_burden
+Canada,train,0,non_high_tb_burden
+Senegal,train,0,non_high_tb_burden
+Georgia,train,0,non_high_tb_burden
+Lesotho,train,1,high_tb_burden
+Papua New Guinea,train,1,high_tb_burden
+Japan,train,0,non_high_tb_burden
+Spain,train,0,non_high_tb_burden
+Madagascar,train,1,high_tb_burden
+Dominica,train,0,non_high_tb_burden
+Austria,train,0,non_high_tb_burden
+Egypt,train,0,non_high_tb_burden
+Australia,train,0,non_high_tb_burden
+Liberia,train,1,high_tb_burden
+Suriname,train,0,non_high_tb_burden
+Congo,train,1,high_tb_burden
+Iran (Islamic Republic of),train,0,non_high_tb_burden
+Somalia,train,1,high_tb_burden
+Bahamas,train,0,non_high_tb_burden
+Guinea-Bissau,train,1,high_tb_burden
+Democratic Republic of the Congo,train,1,high_tb_burden
+Poland,train,0,non_high_tb_burden
+Fiji,train,0,non_high_tb_burden
+Netherlands (Kingdom of the),train,0,non_high_tb_burden
+Luxembourg,train,0,non_high_tb_burden
+Iraq,train,0,non_high_tb_burden
+Vanuatu,train,0,non_high_tb_burden
+Montenegro,train,0,non_high_tb_burden
+Dominican Republic,train,0,non_high_tb_burden
+Albania,train,0,non_high_tb_burden
+Comoros,train,0,non_high_tb_burden
+Marshall Islands,train,1,high_tb_burden
+Finland,train,0,non_high_tb_burden
+Cuba,train,0,non_high_tb_burden
+Malta,train,0,non_high_tb_burden
+Maldives,train,0,non_high_tb_burden
+Greece,train,0,non_high_tb_burden
+Belarus,train,0,non_high_tb_burden
+United Arab Emirates,train,0,non_high_tb_burden
+Togo,train,0,non_high_tb_burden
+Republic of Korea,train,0,non_high_tb_burden
+Zimbabwe,train,1,high_tb_burden
+Uruguay,train,0,non_high_tb_burden
+Samoa,train,0,non_high_tb_burden
+Jamaica,train,0,non_high_tb_burden
+Gabon,train,1,high_tb_burden
+South Sudan,train,1,high_tb_burden
+Seychelles,train,0,non_high_tb_burden
+Germany,train,0,non_high_tb_burden
+Hungary,train,0,non_high_tb_burden
+Timor-Leste,train,1,high_tb_burden
+Saint Vincent and the Grenadines,train,0,non_high_tb_burden
+Mongolia,train,1,high_tb_burden
+Cameroon,train,1,high_tb_burden
+Belize,train,0,non_high_tb_burden
+Mexico,train,0,non_high_tb_burden
+Sierra Leone,train,1,high_tb_burden
+Panama,train,0,non_high_tb_burden
+Bhutan,train,1,high_tb_burden
+Djibouti,train,1,high_tb_burden
+Mauritania,train,0,non_high_tb_burden
+Gambia,train,0,non_high_tb_burden
+Malawi,train,0,non_high_tb_burden
+Kenya,train,1,high_tb_burden
+Eswatini,train,1,high_tb_burden
+Qatar,train,0,non_high_tb_burden
+Indonesia,train,1,high_tb_burden
+Côte d'Ivoire,train,0,non_high_tb_burden
+Iceland,train,0,non_high_tb_burden
+Morocco,train,0,non_high_tb_burden
+Kiribati,train,1,high_tb_burden
+Ireland,train,0,non_high_tb_burden
+Belgium,train,0,non_high_tb_burden
+United Republic of Tanzania,train,1,high_tb_burden
+Philippines,train,1,high_tb_burden
+Benin,test,0,non_high_tb_burden
+United States of America,test,0,non_high_tb_burden
+Guyana,test,0,non_high_tb_burden
+Yemen,test,0,non_high_tb_burden
+Algeria,test,0,non_high_tb_burden
+Botswana,test,1,high_tb_burden
+Bangladesh,test,1,high_tb_burden
+Croatia,test,0,non_high_tb_burden
+Sao Tome and Principe,test,0,non_high_tb_burden
+Malaysia,test,0,non_high_tb_burden
+Niger,test,0,non_high_tb_burden
+Guinea,test,1,high_tb_burden
+Myanmar,test,1,high_tb_burden
+Antigua and Barbuda,test,0,non_high_tb_burden
+Saudi Arabia,test,0,non_high_tb_burden
+Zambia,test,1,high_tb_burden
+Turkmenistan,test,0,non_high_tb_burden
+Lithuania,test,0,non_high_tb_burden
+Ecuador,test,0,non_high_tb_burden
+Chad,test,0,non_high_tb_burden
+Cabo Verde,test,0,non_high_tb_burden
+Burundi,test,0,non_high_tb_burden
+Sudan,test,0,non_high_tb_burden
+Israel,test,0,non_high_tb_burden
+Jordan,test,0,non_high_tb_burden
+Ukraine,test,0,non_high_tb_burden
+Romania,test,0,non_high_tb_burden
+Sweden,test,0,non_high_tb_burden
+Mozambique,test,1,high_tb_burden
+Saint Lucia,test,0,non_high_tb_burden
+Saint Kitts and Nevis,test,0,non_high_tb_burden
+Czechia,test,0,non_high_tb_burden
+Thailand,test,1,high_tb_burden
+Tajikistan,test,0,non_high_tb_burden
+Afghanistan,test,1,high_tb_burden
+South Africa,test,1,high_tb_burden
+Paraguay,test,0,non_high_tb_burden

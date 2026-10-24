@@ -1,0 +1,19 @@
+
+Day 2 Statistical Analysis Summary
+
+Number of statistical predictors tested: 46
+
+Raw p-value results:
+- Welch t-test raw p < 0.05: 27
+- Mann-Whitney U raw p < 0.05: 31
+
+After Benjamini-Hochberg FDR correction:
+- Welch t-test significant predictors: 25
+- Mann-Whitney U significant predictors: 27
+- Predictors significant in both tests: 22
+
+Effect-size interpretation:
+- Predictors with core statistical signal and large effect: 16
+
+Important methodological note:
+These statistical tests were used to compare predictors between the operational high-TB-burden and non-high-TB-burden groups. The results support interpretation and comparison with Machine Learning feature importance, but they are not used as an automatic feature-selection mechanism for the main predictive model.
