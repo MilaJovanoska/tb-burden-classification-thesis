@@ -1,0 +1,12 @@
+# Inferred from notebook imports and spreadsheet exports.
+# Original versions were not supplied; this is not a locked environment.
+numpy
+pandas
+scipy
+matplotlib
+seaborn
+scikit-learn
+statsmodels
+openpyxl
+jupyterlab
+ipykernel
