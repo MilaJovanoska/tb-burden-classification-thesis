@@ -1,5 +1,7 @@
 # Thesis documents
 
+[Read the final dissertation (PDF)](Dissertation_Mila_Jovanoska.pdf). The PDF was supplied by the author and is published without modification.
+
 The authoritative document for this repository is [Дипломска работа-Мила Јованоска 221034.docx](<Дипломска работа-Мила Јованоска 221034.docx>), supplied separately by the author as the final version.
 
 **Original title:** Статистички поддржана и интерпретабилна класификација на земји според товарот од туберкулоза
@@ -14,4 +16,4 @@ The authoritative document for this repository is [Дипломска работ
 
 The file in `archive/` is the earlier document included in the project ZIP. It is retained for completeness and should not be cited as the final thesis. Neither Word document has been edited or converted during repository preparation.
 
-A layout-checked PDF exported from the final Word document would be a useful additional reading format; no PDF is supplied here.
+The PDF provides a convenient reading format; the Word document remains available as supplied.
