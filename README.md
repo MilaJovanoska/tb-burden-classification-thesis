@@ -12,7 +12,8 @@ The study uses **183 countries**, a TB-incidence reference year of **2022**, and
 
 ## Start here
 
-- [Read the final thesis (Word)](<thesis/Дипломска работа-Мила Јованоска 221034.docx>) — the authoritative thesis document supplied for publication.
+- [Read the final thesis (PDF)](thesis/Dissertation_Mila_Jovanoska.pdf) — the reading version.
+- [Download the final thesis (Word)](<thesis/Дипломска работа-Мила Јованоска 221034.docx>) — the authoritative thesis document supplied for publication.
 - [Explore the analysis notebook](notebooks/TB_Burden_Classification_Thesis.ipynb) — Python code with saved outputs.
 - [Understand the datasets](data/README.md) — file roles, target definition, and source information.
 - [Navigate the results](docs/results-guide.md) — thesis-aligned outputs and the distinction between different model configurations.
@@ -82,6 +83,7 @@ tb-burden-classification-thesis/
 │   └── tables/                   # All supplied tables and model summaries
 ├── thesis/
 │   ├── README.md
+│   ├── Dissertation_Mila_Jovanoska.pdf
 │   ├── Дипломска работа-Мила Јованоска 221034.docx
 │   └── archive/                  # Earlier Word document from the ZIP
 └── docs/
@@ -89,7 +91,7 @@ tb-burden-classification-thesis/
     └── original-files-manifest.json
 ```
 
-All 513 files from the supplied project archive are preserved, together with the separately supplied final thesis. Original file contents are unchanged. CSV/XLSX and PNG/PDF alternatives are retained so readers can work with either data-oriented or presentation-oriented formats.
+All 513 files from the supplied project archive are preserved, together with the separately supplied final thesis in Word and PDF formats. Original file contents are unchanged. CSV/XLSX and PNG/PDF alternatives are retained so readers can work with either data-oriented or presentation-oriented formats.
 
 ## Running the notebook
 
